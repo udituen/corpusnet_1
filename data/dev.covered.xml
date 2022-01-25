@@ -1,0 +1,6259 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<corpus lang="en" source="senseval2">
+<text id="d000">
+<sentence id="d000.s000">
+<wf>The</wf>
+<instance id="d000.s000.t000">art</instance>
+<wf>of</wf>
+<instance id="d000.s000.t001">change-ringing</instance>
+<wf>is</wf>
+<instance id="d000.s000.t002">peculiar</instance>
+<wf>to</wf>
+<wf>the</wf>
+<instance id="d000.s000.t003">English</instance>
+<wf>,</wf>
+<wf>and</wf>
+<wf>,</wf>
+<wf>like</wf>
+<instance id="d000.s000.t004">most</instance>
+<instance id="d000.s000.t005">English</instance>
+<instance id="d000.s000.t006">peculiarities</instance>
+<wf>,</wf>
+<instance id="d000.s000.t007">unintelligible</instance>
+<wf>to</wf>
+<wf>the</wf>
+<instance id="d000.s000.t008">rest</instance>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d000.s000.t009">world</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s001">
+<wf>Dorothy</wf>
+<wf>L.</wf>
+<wf>Sayers</wf>
+<wf>,</wf>
+<wf>``</wf>
+<wf>The</wf>
+<wf>Nine</wf>
+<instance id="d000.s001.t000">Tailors</instance>
+<wf>``</wf>
+</sentence>
+<sentence id="d000.s002">
+<wf>ASLACTON</wf>
+<wf>,</wf>
+<instance id="d000.s002.t000">England</instance>
+<wf>--</wf>
+</sentence>
+<sentence id="d000.s003">
+<wf>Of</wf>
+<wf>all</wf>
+<instance id="d000.s003.t000">scenes</instance>
+<wf>that</wf>
+<instance id="d000.s003.t001">evoke</instance>
+<instance id="d000.s003.t002">rural</instance>
+<instance id="d000.s003.t003">England</instance>
+<wf>,</wf>
+<wf>this</wf>
+<wf>is</wf>
+<wf>one</wf>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d000.s003.t004">loveliest</instance>
+<wf>:</wf>
+<wf>An</wf>
+<instance id="d000.s003.t005">ancient</instance>
+<instance id="d000.s003.t006">stone</instance>
+<instance id="d000.s003.t007">church</instance>
+<instance id="d000.s003.t008">stands</instance>
+<wf>amid</wf>
+<wf>the</wf>
+<instance id="d000.s003.t009">fields</instance>
+<wf>,</wf>
+<wf>the</wf>
+<instance id="d000.s003.t010">sound</instance>
+<wf>of</wf>
+<instance id="d000.s003.t011">bells</instance>
+<instance id="d000.s003.t012">cascading</instance>
+<wf>from</wf>
+<wf>its</wf>
+<instance id="d000.s003.t013">tower</instance>
+<wf>,</wf>
+<instance id="d000.s003.t014">calling</instance>
+<wf>the</wf>
+<instance id="d000.s003.t015">faithful</instance>
+<wf>to</wf>
+<instance id="d000.s003.t016">evensong</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s004">
+<wf>The</wf>
+<instance id="d000.s004.t000">parishioners</instance>
+<wf>of</wf>
+<wf>St.</wf>
+<wf>Michael</wf>
+<wf>and</wf>
+<wf>All</wf>
+<wf>Angels</wf>
+<instance id="d000.s004.t001">stop</instance>
+<wf>to</wf>
+<instance id="d000.s004.t002">chat</instance>
+<wf>at</wf>
+<wf>the</wf>
+<instance id="d000.s004.t003">church</instance>
+<instance id="d000.s004.t004">door</instance>
+<wf>,</wf>
+<wf>as</wf>
+<instance id="d000.s004.t005">members</instance>
+<instance id="d000.s004.t006">here</instance>
+<instance id="d000.s004.t007">always</instance>
+<wf>have</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s005">
+<wf>In</wf>
+<wf>the</wf>
+<instance id="d000.s005.t000">tower</instance>
+<wf>,</wf>
+<wf>five</wf>
+<instance id="d000.s005.t001">men</instance>
+<wf>and</wf>
+<instance id="d000.s005.t002">women</instance>
+<instance id="d000.s005.t003">pull</instance>
+<instance id="d000.s005.t004">rhythmically</instance>
+<wf>on</wf>
+<instance id="d000.s005.t005">ropes</instance>
+<instance id="d000.s005.t006">attached</instance>
+<wf>to</wf>
+<wf>the</wf>
+<instance id="d000.s005.t007">same</instance>
+<wf>five</wf>
+<instance id="d000.s005.t008">bells</instance>
+<wf>that</wf>
+<instance id="d000.s005.t009">first</instance>
+<instance id="d000.s005.t010">sounded</instance>
+<instance id="d000.s005.t011">here</instance>
+<wf>in</wf>
+<wf>1614</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s006">
+<wf>But</wf>
+<wf>there</wf>
+<wf>is</wf>
+<instance id="d000.s006.t000">also</instance>
+<wf>a</wf>
+<instance id="d000.s006.t001">discordant</instance>
+<wf>,</wf>
+<instance id="d000.s006.t002">modern</instance>
+<instance id="d000.s006.t003">note</instance>
+<wf>in</wf>
+<wf>Aslacton</wf>
+<wf>,</wf>
+<wf>though</wf>
+<wf>it</wf>
+<wf>can</wf>
+<wf>not</wf>
+<wf>be</wf>
+<wf>heard</wf>
+<wf>by</wf>
+<wf>the</wf>
+<instance id="d000.s006.t004">church-goers</instance>
+<instance id="d000.s006.t005">enjoying</instance>
+<wf>the</wf>
+<instance id="d000.s006.t006">peal</instance>
+<wf>of</wf>
+<instance id="d000.s006.t007">bells</instance>
+<wf>this</wf>
+<instance id="d000.s006.t008">cool</instance>
+<instance id="d000.s006.t009">autumn</instance>
+<instance id="d000.s006.t010">evening</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s007">
+<wf>Like</wf>
+<instance id="d000.s007.t000">most</instance>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d000.s007.t001">other</instance>
+<wf>6,000</wf>
+<instance id="d000.s007.t002">churches</instance>
+<wf>in</wf>
+<instance id="d000.s007.t003">Britain</instance>
+<wf>with</wf>
+<instance id="d000.s007.t004">sets</instance>
+<wf>of</wf>
+<instance id="d000.s007.t005">bells</instance>
+<wf>,</wf>
+<wf>St.</wf>
+<wf>Michael</wf>
+<instance id="d000.s007.t006">once</instance>
+<wf>had</wf>
+<wf>its</wf>
+<instance id="d000.s007.t007">own</instance>
+<wf>``</wf>
+<instance id="d000.s007.t008">band</instance>
+<wf>``</wf>
+<wf>of</wf>
+<instance id="d000.s007.t009">ringers</instance>
+<wf>,</wf>
+<wf>who</wf>
+<wf>would</wf>
+<instance id="d000.s007.t010">herald</instance>
+<wf>every</wf>
+<instance id="d000.s007.t011">Sunday</instance>
+<instance id="d000.s007.t012">morning</instance>
+<wf>and</wf>
+<instance id="d000.s007.t013">evening</instance>
+<instance id="d000.s007.t014">service</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s008">
+<instance id="d000.s008.t000">Now</instance>
+<wf>,</wf>
+<instance id="d000.s008.t001">only</instance>
+<wf>one</wf>
+<instance id="d000.s008.t002">local</instance>
+<instance id="d000.s008.t003">ringer</instance>
+<instance id="d000.s008.t004">remains</instance>
+<wf>:</wf>
+<wf>64-year-old</wf>
+<wf>Derek</wf>
+<wf>Hammond</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s009">
+<wf>The</wf>
+<wf>others</wf>
+<instance id="d000.s009.t000">here</instance>
+<instance id="d000.s009.t001">today</instance>
+<instance id="d000.s009.t002">live</instance>
+<instance id="d000.s009.t003">elsewhere</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s010">
+<wf>They</wf>
+<instance id="d000.s010.t000">belong to</instance>
+<wf>a</wf>
+<instance id="d000.s010.t001">group</instance>
+<wf>of</wf>
+<wf>15</wf>
+<instance id="d000.s010.t002">ringers</instance>
+<wf>--</wf>
+<instance id="d000.s010.t003">including</instance>
+<wf>two</wf>
+<instance id="d000.s010.t004">octogenarians</instance>
+<wf>and</wf>
+<wf>four</wf>
+<instance id="d000.s010.t005">youngsters</instance>
+<wf>in</wf>
+<instance id="d000.s010.t006">training</instance>
+<wf>--</wf>
+<wf>who</wf>
+<instance id="d000.s010.t007">drive</instance>
+<wf>every</wf>
+<instance id="d000.s010.t008">Sunday</instance>
+<wf>from</wf>
+<instance id="d000.s010.t009">church</instance>
+<wf>to</wf>
+<instance id="d000.s010.t010">church</instance>
+<wf>in</wf>
+<wf>a</wf>
+<wf>sometimes-exhausting</wf>
+<instance id="d000.s010.t011">effort</instance>
+<wf>to</wf>
+<instance id="d000.s010.t012">keep</instance>
+<wf>the</wf>
+<instance id="d000.s010.t013">bells</instance>
+<instance id="d000.s010.t014">sounding</instance>
+<wf>in</wf>
+<wf>the</wf>
+<instance id="d000.s010.t015">many</instance>
+<instance id="d000.s010.t016">belfries</instance>
+<wf>of</wf>
+<wf>East</wf>
+<wf>Anglia</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s011">
+<wf>``</wf>
+<wf>To</wf>
+<wf>ring</wf>
+<wf>for</wf>
+<instance id="d000.s011.t000">even</instance>
+<wf>one</wf>
+<instance id="d000.s011.t001">service</instance>
+<wf>at</wf>
+<wf>this</wf>
+<instance id="d000.s011.t002">tower</instance>
+<wf>,</wf>
+<wf>we</wf>
+<wf>have</wf>
+<wf>to</wf>
+<instance id="d000.s011.t003">scrape</instance>
+<wf>,</wf>
+<wf>``</wf>
+<instance id="d000.s011.t004">says</instance>
+<wf>Mr.</wf>
+<wf>Hammond</wf>
+<wf>,</wf>
+<wf>a</wf>
+<instance id="d000.s011.t005">retired</instance>
+<wf>water-authority</wf>
+<instance id="d000.s011.t006">worker</instance>
+<wf>.</wf>
+<wf>``</wf>
+</sentence>
+<sentence id="d000.s012">
+<wf>We</wf>
+<wf>&apos;ve</wf>
+<instance id="d000.s012.t000">tried</instance>
+<wf>to</wf>
+<instance id="d000.s012.t001">train</instance>
+<wf>the</wf>
+<instance id="d000.s012.t002">youngsters</instance>
+<wf>,</wf>
+<wf>but</wf>
+<wf>they</wf>
+<wf>have</wf>
+<wf>their</wf>
+<instance id="d000.s012.t003">discos</instance>
+<wf>and</wf>
+<wf>their</wf>
+<instance id="d000.s012.t004">dances</instance>
+<wf>,</wf>
+<wf>and</wf>
+<wf>they</wf>
+<instance id="d000.s012.t005">just</instance>
+<instance id="d000.s012.t006">drift</instance>
+<instance id="d000.s012.t007">away</instance>
+<wf>.</wf>
+<wf>``</wf>
+</sentence>
+<sentence id="d000.s013">
+<wf>Mr.</wf>
+<wf>Hammond</wf>
+<instance id="d000.s013.t000">worries</instance>
+<wf>that</wf>
+<instance id="d000.s013.t001">old age</instance>
+<wf>and</wf>
+<wf>the</wf>
+<instance id="d000.s013.t002">flightiness</instance>
+<wf>of</wf>
+<instance id="d000.s013.t003">youth</instance>
+<wf>will</wf>
+<instance id="d000.s013.t004">diminish</instance>
+<wf>the</wf>
+<instance id="d000.s013.t005">ranks</instance>
+<wf>of</wf>
+<wf>the</wf>
+<wf>East</wf>
+<wf>Anglian</wf>
+<instance id="d000.s013.t006">group</instance>
+<wf>that</wf>
+<instance id="d000.s013.t007">keeps</instance>
+<wf>the</wf>
+<wf>Aslacton</wf>
+<instance id="d000.s013.t008">bells</instance>
+<instance id="d000.s013.t009">pealing</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s014">
+<instance id="d000.s014.t000">History</instance>
+<wf>,</wf>
+<wf>after</wf>
+<wf>all</wf>
+<wf>,</wf>
+<wf>is</wf>
+<wf>not</wf>
+<wf>on</wf>
+<wf>his</wf>
+<instance id="d000.s014.t001">side</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s015">
+<wf>According</wf>
+<wf>to</wf>
+<wf>a</wf>
+<instance id="d000.s015.t000">nationwide</instance>
+<instance id="d000.s015.t001">survey</instance>
+<instance id="d000.s015.t002">taken</instance>
+<wf>a</wf>
+<instance id="d000.s015.t003">year</instance>
+<instance id="d000.s015.t004">ago</instance>
+<wf>,</wf>
+<instance id="d000.s015.t005">nearly</instance>
+<wf>a</wf>
+<wf>third</wf>
+<wf>of</wf>
+<instance id="d000.s015.t006">England</instance>
+<wf>&apos;s</wf>
+<instance id="d000.s015.t007">church</instance>
+<instance id="d000.s015.t008">bells</instance>
+<wf>are</wf>
+<instance id="d000.s015.t009">no</instance>
+<instance id="d000.s015.t010">longer</instance>
+<instance id="d000.s015.t011">rung</instance>
+<wf>on</wf>
+<instance id="d000.s015.t012">Sundays</instance>
+<wf>because</wf>
+<wf>there</wf>
+<wf>is</wf>
+<wf>no</wf>
+<wf>one</wf>
+<wf>to</wf>
+<instance id="d000.s015.t013">ring</instance>
+<wf>them</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s016">
+<wf>It</wf>
+<wf>is</wf>
+<instance id="d000.s016.t000">easy</instance>
+<wf>to</wf>
+<instance id="d000.s016.t001">see</instance>
+<wf>why</wf>
+<wf>the</wf>
+<instance id="d000.s016.t002">ancient</instance>
+<instance id="d000.s016.t003">art</instance>
+<wf>is</wf>
+<wf>on</wf>
+<wf>the</wf>
+<wf>ropes</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s017">
+<wf>The</wf>
+<instance id="d000.s017.t000">less</instance>
+<instance id="d000.s017.t001">complicated</instance>
+<instance id="d000.s017.t002">version</instance>
+<wf>of</wf>
+<instance id="d000.s017.t003">playing</instance>
+<instance id="d000.s017.t004">tunes</instance>
+<wf>on</wf>
+<instance id="d000.s017.t005">bells</instance>
+<wf>,</wf>
+<wf>as</wf>
+<wf>do</wf>
+<wf>the</wf>
+<instance id="d000.s017.t006">carillons</instance>
+<wf>of</wf>
+<instance id="d000.s017.t007">continental</instance>
+<instance id="d000.s017.t008">Europe</instance>
+<wf>,</wf>
+<wf>is</wf>
+<instance id="d000.s017.t009">considered</instance>
+<wf>by</wf>
+<wf>the</wf>
+<instance id="d000.s017.t010">English</instance>
+<wf>to</wf>
+<wf>be</wf>
+<instance id="d000.s017.t011">childish</instance>
+<wf>,</wf>
+<instance id="d000.s017.t012">fit</instance>
+<instance id="d000.s017.t013">only</instance>
+<wf>for</wf>
+<instance id="d000.s017.t014">foreigners</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s018">
+<instance id="d000.s018.t000">Change-ringing</instance>
+<wf>,</wf>
+<wf>a</wf>
+<instance id="d000.s018.t001">mind-boggling</instance>
+<wf>exercise</wf>
+<wf>the</wf>
+<instance id="d000.s018.t002">English</instance>
+<instance id="d000.s018.t003">invented</instance>
+<wf>380</wf>
+<instance id="d000.s018.t004">years</instance>
+<instance id="d000.s018.t005">ago</instance>
+<wf>,</wf>
+<instance id="d000.s018.t006">requires</instance>
+<instance id="d000.s018.t007">physical</instance>
+<instance id="d000.s018.t008">dexterity</instance>
+<wf>--</wf>
+<wf>some</wf>
+<instance id="d000.s018.t009">bells</instance>
+<instance id="d000.s018.t010">weigh</instance>
+<instance id="d000.s018.t011">more</instance>
+<wf>than</wf>
+<wf>a</wf>
+<instance id="d000.s018.t012">ton</instance>
+<wf>--</wf>
+<instance id="d000.s018.t013">combined</instance>
+<wf>with</wf>
+<instance id="d000.s018.t014">intense</instance>
+<instance id="d000.s018.t015">mental</instance>
+<instance id="d000.s018.t016">concentration</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s019">
+<wf>Proper</wf>
+<instance id="d000.s019.t000">English</instance>
+<instance id="d000.s019.t001">bells</instance>
+<wf>are</wf>
+<instance id="d000.s019.t002">started</instance>
+<wf>off</wf>
+<wf>in</wf>
+<wf>``</wf>
+<instance id="d000.s019.t003">rounds</instance>
+<wf>,</wf>
+<wf>``</wf>
+<wf>from</wf>
+<wf>the</wf>
+<instance id="d000.s019.t004">highest-pitched</instance>
+<instance id="d000.s019.t005">bell</instance>
+<wf>to</wf>
+<wf>the</wf>
+<instance id="d000.s019.t006">lowest</instance>
+<wf>--</wf>
+<wf>a</wf>
+<instance id="d000.s019.t007">simple</instance>
+<instance id="d000.s019.t008">descending</instance>
+<instance id="d000.s019.t009">scale</instance>
+<instance id="d000.s019.t010">using</instance>
+<wf>,</wf>
+<wf>in</wf>
+<instance id="d000.s019.t011">larger</instance>
+<instance id="d000.s019.t012">churches</instance>
+<wf>,</wf>
+<wf>as</wf>
+<instance id="d000.s019.t013">many</instance>
+<wf>as</wf>
+<wf>12</wf>
+<instance id="d000.s019.t014">bells</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s020">
+<instance id="d000.s020.t000">Then</instance>
+<wf>,</wf>
+<wf>at</wf>
+<wf>a</wf>
+<instance id="d000.s020.t001">signal</instance>
+<wf>,</wf>
+<wf>the</wf>
+<instance id="d000.s020.t002">ringers</instance>
+<instance id="d000.s020.t003">begin</instance>
+<instance id="d000.s020.t004">varying</instance>
+<wf>the</wf>
+<instance id="d000.s020.t005">order</instance>
+<wf>in</wf>
+<wf>which</wf>
+<wf>the</wf>
+<instance id="d000.s020.t006">bells</instance>
+<instance id="d000.s020.t007">sound</instance>
+<wf>without</wf>
+<instance id="d000.s020.t008">altering</instance>
+<wf>the</wf>
+<instance id="d000.s020.t009">steady</instance>
+<instance id="d000.s020.t010">rhythm</instance>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d000.s020.t011">striking</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s021">
+<wf>Each</wf>
+<instance id="d000.s021.t000">variation</instance>
+<wf>,</wf>
+<wf>or</wf>
+<instance id="d000.s021.t001">change</instance>
+<wf>,</wf>
+<wf>can</wf>
+<instance id="d000.s021.t002">occur</instance>
+<instance id="d000.s021.t003">only</instance>
+<instance id="d000.s021.t004">once</instance>
+<wf>,</wf>
+<wf>the</wf>
+<instance id="d000.s021.t005">rules</instance>
+<instance id="d000.s021.t006">state</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s022">
+<instance id="d000.s022.t000">Ringers</instance>
+<instance id="d000.s022.t001">memorize</instance>
+<instance id="d000.s022.t002">patterns</instance>
+<wf>of</wf>
+<instance id="d000.s022.t003">changes</instance>
+<wf>,</wf>
+<instance id="d000.s022.t004">known</instance>
+<wf>as</wf>
+<wf>``</wf>
+<instance id="d000.s022.t005">methods</instance>
+<wf>,</wf>
+<wf>``</wf>
+<wf>which</wf>
+<wf>have</wf>
+<wf>odd-sounding</wf>
+<instance id="d000.s022.t006">names</instance>
+<wf>like</wf>
+<wf>Kent</wf>
+<wf>Treble</wf>
+<wf>Bob</wf>
+<wf>Major</wf>
+<wf>or</wf>
+<wf>Grandsire</wf>
+<wf>Caters</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s023">
+<wf>A</wf>
+<instance id="d000.s023.t000">series</instance>
+<wf>of</wf>
+<wf>5,000</wf>
+<wf>or</wf>
+<instance id="d000.s023.t001">so</instance>
+<instance id="d000.s023.t002">changes</instance>
+<wf>is</wf>
+<wf>a</wf>
+<wf>``</wf>
+<wf>peal</wf>
+<wf>``</wf>
+<wf>and</wf>
+<instance id="d000.s023.t003">takes</instance>
+<instance id="d000.s023.t004">about</instance>
+<wf>three</wf>
+<instance id="d000.s023.t005">hours</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s024">
+<wf>A</wf>
+<instance id="d000.s024.t000">look</instance>
+<wf>at</wf>
+<wf>a</wf>
+<instance id="d000.s024.t001">Thursday</instance>
+<instance id="d000.s024.t002">night</instance>
+<instance id="d000.s024.t003">practice</instance>
+<wf>at</wf>
+<wf>St.</wf>
+<wf>Mary</wf>
+<wf>Abbot</wf>
+<instance id="d000.s024.t004">church</instance>
+<wf>in</wf>
+<wf>the</wf>
+<wf>Kensington</wf>
+<instance id="d000.s024.t005">district</instance>
+<wf>of</wf>
+<wf>London</wf>
+<instance id="d000.s024.t006">gives</instance>
+<wf>an</wf>
+<instance id="d000.s024.t007">idea</instance>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d000.s024.t008">work</instance>
+<instance id="d000.s024.t009">involved</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s025">
+<wf>Ten</wf>
+<wf>shirt-sleeved</wf>
+<instance id="d000.s025.t000">ringers</instance>
+<instance id="d000.s025.t001">stand</instance>
+<wf>in</wf>
+<wf>a</wf>
+<instance id="d000.s025.t002">circle</instance>
+<wf>,</wf>
+<wf>one</wf>
+<instance id="d000.s025.t003">foot</instance>
+<instance id="d000.s025.t004">ahead</instance>
+<wf>of</wf>
+<wf>the</wf>
+<wf>other</wf>
+<wf>in</wf>
+<wf>a</wf>
+<instance id="d000.s025.t005">prize-fighter</instance>
+<wf>&apos;s</wf>
+<instance id="d000.s025.t006">stance</instance>
+<wf>,</wf>
+<wf>each</wf>
+<instance id="d000.s025.t007">pulling</instance>
+<wf>a</wf>
+<instance id="d000.s025.t008">rope</instance>
+<wf>that</wf>
+<wf>disappears</wf>
+<wf>through</wf>
+<wf>a</wf>
+<instance id="d000.s025.t009">small</instance>
+<instance id="d000.s025.t010">hole</instance>
+<wf>in</wf>
+<wf>the</wf>
+<instance id="d000.s025.t011">high</instance>
+<instance id="d000.s025.t012">ceiling</instance>
+<wf>of</wf>
+<wf>the</wf>
+<wf>ringing</wf>
+<instance id="d000.s025.t013">chamber</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s026">
+<wf>No</wf>
+<wf>one</wf>
+<instance id="d000.s026.t000">speaks</instance>
+<wf>,</wf>
+<wf>and</wf>
+<wf>the</wf>
+<instance id="d000.s026.t001">snaking</instance>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d000.s026.t002">ropes</instance>
+<instance id="d000.s026.t003">seems</instance>
+<wf>to</wf>
+<instance id="d000.s026.t004">make</instance>
+<wf>as</wf>
+<instance id="d000.s026.t005">much</instance>
+<instance id="d000.s026.t006">sound</instance>
+<wf>as</wf>
+<wf>the</wf>
+<instance id="d000.s026.t007">bells</instance>
+<wf>themselves</wf>
+<wf>,</wf>
+<instance id="d000.s026.t008">muffled</instance>
+<wf>by</wf>
+<wf>the</wf>
+<instance id="d000.s026.t009">ceiling</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s027">
+<instance id="d000.s027.t000">Totally</instance>
+<instance id="d000.s027.t001">absorbed</instance>
+<wf>,</wf>
+<wf>the</wf>
+<instance id="d000.s027.t002">ringers</instance>
+<instance id="d000.s027.t003">stare</instance>
+<instance id="d000.s027.t004">straight</instance>
+<instance id="d000.s027.t005">ahead</instance>
+<wf>,</wf>
+<instance id="d000.s027.t006">using</instance>
+<instance id="d000.s027.t007">peripheral vision</instance>
+<wf>(</wf>
+<wf>they</wf>
+<instance id="d000.s027.t008">call</instance>
+<wf>it</wf>
+<wf>``</wf>
+<wf>rope-sight</wf>
+<wf>``</wf>
+<wf>)</wf>
+<wf>to</wf>
+<instance id="d000.s027.t009">watch</instance>
+<wf>the</wf>
+<instance id="d000.s027.t010">other</instance>
+<instance id="d000.s027.t011">ropes</instance>
+<wf>and</wf>
+<instance id="d000.s027.t012">thus</instance>
+<instance id="d000.s027.t013">time</instance>
+<wf>their</wf>
+<instance id="d000.s027.t014">pulls</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s028">
+<instance id="d000.s028.t000">Far</instance>
+<instance id="d000.s028.t001">above</instance>
+<wf>in</wf>
+<wf>the</wf>
+<instance id="d000.s028.t002">belfry</instance>
+<wf>,</wf>
+<wf>the</wf>
+<instance id="d000.s028.t003">huge</instance>
+<instance id="d000.s028.t004">bronze</instance>
+<instance id="d000.s028.t005">bells</instance>
+<wf>,</wf>
+<instance id="d000.s028.t006">mounted</instance>
+<wf>on</wf>
+<instance id="d000.s028.t007">wheels</instance>
+<wf>,</wf>
+<instance id="d000.s028.t008">swing</instance>
+<instance id="d000.s028.t009">madly</instance>
+<wf>through</wf>
+<wf>a</wf>
+<instance id="d000.s028.t010">full</instance>
+<wf>360</wf>
+<instance id="d000.s028.t011">degrees</instance>
+<wf>,</wf>
+<instance id="d000.s028.t012">starting</instance>
+<wf>and</wf>
+<instance id="d000.s028.t013">ending</instance>
+<wf>,</wf>
+<instance id="d000.s028.t014">surprisingly</instance>
+<wf>,</wf>
+<wf>in</wf>
+<wf>the</wf>
+<instance id="d000.s028.t015">inverted</instance>
+<wf>,</wf>
+<wf>or</wf>
+<wf>mouth-up</wf>
+<instance id="d000.s028.t016">position</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s029">
+<instance id="d000.s029.t000">Skilled</instance>
+<instance id="d000.s029.t001">ringers</instance>
+<instance id="d000.s029.t002">use</instance>
+<wf>their</wf>
+<instance id="d000.s029.t003">wrists</instance>
+<wf>to</wf>
+<instance id="d000.s029.t004">advance</instance>
+<wf>or</wf>
+<instance id="d000.s029.t005">retard</instance>
+<wf>the</wf>
+<wf>next</wf>
+<instance id="d000.s029.t006">swing</instance>
+<wf>,</wf>
+<instance id="d000.s029.t007">so</instance>
+<wf>that</wf>
+<wf>one</wf>
+<instance id="d000.s029.t008">bell</instance>
+<wf>can</wf>
+<instance id="d000.s029.t009">swap</instance>
+<instance id="d000.s029.t010">places</instance>
+<wf>with</wf>
+<wf>another</wf>
+<wf>in</wf>
+<wf>the</wf>
+<wf>following</wf>
+<instance id="d000.s029.t011">change</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s030">
+<wf>In</wf>
+<wf>a</wf>
+<instance id="d000.s030.t000">well-known</instance>
+<instance id="d000.s030.t001">detective-story</instance>
+<instance id="d000.s030.t002">involving</instance>
+<instance id="d000.s030.t003">church</instance>
+<instance id="d000.s030.t004">bells</instance>
+<wf>,</wf>
+<instance id="d000.s030.t005">English</instance>
+<instance id="d000.s030.t006">novelist</instance>
+<wf>Dorothy</wf>
+<wf>L.</wf>
+<wf>Sayers</wf>
+<instance id="d000.s030.t007">described</instance>
+<wf>ringing</wf>
+<wf>as</wf>
+<wf>a</wf>
+<wf>``</wf>
+<instance id="d000.s030.t008">passion</instance>
+<wf>that</wf>
+<instance id="d000.s030.t009">finds</instance>
+<wf>its</wf>
+<instance id="d000.s030.t010">satisfaction</instance>
+<wf>in</wf>
+<instance id="d000.s030.t011">mathematical</instance>
+<instance id="d000.s030.t012">completeness</instance>
+<wf>and</wf>
+<instance id="d000.s030.t013">mechanical</instance>
+<instance id="d000.s030.t014">perfection</instance>
+<wf>.</wf>
+<wf>``</wf>
+</sentence>
+<sentence id="d000.s031">
+<instance id="d000.s031.t000">Ringers</instance>
+<wf>,</wf>
+<wf>she</wf>
+<instance id="d000.s031.t001">added</instance>
+<wf>,</wf>
+<wf>are</wf>
+<wf>``</wf>
+<instance id="d000.s031.t002">filled</instance>
+<wf>with</wf>
+<wf>the</wf>
+<instance id="d000.s031.t003">solemn</instance>
+<wf>intoxication</wf>
+<wf>that</wf>
+<instance id="d000.s031.t004">comes</instance>
+<wf>of</wf>
+<instance id="d000.s031.t005">intricate</instance>
+<instance id="d000.s031.t006">ritual</instance>
+<instance id="d000.s031.t007">faultlessly</instance>
+<instance id="d000.s031.t008">performed</instance>
+<wf>.</wf>
+<wf>``</wf>
+<wf>``</wf>
+</sentence>
+<sentence id="d000.s032">
+<wf>Ringing</wf>
+<wf>does</wf>
+<instance id="d000.s032.t000">become</instance>
+<wf>a</wf>
+<instance id="d000.s032.t001">bit</instance>
+<wf>of</wf>
+<wf>an</wf>
+<instance id="d000.s032.t002">obsession</instance>
+<wf>,</wf>
+<wf>``</wf>
+<instance id="d000.s032.t003">admits</instance>
+<wf>Stephanie</wf>
+<wf>Pattenden</wf>
+<wf>,</wf>
+<instance id="d000.s032.t004">master</instance>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d000.s032.t005">band</instance>
+<wf>at</wf>
+<wf>St.</wf>
+<wf>Mary</wf>
+<wf>Abbot</wf>
+<wf>and</wf>
+<wf>one</wf>
+<wf>of</wf>
+<instance id="d000.s032.t006">England</instance>
+<wf>&apos;s</wf>
+<instance id="d000.s032.t007">best</instance>
+<instance id="d000.s032.t008">female</instance>
+<instance id="d000.s032.t009">ringers</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s033">
+<wf>It</wf>
+<wf>is</wf>
+<wf>a</wf>
+<instance id="d000.s033.t000">passion</instance>
+<wf>that</wf>
+<instance id="d000.s033.t001">usually</instance>
+<instance id="d000.s033.t002">stays</instance>
+<wf>in</wf>
+<wf>the</wf>
+<instance id="d000.s033.t003">tower</instance>
+<wf>,</wf>
+<instance id="d000.s033.t004">however</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s034">
+<instance id="d000.s034.t000">More</instance>
+<instance id="d000.s034.t001">often</instance>
+<wf>than</wf>
+<wf>not</wf>
+<wf>,</wf>
+<instance id="d000.s034.t002">ringers</instance>
+<instance id="d000.s034.t003">think of</instance>
+<wf>the</wf>
+<instance id="d000.s034.t004">church</instance>
+<wf>as</wf>
+<wf>something</wf>
+<instance id="d000.s034.t005">stuck on</instance>
+<wf>the</wf>
+<instance id="d000.s034.t006">bottom</instance>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d000.s034.t007">belfry</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s035">
+<wf>When</wf>
+<wf>their</wf>
+<instance id="d000.s035.t000">changes</instance>
+<wf>are</wf>
+<instance id="d000.s035.t001">completed</instance>
+<wf>,</wf>
+<wf>and</wf>
+<wf>after</wf>
+<wf>they</wf>
+<wf>have</wf>
+<instance id="d000.s035.t002">worked up</instance>
+<wf>a</wf>
+<instance id="d000.s035.t003">sweat</instance>
+<wf>,</wf>
+<instance id="d000.s035.t004">ringers</instance>
+<instance id="d000.s035.t005">often</instance>
+<instance id="d000.s035.t006">skip</instance>
+<wf>off</wf>
+<wf>to</wf>
+<wf>the</wf>
+<instance id="d000.s035.t007">local</instance>
+<instance id="d000.s035.t008">pub</instance>
+<wf>,</wf>
+<instance id="d000.s035.t009">leaving</instance>
+<instance id="d000.s035.t010">worship</instance>
+<wf>for</wf>
+<wf>others</wf>
+<instance id="d000.s035.t011">below</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s036">
+<wf>This</wf>
+<wf>does</wf>
+<wf>not</wf>
+<wf>sit</wf>
+<instance id="d000.s036.t000">well</instance>
+<wf>with</wf>
+<wf>some</wf>
+<instance id="d000.s036.t001">clerics</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s037">
+<wf>With</wf>
+<instance id="d000.s037.t000">membership</instance>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d000.s037.t001">Church of England</instance>
+<instance id="d000.s037.t002">steadily</instance>
+<instance id="d000.s037.t003">dwindling</instance>
+<wf>,</wf>
+<instance id="d000.s037.t004">strong-willed</instance>
+<instance id="d000.s037.t005">vicars</instance>
+<wf>are</wf>
+<instance id="d000.s037.t006">pressing</instance>
+<instance id="d000.s037.t007">equally</instance>
+<instance id="d000.s037.t008">strong-willed</instance>
+<wf>and</wf>
+<instance id="d000.s037.t009">often</instance>
+<wf>non-religious</wf>
+<instance id="d000.s037.t010">ringers</instance>
+<wf>to</wf>
+<instance id="d000.s037.t011">attend</instance>
+<instance id="d000.s037.t012">services</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s038">
+<wf>Two</wf>
+<instance id="d000.s038.t000">years</instance>
+<instance id="d000.s038.t001">ago</instance>
+<wf>,</wf>
+<wf>the</wf>
+<wf>Rev.</wf>
+<wf>Jeremy</wf>
+<wf>Hummerstone</wf>
+<wf>,</wf>
+<instance id="d000.s038.t002">vicar</instance>
+<wf>of</wf>
+<wf>Great</wf>
+<wf>Torrington</wf>
+<wf>,</wf>
+<wf>Devon</wf>
+<wf>,</wf>
+<instance id="d000.s038.t003">got</instance>
+<instance id="d000.s038.t004">so</instance>
+<wf>fed</wf>
+<wf>up</wf>
+<wf>with</wf>
+<instance id="d000.s038.t005">ringers</instance>
+<wf>who</wf>
+<wf>did</wf>
+<wf>n&apos;t</wf>
+<instance id="d000.s038.t006">attend</instance>
+<instance id="d000.s038.t007">service</instance>
+<wf>he</wf>
+<instance id="d000.s038.t008">sacked</instance>
+<wf>the</wf>
+<instance id="d000.s038.t009">entire</instance>
+<instance id="d000.s038.t010">band</instance>
+<wf>;</wf>
+<wf>the</wf>
+<instance id="d000.s038.t011">ringers</instance>
+<instance id="d000.s038.t012">promptly</instance>
+<instance id="d000.s038.t013">set up</instance>
+<wf>a</wf>
+<instance id="d000.s038.t014">picket line</instance>
+<wf>in</wf>
+<instance id="d000.s038.t015">protest</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s039">
+<wf>``</wf>
+<wf>They</wf>
+<wf>were</wf>
+<wf>a</wf>
+<wf>self-perpetuating</wf>
+<instance id="d000.s039.t000">club</instance>
+<wf>that</wf>
+<instance id="d000.s039.t001">treated</instance>
+<wf>the</wf>
+<instance id="d000.s039.t002">tower</instance>
+<wf>as</wf>
+<instance id="d000.s039.t003">sort</instance>
+<wf>of</wf>
+<wf>a</wf>
+<instance id="d000.s039.t004">separate</instance>
+<instance id="d000.s039.t005">premises</instance>
+<wf>,</wf>
+<wf>``</wf>
+<wf>the</wf>
+<wf>Vicar</wf>
+<wf>Hummerstone</wf>
+<instance id="d000.s039.t006">says</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s040">
+<wf>An</wf>
+<wf>entirely</wf>
+<instance id="d000.s040.t000">new</instance>
+<instance id="d000.s040.t001">band</instance>
+<wf>rings</wf>
+<instance id="d000.s040.t002">today</instance>
+<wf>at</wf>
+<wf>Great</wf>
+<wf>Torrington</wf>
+<wf>,</wf>
+<wf>several</wf>
+<wf>of</wf>
+<wf>whom</wf>
+<wf>are</wf>
+<instance id="d000.s040.t003">members</instance>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d000.s040.t004">congregation</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s041">
+<wf>But</wf>
+<wf>there</wf>
+<instance id="d000.s041.t000">still</instance>
+<wf>are</wf>
+<wf>not</wf>
+<instance id="d000.s041.t001">enough</instance>
+<instance id="d000.s041.t002">ringers</instance>
+<wf>to</wf>
+<instance id="d000.s041.t003">ring</instance>
+<instance id="d000.s041.t004">more</instance>
+<wf>than</wf>
+<wf>six</wf>
+<wf>of</wf>
+<wf>the</wf>
+<wf>eight</wf>
+<instance id="d000.s041.t005">bells</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s042">
+<wf>At</wf>
+<wf>St.</wf>
+<wf>Mary</wf>
+<wf>&apos;s</wf>
+<wf>Church</wf>
+<wf>in</wf>
+<wf>Ilminster</wf>
+<wf>,</wf>
+<wf>Somerset</wf>
+<wf>,</wf>
+<wf>the</wf>
+<instance id="d000.s042.t000">bells</instance>
+<wf>have</wf>
+<instance id="d000.s042.t001">fallen</instance>
+<instance id="d000.s042.t002">silent</instance>
+<instance id="d000.s042.t003">following</instance>
+<wf>a</wf>
+<instance id="d000.s042.t004">dust-up</instance>
+<wf>over</wf>
+<instance id="d000.s042.t005">church</instance>
+<instance id="d000.s042.t006">attendance</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s043">
+<wf>The</wf>
+<instance id="d000.s043.t000">vicar</instance>
+<wf>,</wf>
+<wf>W.D.</wf>
+<wf>Jones</wf>
+<wf>,</wf>
+<instance id="d000.s043.t001">refuses</instance>
+<wf>to</wf>
+<instance id="d000.s043.t002">talk about</instance>
+<wf>it</wf>
+<wf>,</wf>
+<instance id="d000.s043.t003">saying</instance>
+<wf>it</wf>
+<wf>would</wf>
+<wf>``</wf>
+<wf>reopen</wf>
+<wf>the</wf>
+<wf>wound</wf>
+<wf>.</wf>
+<wf>``</wf>
+</sentence>
+<sentence id="d000.s044">
+<wf>But</wf>
+<wf>C.J.B.</wf>
+<wf>Marshall</wf>
+<wf>,</wf>
+<instance id="d000.s044.t000">vicar</instance>
+<wf>of</wf>
+<wf>a</wf>
+<instance id="d000.s044.t001">nearby</instance>
+<instance id="d000.s044.t002">church</instance>
+<wf>,</wf>
+<instance id="d000.s044.t003">feels</instance>
+<wf>the</wf>
+<instance id="d000.s044.t004">fault</instance>
+<wf>is</wf>
+<wf>in</wf>
+<wf>the</wf>
+<instance id="d000.s044.t005">stairs</instance>
+<wf>from</wf>
+<wf>the</wf>
+<instance id="d000.s044.t006">bell tower</instance>
+<wf>that</wf>
+<wf>are</wf>
+<instance id="d000.s044.t007">located</instance>
+<instance id="d000.s044.t008">next</instance>
+<wf>to</wf>
+<wf>the</wf>
+<instance id="d000.s044.t009">altar</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s045">
+<wf>``</wf>
+<instance id="d000.s045.t000">So</instance>
+<instance id="d000.s045.t001">crunch</instance>
+<wf>,</wf>
+<instance id="d000.s045.t002">crunch</instance>
+<wf>,</wf>
+<instance id="d000.s045.t003">crunch</instance>
+<wf>,</wf>
+<instance id="d000.s045.t004">bang</instance>
+<wf>,</wf>
+<instance id="d000.s045.t005">bang</instance>
+<wf>,</wf>
+<instance id="d000.s045.t006">bang</instance>
+<wf>--</wf>
+<instance id="d000.s045.t007">here</instance>
+<instance id="d000.s045.t008">come</instance>
+<wf>the</wf>
+<instance id="d000.s045.t009">ringers</instance>
+<wf>from</wf>
+<instance id="d000.s045.t010">above</instance>
+<wf>,</wf>
+<instance id="d000.s045.t011">making</instance>
+<wf>a</wf>
+<instance id="d000.s045.t012">very</instance>
+<instance id="d000.s045.t013">obvious</instance>
+<instance id="d000.s045.t014">exit</instance>
+<wf>while</wf>
+<wf>the</wf>
+<instance id="d000.s045.t015">congregation</instance>
+<wf>is</wf>
+<wf>at</wf>
+<instance id="d000.s045.t016">prayer</instance>
+<wf>,</wf>
+<wf>``</wf>
+<wf>he</wf>
+<instance id="d000.s045.t017">says</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s046">
+<wf>Vicar</wf>
+<wf>Marshall</wf>
+<instance id="d000.s046.t000">admits</instance>
+<wf>to</wf>
+<instance id="d000.s046.t001">mixed</instance>
+<instance id="d000.s046.t002">feelings</instance>
+<wf>about</wf>
+<wf>this</wf>
+<instance id="d000.s046.t003">issue</instance>
+<wf>,</wf>
+<wf>since</wf>
+<wf>he</wf>
+<wf>is</wf>
+<wf>both</wf>
+<wf>a</wf>
+<instance id="d000.s046.t004">vicar</instance>
+<wf>and</wf>
+<wf>an</wf>
+<instance id="d000.s046.t005">active</instance>
+<instance id="d000.s046.t006">bell-ringer</instance>
+<wf>himself</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s047">
+<wf>``</wf>
+<wf>The</wf>
+<instance id="d000.s047.t000">sound</instance>
+<wf>of</wf>
+<instance id="d000.s047.t001">bells</instance>
+<wf>is</wf>
+<wf>a</wf>
+<wf>net</wf>
+<wf>to</wf>
+<instance id="d000.s047.t002">draw</instance>
+<instance id="d000.s047.t003">people</instance>
+<wf>into</wf>
+<wf>the</wf>
+<instance id="d000.s047.t004">church</instance>
+<wf>,</wf>
+<wf>``</wf>
+<wf>he</wf>
+<instance id="d000.s047.t005">says</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s048">
+<wf>``</wf>
+<wf>I</wf>
+<instance id="d000.s048.t000">live</instance>
+<wf>in</wf>
+<instance id="d000.s048.t001">hopes</instance>
+<wf>that</wf>
+<wf>the</wf>
+<instance id="d000.s048.t002">ringers</instance>
+<wf>themselves</wf>
+<wf>will</wf>
+<wf>be</wf>
+<instance id="d000.s048.t003">drawn</instance>
+<wf>into</wf>
+<wf>that</wf>
+<instance id="d000.s048.t004">fuller</instance>
+<instance id="d000.s048.t005">life</instance>
+<wf>.</wf>
+<wf>``</wf>
+</sentence>
+<sentence id="d000.s049">
+<wf>The</wf>
+<wf>Central</wf>
+<wf>Council</wf>
+<wf>of</wf>
+<wf>Church</wf>
+<wf>Bell</wf>
+<wf>Ringers</wf>
+<wf>,</wf>
+<wf>a</wf>
+<instance id="d000.s049.t000">sort</instance>
+<wf>of</wf>
+<instance id="d000.s049.t001">parliament</instance>
+<wf>of</wf>
+<wf>ringing</wf>
+<instance id="d000.s049.t002">groups</instance>
+<wf>,</wf>
+<instance id="d000.s049.t003">aims</instance>
+<wf>to</wf>
+<instance id="d000.s049.t004">improve</instance>
+<instance id="d000.s049.t005">relations</instance>
+<wf>with</wf>
+<instance id="d000.s049.t006">vicars</instance>
+<wf>,</wf>
+<instance id="d000.s049.t007">says</instance>
+<wf>John</wf>
+<wf>C.</wf>
+<wf>Baldwin</wf>
+<wf>,</wf>
+<instance id="d000.s049.t008">president</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s050">
+<wf>It</wf>
+<instance id="d000.s050.t000">hopes</instance>
+<wf>to</wf>
+<instance id="d000.s050.t001">speak</instance>
+<wf>to</wf>
+<instance id="d000.s050.t002">students</instance>
+<wf>at</wf>
+<instance id="d000.s050.t003">theological</instance>
+<instance id="d000.s050.t004">colleges</instance>
+<wf>about</wf>
+<wf>the</wf>
+<instance id="d000.s050.t005">joys</instance>
+<wf>of</wf>
+<instance id="d000.s050.t006">bell ringing</instance>
+<wf>and</wf>
+<wf>will</wf>
+<instance id="d000.s050.t007">shortly</instance>
+<instance id="d000.s050.t008">publish</instance>
+<wf>a</wf>
+<instance id="d000.s050.t009">booklet</instance>
+<wf>for</wf>
+<wf>every</wf>
+<instance id="d000.s050.t010">vicar</instance>
+<wf>in</wf>
+<wf>the</wf>
+<instance id="d000.s050.t011">country</instance>
+<instance id="d000.s050.t012">entitled</instance>
+<wf>,</wf>
+<wf>``</wf>
+<wf>The</wf>
+<instance id="d000.s050.t013">Bells</instance>
+<wf>in</wf>
+<wf>Your</wf>
+<instance id="d000.s050.t014">Care</instance>
+<wf>.</wf>
+<wf>``</wf>
+</sentence>
+<sentence id="d000.s051">
+<instance id="d000.s051.t000">Says</instance>
+<instance id="d000.s051.t001">Mr.</instance>
+<wf>Baldwin</wf>
+<wf>,</wf>
+<wf>``</wf>
+<wf>We</wf>
+<instance id="d000.s051.t002">recognize</instance>
+<wf>that</wf>
+<wf>we</wf>
+<wf>may</wf>
+<instance id="d000.s051.t003">no</instance>
+<instance id="d000.s051.t004">longer</instance>
+<wf>have</wf>
+<wf>as</wf>
+<instance id="d000.s051.t005">high</instance>
+<wf>a</wf>
+<instance id="d000.s051.t006">priority</instance>
+<wf>in</wf>
+<instance id="d000.s051.t007">church</instance>
+<instance id="d000.s051.t008">life</instance>
+<wf>and</wf>
+<instance id="d000.s051.t009">experience</instance>
+<wf>.</wf>
+<wf>``</wf>
+</sentence>
+<sentence id="d000.s052">
+<instance id="d000.s052.t000">Mr.</instance>
+<wf>Baldwin</wf>
+<wf>is</wf>
+<instance id="d000.s052.t001">also</instance>
+<instance id="d000.s052.t002">attacking</instance>
+<wf>the</wf>
+<instance id="d000.s052.t003">greater</instance>
+<instance id="d000.s052.t004">problem</instance>
+<wf>:</wf>
+<instance id="d000.s052.t005">lack</instance>
+<wf>of</wf>
+<instance id="d000.s052.t006">ringers</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s053">
+<wf>One</wf>
+<instance id="d000.s053.t000">survey</instance>
+<instance id="d000.s053.t001">says</instance>
+<wf>that</wf>
+<wf>of</wf>
+<wf>the</wf>
+<wf>100,000</wf>
+<instance id="d000.s053.t002">trained</instance>
+<instance id="d000.s053.t003">bellringers</instance>
+<wf>in</wf>
+<instance id="d000.s053.t004">England</instance>
+<instance id="d000.s053.t005">today</instance>
+<wf>,</wf>
+<instance id="d000.s053.t006">only</instance>
+<wf>40,000</wf>
+<wf>of</wf>
+<wf>them</wf>
+<instance id="d000.s053.t007">still</instance>
+<wf>ring</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s054">
+<instance id="d000.s054.t000">Also</instance>
+<wf>,</wf>
+<instance id="d000.s054.t001">ringers</instance>
+<wf>do</wf>
+<wf>not</wf>
+<instance id="d000.s054.t002">always</instance>
+<instance id="d000.s054.t003">live</instance>
+<wf>where</wf>
+<wf>the</wf>
+<instance id="d000.s054.t004">bells</instance>
+<instance id="d000.s054.t005">need</instance>
+<wf>to</wf>
+<wf>be</wf>
+<instance id="d000.s054.t006">rung</instance>
+<wf>--</wf>
+<wf>like</wf>
+<wf>in</wf>
+<instance id="d000.s054.t007">small</instance>
+<wf>,</wf>
+<instance id="d000.s054.t008">rural</instance>
+<instance id="d000.s054.t009">parishes</instance>
+<wf>and</wf>
+<instance id="d000.s054.t010">inner-city</instance>
+<wf>churches</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s055">
+<wf>But</wf>
+<wf>the</wf>
+<instance id="d000.s055.t000">council</instance>
+<wf>&apos;s</wf>
+<instance id="d000.s055.t001">program</instance>
+<wf>to</wf>
+<instance id="d000.s055.t002">attract</instance>
+<wf>and</wf>
+<instance id="d000.s055.t003">train</instance>
+<instance id="d000.s055.t004">ringers</instance>
+<wf>is</wf>
+<instance id="d000.s055.t005">only</instance>
+<instance id="d000.s055.t006">partly</instance>
+<instance id="d000.s055.t007">successful</instance>
+<wf>,</wf>
+<instance id="d000.s055.t008">says</instance>
+<instance id="d000.s055.t009">Mr.</instance>
+<wf>Baldwin</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s056">
+<wf>``</wf>
+<instance id="d000.s056.t000">Right</instance>
+<instance id="d000.s056.t001">now</instance>
+<wf>,</wf>
+<wf>we</wf>
+<wf>&apos;re</wf>
+<instance id="d000.s056.t002">lucky</instance>
+<wf>if</wf>
+<wf>after</wf>
+<wf>five</wf>
+<instance id="d000.s056.t003">years</instance>
+<wf>we</wf>
+<instance id="d000.s056.t004">keep</instance>
+<wf>one</wf>
+<instance id="d000.s056.t005">new</instance>
+<instance id="d000.s056.t006">ringer</instance>
+<wf>out</wf>
+<wf>of</wf>
+<wf>10</wf>
+<wf>,</wf>
+<wf>``</wf>
+<wf>he</wf>
+<instance id="d000.s056.t007">adds</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s057">
+<wf>One</wf>
+<instance id="d000.s057.t000">bright</instance>
+<instance id="d000.s057.t001">sign</instance>
+<wf>is</wf>
+<wf>that</wf>
+<wf>a</wf>
+<instance id="d000.s057.t002">growing</instance>
+<instance id="d000.s057.t003">number</instance>
+<wf>of</wf>
+<instance id="d000.s057.t004">women</instance>
+<wf>have</wf>
+<instance id="d000.s057.t005">entered</instance>
+<wf>the</wf>
+<instance id="d000.s057.t006">once</instance>
+<wf>male-dominated</wf>
+<instance id="d000.s057.t007">field</instance>
+<wf>;</wf>
+<instance id="d000.s057.t008">more</instance>
+<wf>than</wf>
+<wf>a</wf>
+<instance id="d000.s057.t009">third</instance>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d000.s057.t010">ringers</instance>
+<instance id="d000.s057.t011">today</instance>
+<wf>are</wf>
+<instance id="d000.s057.t012">women</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s058">
+<wf>They</wf>
+<wf>are</wf>
+<wf>not</wf>
+<instance id="d000.s058.t000">accepted</instance>
+<instance id="d000.s058.t001">everywhere</instance>
+<wf>,</wf>
+<instance id="d000.s058.t002">however</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s059">
+<wf>The</wf>
+<wf>oldest</wf>
+<instance id="d000.s059.t000">bell-ringing</instance>
+<instance id="d000.s059.t001">group</instance>
+<wf>in</wf>
+<wf>the</wf>
+<instance id="d000.s059.t002">country</instance>
+<wf>,</wf>
+<wf>the</wf>
+<wf>Ancient</wf>
+<wf>Society</wf>
+<wf>of</wf>
+<wf>College</wf>
+<wf>Youths</wf>
+<wf>,</wf>
+<instance id="d000.s059.t003">founded</instance>
+<wf>in</wf>
+<wf>1637</wf>
+<wf>,</wf>
+<instance id="d000.s059.t004">remains</instance>
+<wf>male-only</wf>
+<wf>,</wf>
+<wf>a</wf>
+<instance id="d000.s059.t005">fact</instance>
+<wf>that</wf>
+<wf>&apos;s</wf>
+<instance id="d000.s059.t006">particularly</instance>
+<instance id="d000.s059.t007">galling</instance>
+<wf>to</wf>
+<instance id="d000.s059.t008">women</instance>
+<wf>because</wf>
+<wf>the</wf>
+<instance id="d000.s059.t009">group</instance>
+<wf>is</wf>
+<wf>the</wf>
+<wf>sole</wf>
+<instance id="d000.s059.t010">source</instance>
+<wf>of</wf>
+<instance id="d000.s059.t011">ringers</instance>
+<wf>for</wf>
+<instance id="d000.s059.t012">Britain</instance>
+<wf>&apos;s</wf>
+<instance id="d000.s059.t013">most</instance>
+<instance id="d000.s059.t014">prestigious</instance>
+<instance id="d000.s059.t015">churches</instance>
+<wf>,</wf>
+<wf>St.</wf>
+<wf>Paul</wf>
+<wf>&apos;s</wf>
+<wf>Cathedral</wf>
+<wf>and</wf>
+<wf>Westminster</wf>
+<wf>Abbey</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s060">
+<wf>This</wf>
+<wf>being</wf>
+<instance id="d000.s060.t000">Britain</instance>
+<wf>,</wf>
+<wf>no</wf>
+<instance id="d000.s060.t001">woman</instance>
+<wf>has</wf>
+<instance id="d000.s060.t002">filed</instance>
+<wf>an</wf>
+<instance id="d000.s060.t003">equal-opportunity</instance>
+<instance id="d000.s060.t004">suit</instance>
+<wf>,</wf>
+<wf>but</wf>
+<wf>the</wf>
+<instance id="d000.s060.t005">extent</instance>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d000.s060.t006">problem</instance>
+<instance id="d000.s060.t007">surfaced</instance>
+<wf>this</wf>
+<instance id="d000.s060.t008">summer</instance>
+<wf>in</wf>
+<wf>a</wf>
+<instance id="d000.s060.t009">series</instance>
+<wf>of</wf>
+<instance id="d000.s060.t010">letters</instance>
+<wf>to</wf>
+<wf>``</wf>
+<wf>The</wf>
+<wf>Ringing</wf>
+<wf>World</wf>
+<wf>,</wf>
+<wf>``</wf>
+<wf>a</wf>
+<instance id="d000.s060.t011">weekly</instance>
+<instance id="d000.s060.t012">newspaper</instance>
+<wf>for</wf>
+<instance id="d000.s060.t013">ringers</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s061">
+<wf>One</wf>
+<instance id="d000.s061.t000">writer</instance>
+<wf>,</wf>
+<instance id="d000.s061.t001">signing</instance>
+<wf>his</wf>
+<instance id="d000.s061.t002">letter</instance>
+<wf>as</wf>
+<wf>``</wf>
+<instance id="d000.s061.t003">Red-blooded</instance>
+<wf>,</wf>
+<instance id="d000.s061.t004">balanced</instance>
+<instance id="d000.s061.t005">male</instance>
+<wf>,</wf>
+<wf>``</wf>
+<instance id="d000.s061.t006">remarked</instance>
+<wf>on</wf>
+<wf>the</wf>
+<wf>``</wf>
+<instance id="d000.s061.t007">frequency</instance>
+<wf>of</wf>
+<instance id="d000.s061.t008">women</instance>
+<instance id="d000.s061.t009">fainting</instance>
+<wf>in</wf>
+<wf>peals</wf>
+<wf>,</wf>
+<wf>``</wf>
+<wf>and</wf>
+<instance id="d000.s061.t010">suggested</instance>
+<wf>that</wf>
+<wf>they</wf>
+<wf>``</wf>
+<instance id="d000.s061.t011">settle</instance>
+<instance id="d000.s061.t012">back</instance>
+<wf>into</wf>
+<wf>their</wf>
+<instance id="d000.s061.t013">traditional</instance>
+<instance id="d000.s061.t014">role</instance>
+<wf>of</wf>
+<instance id="d000.s061.t015">making</instance>
+<instance id="d000.s061.t016">tea</instance>
+<wf>at</wf>
+<instance id="d000.s061.t017">meetings</instance>
+<wf>.</wf>
+<wf>``</wf>
+</sentence>
+<sentence id="d000.s062">
+<wf>In</wf>
+<wf>the</wf>
+<instance id="d000.s062.t000">torrent</instance>
+<wf>of</wf>
+<instance id="d000.s062.t001">replies</instance>
+<wf>that</wf>
+<instance id="d000.s062.t002">followed</instance>
+<wf>,</wf>
+<wf>one</wf>
+<instance id="d000.s062.t003">woman</instance>
+<instance id="d000.s062.t004">ringer</instance>
+<wf>from</wf>
+<wf>Solihull</wf>
+<instance id="d000.s062.t005">observed</instance>
+<wf>that</wf>
+<wf>``</wf>
+<wf>the</wf>
+<instance id="d000.s062.t006">average</instance>
+<instance id="d000.s062.t007">male</instance>
+<instance id="d000.s062.t008">ringer</instance>
+<instance id="d000.s062.t009">leaves</instance>
+<instance id="d000.s062.t010">quite</instance>
+<wf>a</wf>
+<instance id="d000.s062.t011">lot</instance>
+<wf>to</wf>
+<wf>be</wf>
+<instance id="d000.s062.t012">desired</instance>
+<wf>:</wf>
+<instance id="d000.s062.t013">badly</instance>
+<instance id="d000.s062.t014">dressed</instance>
+<wf>,</wf>
+<instance id="d000.s062.t015">decorated</instance>
+<wf>with</wf>
+<instance id="d000.s062.t016">acne</instance>
+<wf>and</wf>
+<wf>a</wf>
+<instance id="d000.s062.t017">large</instance>
+<wf>beer-belly</wf>
+<wf>,</wf>
+<instance id="d000.s062.t018">frequently</instance>
+<instance id="d000.s062.t019">unwashed</instance>
+<wf>and</wf>
+<instance id="d000.s062.t020">unbearably</instance>
+<instance id="d000.s062.t021">flatulent</instance>
+<wf>in</wf>
+<wf>peals</wf>
+<wf>.</wf>
+<wf>``</wf>
+</sentence>
+<sentence id="d000.s063">
+<wf>Another</wf>
+<instance id="d000.s063.t000">women</instance>
+<instance id="d000.s063.t001">wrote</instance>
+<wf>from</wf>
+<wf>Sheffield</wf>
+<wf>to</wf>
+<instance id="d000.s063.t002">say</instance>
+<wf>that</wf>
+<wf>in</wf>
+<wf>her</wf>
+<wf>60</wf>
+<instance id="d000.s063.t003">years</instance>
+<wf>of</wf>
+<wf>ringing</wf>
+<wf>,</wf>
+<wf>``</wf>
+<wf>I</wf>
+<wf>have</wf>
+<instance id="d000.s063.t004">never</instance>
+<instance id="d000.s063.t005">known</instance>
+<wf>a</wf>
+<instance id="d000.s063.t006">lady</instance>
+<wf>to</wf>
+<instance id="d000.s063.t007">faint</instance>
+<wf>in</wf>
+<wf>the</wf>
+<instance id="d000.s063.t008">belfry</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d000.s064">
+<wf>I</wf>
+<wf>have</wf>
+<instance id="d000.s064.t000">seen</instance>
+<wf>one</wf>
+<wf>or</wf>
+<wf>two</wf>
+<instance id="d000.s064.t001">men</instance>
+<instance id="d000.s064.t002">die</instance>
+<wf>,</wf>
+<instance id="d000.s064.t003">bless</instance>
+<wf>them</wf>
+<wf>.</wf>
+</sentence>
+</text>
+<text id="d001">
+<sentence id="d001.s000">
+<instance id="d001.s000.t000">Medical</instance>
+<instance id="d001.s000.t001">scientists</instance>
+<wf>are</wf>
+<instance id="d001.s000.t002">starting</instance>
+<wf>to</wf>
+<wf>uncover</wf>
+<wf>a</wf>
+<instance id="d001.s000.t003">handful</instance>
+<wf>of</wf>
+<instance id="d001.s000.t004">genes</instance>
+<wf>which</wf>
+<wf>,</wf>
+<wf>if</wf>
+<instance id="d001.s000.t005">damaged</instance>
+<wf>,</wf>
+<instance id="d001.s000.t006">unleash</instance>
+<wf>the</wf>
+<instance id="d001.s000.t007">chaotic</instance>
+<instance id="d001.s000.t008">growth</instance>
+<wf>of</wf>
+<instance id="d001.s000.t009">cells</instance>
+<wf>that</wf>
+<instance id="d001.s000.t010">characterizes</instance>
+<instance id="d001.s000.t011">cancer</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s001">
+<instance id="d001.s001.t000">Scientists</instance>
+<instance id="d001.s001.t001">say</instance>
+<wf>the</wf>
+<instance id="d001.s001.t002">discovery</instance>
+<wf>of</wf>
+<wf>these</wf>
+<instance id="d001.s001.t003">genes</instance>
+<wf>in</wf>
+<instance id="d001.s001.t004">recent</instance>
+<instance id="d001.s001.t005">months</instance>
+<wf>is</wf>
+<instance id="d001.s001.t006">painting</instance>
+<wf>a</wf>
+<instance id="d001.s001.t007">new</instance>
+<wf>and</wf>
+<instance id="d001.s001.t008">startling</instance>
+<wf>picture</wf>
+<wf>of</wf>
+<wf>how</wf>
+<instance id="d001.s001.t009">cancer</instance>
+<instance id="d001.s001.t010">develops</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s002">
+<wf>An</wf>
+<instance id="d001.s002.t000">emerging</instance>
+<instance id="d001.s002.t001">understanding</instance>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d001.s002.t002">genes</instance>
+<wf>is</wf>
+<instance id="d001.s002.t003">expected</instance>
+<wf>to</wf>
+<instance id="d001.s002.t004">produce</instance>
+<wf>an</wf>
+<instance id="d001.s002.t005">array</instance>
+<wf>of</wf>
+<instance id="d001.s002.t006">new</instance>
+<instance id="d001.s002.t007">strategies</instance>
+<wf>for</wf>
+<instance id="d001.s002.t008">future</instance>
+<instance id="d001.s002.t009">cancer</instance>
+<instance id="d001.s002.t010">treatment</instance>
+<wf>and</wf>
+<instance id="d001.s002.t011">prevention</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s003">
+<wf>That</wf>
+<wf>is</wf>
+<wf>for</wf>
+<wf>the</wf>
+<instance id="d001.s003.t000">future</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s004">
+<instance id="d001.s004.t000">Already</instance>
+<wf>,</wf>
+<instance id="d001.s004.t001">scientists</instance>
+<wf>are</wf>
+<instance id="d001.s004.t002">developing</instance>
+<instance id="d001.s004.t003">tests</instance>
+<instance id="d001.s004.t004">based</instance>
+<wf>on</wf>
+<wf>the</wf>
+<instance id="d001.s004.t005">newly</instance>
+<instance id="d001.s004.t006">identified</instance>
+<instance id="d001.s004.t007">genes</instance>
+<wf>that</wf>
+<wf>,</wf>
+<wf>for</wf>
+<wf>the</wf>
+<instance id="d001.s004.t008">first</instance>
+<instance id="d001.s004.t009">time</instance>
+<wf>,</wf>
+<wf>can</wf>
+<instance id="d001.s004.t010">predict</instance>
+<wf>whether</wf>
+<wf>an</wf>
+<instance id="d001.s004.t011">otherwise</instance>
+<instance id="d001.s004.t012">healthy</instance>
+<instance id="d001.s004.t013">individual</instance>
+<wf>is</wf>
+<instance id="d001.s004.t014">likely</instance>
+<wf>to</wf>
+<instance id="d001.s004.t015">get</instance>
+<instance id="d001.s004.t016">cancer</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s005">
+<wf>``</wf>
+<wf>It</wf>
+<wf>&apos;s</wf>
+<wf>a</wf>
+<wf>super-exciting</wf>
+<instance id="d001.s005.t000">set</instance>
+<wf>of</wf>
+<instance id="d001.s005.t001">discoveries</instance>
+<wf>,</wf>
+<wf>``</wf>
+<instance id="d001.s005.t002">says</instance>
+<wf>Bert</wf>
+<wf>Vogelstein</wf>
+<wf>,</wf>
+<wf>a</wf>
+<wf>Johns</wf>
+<wf>Hopkins</wf>
+<wf>University</wf>
+<instance id="d001.s005.t003">researcher</instance>
+<wf>who</wf>
+<wf>has</wf>
+<instance id="d001.s005.t004">just</instance>
+<instance id="d001.s005.t005">found</instance>
+<wf>a</wf>
+<instance id="d001.s005.t006">gene</instance>
+<instance id="d001.s005.t007">pivotal</instance>
+<wf>to</wf>
+<wf>the</wf>
+<instance id="d001.s005.t008">triggering</instance>
+<wf>of</wf>
+<instance id="d001.s005.t009">colon</instance>
+<instance id="d001.s005.t010">cancer</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s006">
+<wf>``</wf>
+<instance id="d001.s006.t000">Only</instance>
+<wf>a</wf>
+<instance id="d001.s006.t001">decade</instance>
+<instance id="d001.s006.t002">ago</instance>
+<instance id="d001.s006.t003">cancer</instance>
+<wf>was</wf>
+<wf>a</wf>
+<wf>black</wf>
+<wf>box</wf>
+<wf>about</wf>
+<wf>which</wf>
+<wf>we</wf>
+<instance id="d001.s006.t004">knew</instance>
+<instance id="d001.s006.t005">nothing</instance>
+<wf>at</wf>
+<wf>the</wf>
+<instance id="d001.s006.t006">molecular</instance>
+<instance id="d001.s006.t007">level</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s007">
+<instance id="d001.s007.t000">Today</instance>
+<wf>,</wf>
+<wf>we</wf>
+<instance id="d001.s007.t001">know</instance>
+<wf>that</wf>
+<wf>the</wf>
+<instance id="d001.s007.t002">accumulation</instance>
+<wf>of</wf>
+<wf>several</wf>
+<wf>of</wf>
+<wf>these</wf>
+<instance id="d001.s007.t003">altered</instance>
+<instance id="d001.s007.t004">genes</instance>
+<wf>can</wf>
+<instance id="d001.s007.t005">initiate</instance>
+<wf>a</wf>
+<instance id="d001.s007.t006">cancer</instance>
+<wf>and</wf>
+<wf>,</wf>
+<instance id="d001.s007.t007">then</instance>
+<wf>,</wf>
+<instance id="d001.s007.t008">propel</instance>
+<wf>it</wf>
+<wf>into</wf>
+<wf>a</wf>
+<instance id="d001.s007.t009">deadly</instance>
+<instance id="d001.s007.t010">state</instance>
+<wf>.</wf>
+<wf>``</wf>
+</sentence>
+<sentence id="d001.s008">
+<instance id="d001.s008.t000">Scientists</instance>
+<instance id="d001.s008.t001">call</instance>
+<wf>the</wf>
+<instance id="d001.s008.t002">new</instance>
+<instance id="d001.s008.t003">class</instance>
+<wf>of</wf>
+<instance id="d001.s008.t004">genes</instance>
+<wf>tumor-suppressors</wf>
+<wf>,</wf>
+<wf>or</wf>
+<instance id="d001.s008.t005">simply</instance>
+<instance id="d001.s008.t006">anti-cancer</instance>
+<instance id="d001.s008.t007">genes</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s009">
+<wf>When</wf>
+<instance id="d001.s009.t000">functioning</instance>
+<instance id="d001.s009.t001">normally</instance>
+<wf>,</wf>
+<wf>they</wf>
+<instance id="d001.s009.t002">make</instance>
+<instance id="d001.s009.t003">proteins</instance>
+<wf>that</wf>
+<instance id="d001.s009.t004">hold</instance>
+<wf>a</wf>
+<instance id="d001.s009.t005">cell</instance>
+<wf>&apos;s</wf>
+<instance id="d001.s009.t006">growth</instance>
+<wf>in</wf>
+<wf>check</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s010">
+<wf>But</wf>
+<wf>if</wf>
+<wf>the</wf>
+<instance id="d001.s010.t000">genes</instance>
+<wf>are</wf>
+<instance id="d001.s010.t001">damaged</instance>
+<wf>--</wf>
+<instance id="d001.s010.t002">perhaps</instance>
+<wf>by</wf>
+<instance id="d001.s010.t003">radiation</instance>
+<wf>,</wf>
+<wf>a</wf>
+<instance id="d001.s010.t004">chemical</instance>
+<wf>or</wf>
+<wf>through</wf>
+<wf>a</wf>
+<instance id="d001.s010.t005">chance</instance>
+<instance id="d001.s010.t006">accident</instance>
+<wf>in</wf>
+<instance id="d001.s010.t007">cell</instance>
+<instance id="d001.s010.t008">division</instance>
+<wf>--</wf>
+<wf>their</wf>
+<wf>growth-suppressing</wf>
+<instance id="d001.s010.t009">proteins</instance>
+<wf>no</wf>
+<instance id="d001.s010.t010">longer</instance>
+<instance id="d001.s010.t011">work</instance>
+<wf>,</wf>
+<wf>and</wf>
+<instance id="d001.s010.t012">cells</instance>
+<instance id="d001.s010.t013">normally</instance>
+<wf>under</wf>
+<wf>control</wf>
+<instance id="d001.s010.t014">turn</instance>
+<instance id="d001.s010.t015">malignant</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s011">
+<wf>The</wf>
+<instance id="d001.s011.t000">newly</instance>
+<instance id="d001.s011.t001">identified</instance>
+<instance id="d001.s011.t002">genes</instance>
+<instance id="d001.s011.t003">differ</instance>
+<wf>from</wf>
+<wf>a</wf>
+<instance id="d001.s011.t004">family</instance>
+<wf>of</wf>
+<instance id="d001.s011.t005">genes</instance>
+<instance id="d001.s011.t006">discovered</instance>
+<wf>in</wf>
+<wf>the</wf>
+<instance id="d001.s011.t007">early</instance>
+<wf>1980s</wf>
+<instance id="d001.s011.t008">called</instance>
+<instance id="d001.s011.t009">oncogenes</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s012">
+<instance id="d001.s012.t000">Oncogenes</instance>
+<wf>must</wf>
+<wf>be</wf>
+<instance id="d001.s012.t001">present</instance>
+<wf>for</wf>
+<wf>a</wf>
+<instance id="d001.s012.t002">cell</instance>
+<wf>to</wf>
+<instance id="d001.s012.t003">become</instance>
+<instance id="d001.s012.t004">malignant</instance>
+<wf>,</wf>
+<wf>but</wf>
+<instance id="d001.s012.t005">researchers</instance>
+<wf>have</wf>
+<instance id="d001.s012.t006">found</instance>
+<wf>them</wf>
+<wf>in</wf>
+<instance id="d001.s012.t007">normal</instance>
+<wf>as</wf>
+<wf>well</wf>
+<wf>as</wf>
+<wf>in</wf>
+<instance id="d001.s012.t008">cancerous</instance>
+<instance id="d001.s012.t009">cells</instance>
+<wf>,</wf>
+<instance id="d001.s012.t010">suggesting</instance>
+<wf>that</wf>
+<instance id="d001.s012.t011">oncogenes</instance>
+<wf>do</wf>
+<wf>n&apos;t</wf>
+<instance id="d001.s012.t012">cause</instance>
+<instance id="d001.s012.t013">cancer</instance>
+<wf>by</wf>
+<wf>themselves</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s013">
+<wf>In</wf>
+<instance id="d001.s013.t000">recent</instance>
+<instance id="d001.s013.t001">months</instance>
+<wf>,</wf>
+<instance id="d001.s013.t002">researchers</instance>
+<wf>have</wf>
+<instance id="d001.s013.t003">come</instance>
+<wf>to</wf>
+<instance id="d001.s013.t004">believe</instance>
+<wf>the</wf>
+<wf>two</wf>
+<instance id="d001.s013.t005">types</instance>
+<wf>of</wf>
+<instance id="d001.s013.t006">cancer</instance>
+<instance id="d001.s013.t007">genes</instance>
+<instance id="d001.s013.t008">work</instance>
+<instance id="d001.s013.t009">in concert</instance>
+<wf>:</wf>
+<wf>An</wf>
+<instance id="d001.s013.t010">oncogene</instance>
+<wf>may</wf>
+<instance id="d001.s013.t011">turn</instance>
+<instance id="d001.s013.t012">proliferating</instance>
+<instance id="d001.s013.t013">cells</instance>
+<instance id="d001.s013.t014">malignant</instance>
+<instance id="d001.s013.t015">only</instance>
+<wf>after</wf>
+<wf>the</wf>
+<wf>tumor-suppressor</wf>
+<instance id="d001.s013.t016">gene</instance>
+<wf>has</wf>
+<wf>been</wf>
+<instance id="d001.s013.t017">damaged</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s014">
+<wf>Like</wf>
+<wf>all</wf>
+<instance id="d001.s014.t000">genes</instance>
+<wf>,</wf>
+<wf>tumor-suppressor</wf>
+<instance id="d001.s014.t001">genes</instance>
+<wf>are</wf>
+<instance id="d001.s014.t002">inherited</instance>
+<wf>in</wf>
+<wf>two</wf>
+<instance id="d001.s014.t003">copies</instance>
+<wf>,</wf>
+<wf>one</wf>
+<wf>from</wf>
+<wf>each</wf>
+<instance id="d001.s014.t004">parent</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s015">
+<wf>Either</wf>
+<instance id="d001.s015.t000">copy</instance>
+<wf>can</wf>
+<instance id="d001.s015.t001">make</instance>
+<wf>the</wf>
+<instance id="d001.s015.t002">proteins</instance>
+<instance id="d001.s015.t003">needed</instance>
+<wf>to</wf>
+<instance id="d001.s015.t004">control</instance>
+<instance id="d001.s015.t005">cell</instance>
+<instance id="d001.s015.t006">growth</instance>
+<wf>,</wf>
+<wf>so</wf>
+<wf>for</wf>
+<instance id="d001.s015.t007">cancer</instance>
+<wf>to</wf>
+<instance id="d001.s015.t008">arise</instance>
+<wf>,</wf>
+<wf>both</wf>
+<instance id="d001.s015.t009">copies</instance>
+<wf>must</wf>
+<wf>be</wf>
+<instance id="d001.s015.t010">impaired</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s016">
+<wf>A</wf>
+<instance id="d001.s016.t000">person</instance>
+<wf>who</wf>
+<wf>is</wf>
+<instance id="d001.s016.t001">born</instance>
+<wf>with</wf>
+<wf>one</wf>
+<instance id="d001.s016.t002">defective</instance>
+<instance id="d001.s016.t003">copy</instance>
+<wf>of</wf>
+<wf>a</wf>
+<instance id="d001.s016.t004">suppressor gene</instance>
+<wf>,</wf>
+<wf>or</wf>
+<wf>in</wf>
+<wf>whom</wf>
+<wf>one</wf>
+<instance id="d001.s016.t005">copy</instance>
+<wf>is</wf>
+<instance id="d001.s016.t006">damaged</instance>
+<instance id="d001.s016.t007">early</instance>
+<wf>in</wf>
+<instance id="d001.s016.t008">life</instance>
+<wf>,</wf>
+<wf>is</wf>
+<instance id="d001.s016.t009">especially</instance>
+<wf>prone</wf>
+<wf>to</wf>
+<instance id="d001.s016.t010">cancer</instance>
+<wf>because</wf>
+<wf>he</wf>
+<instance id="d001.s016.t011">need</instance>
+<instance id="d001.s016.t012">only</instance>
+<instance id="d001.s016.t013">lose</instance>
+<wf>the</wf>
+<instance id="d001.s016.t014">other</instance>
+<instance id="d001.s016.t015">copy</instance>
+<wf>for</wf>
+<wf>a</wf>
+<instance id="d001.s016.t016">cancer</instance>
+<wf>to</wf>
+<instance id="d001.s016.t017">develop</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s017">
+<instance id="d001.s017.t000">Emerging</instance>
+<instance id="d001.s017.t001">genetic</instance>
+<instance id="d001.s017.t002">tests</instance>
+<wf>will</wf>
+<wf>be</wf>
+<instance id="d001.s017.t003">able</instance>
+<wf>to</wf>
+<instance id="d001.s017.t004">spot</instance>
+<instance id="d001.s017.t005">such</instance>
+<wf>cancer-susceptible</wf>
+<instance id="d001.s017.t006">individuals</instance>
+<wf>,</wf>
+<instance id="d001.s017.t007">ushering in</instance>
+<wf>what</wf>
+<wf>some</wf>
+<instance id="d001.s017.t008">scientists</instance>
+<instance id="d001.s017.t009">believe</instance>
+<wf>is</wf>
+<wf>a</wf>
+<instance id="d001.s017.t010">new</instance>
+<instance id="d001.s017.t011">age</instance>
+<wf>of</wf>
+<instance id="d001.s017.t012">predictive</instance>
+<instance id="d001.s017.t013">cancer</instance>
+<instance id="d001.s017.t014">diagnosis</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s018">
+<wf>Bill</wf>
+<wf>and</wf>
+<wf>Bonnie</wf>
+<wf>Quinlan</wf>
+<wf>are</wf>
+<wf>among</wf>
+<wf>the</wf>
+<instance id="d001.s018.t000">first</instance>
+<instance id="d001.s018.t001">beneficiaries</instance>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d001.s018.t002">new</instance>
+<instance id="d001.s018.t003">findings</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s019">
+<wf>The</wf>
+<wf>Dedham</wf>
+<wf>,</wf>
+<wf>Mass.</wf>
+<wf>,</wf>
+<instance id="d001.s019.t000">couple</instance>
+<instance id="d001.s019.t001">knew</instance>
+<instance id="d001.s019.t002">even</instance>
+<instance id="d001.s019.t003">before</instance>
+<wf>Bonnie</wf>
+<instance id="d001.s019.t004">became</instance>
+<instance id="d001.s019.t005">pregnant</instance>
+<wf>in</wf>
+<wf>1987</wf>
+<wf>that</wf>
+<wf>any</wf>
+<instance id="d001.s019.t006">child</instance>
+<wf>of</wf>
+<wf>theirs</wf>
+<wf>had</wf>
+<wf>a</wf>
+<wf>50</wf>
+<wf>%</wf>
+<instance id="d001.s019.t007">chance</instance>
+<wf>of</wf>
+<wf>being</wf>
+<wf>at</wf>
+<instance id="d001.s019.t008">risk</instance>
+<wf>for</wf>
+<instance id="d001.s019.t009">retinoblastoma</instance>
+<wf>,</wf>
+<wf>an</wf>
+<instance id="d001.s019.t010">eye</instance>
+<instance id="d001.s019.t011">cancer</instance>
+<wf>that</wf>
+<instance id="d001.s019.t012">occurs</instance>
+<instance id="d001.s019.t013">about</instance>
+<instance id="d001.s019.t014">once</instance>
+<wf>every</wf>
+<wf>20,000</wf>
+<instance id="d001.s019.t015">births</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s020">
+<wf>Mr.</wf>
+<wf>Quinlan</wf>
+<wf>,</wf>
+<wf>30</wf>
+<wf>years</wf>
+<wf>old</wf>
+<wf>,</wf>
+<instance id="d001.s020.t000">knew</instance>
+<wf>he</wf>
+<instance id="d001.s020.t001">carried</instance>
+<wf>a</wf>
+<instance id="d001.s020.t002">damaged</instance>
+<instance id="d001.s020.t003">gene</instance>
+<wf>,</wf>
+<wf>having</wf>
+<instance id="d001.s020.t004">lost</instance>
+<wf>an</wf>
+<instance id="d001.s020.t005">eye</instance>
+<wf>to</wf>
+<wf>the</wf>
+<instance id="d001.s020.t006">rare</instance>
+<instance id="d001.s020.t007">tumor</instance>
+<wf>when</wf>
+<wf>he</wf>
+<wf>was</wf>
+<instance id="d001.s020.t008">only</instance>
+<wf>two</wf>
+<wf>months</wf>
+<wf>old</wf>
+<wf>--</wf>
+<wf>after</wf>
+<wf>his</wf>
+<instance id="d001.s020.t009">mother</instance>
+<wf>had</wf>
+<instance id="d001.s020.t010">suffered</instance>
+<wf>the</wf>
+<instance id="d001.s020.t011">same</instance>
+<instance id="d001.s020.t012">fate</instance>
+<wf>when</wf>
+<wf>she</wf>
+<wf>was</wf>
+<wf>a</wf>
+<instance id="d001.s020.t013">baby</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s021">
+<wf>Because</wf>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d001.s021.t000">isolation</instance>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d001.s021.t001">retinoblastoma</instance>
+<wf>tumor-suppressor</wf>
+<instance id="d001.s021.t002">gene</instance>
+<wf>,</wf>
+<wf>it</wf>
+<instance id="d001.s021.t003">became</instance>
+<instance id="d001.s021.t004">possible</instance>
+<instance id="d001.s021.t005">last</instance>
+<instance id="d001.s021.t006">January</instance>
+<wf>to</wf>
+<instance id="d001.s021.t007">find out</instance>
+<wf>what</wf>
+<instance id="d001.s021.t008">threat</instance>
+<wf>the</wf>
+<wf>Quinlan</wf>
+<instance id="d001.s021.t009">baby</instance>
+<instance id="d001.s021.t010">faced</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s022">
+<wf>A</wf>
+<instance id="d001.s022.t000">test</instance>
+<instance id="d001.s022.t001">using</instance>
+<instance id="d001.s022.t002">new</instance>
+<wf>``</wf>
+<instance id="d001.s022.t003">genetic</instance>
+<wf>probes</wf>
+<wf>``</wf>
+<instance id="d001.s022.t004">showed</instance>
+<wf>that</wf>
+<instance id="d001.s022.t005">little</instance>
+<wf>Will</wf>
+<wf>Quinlan</wf>
+<wf>had</wf>
+<wf>not</wf>
+<instance id="d001.s022.t006">inherited</instance>
+<wf>a</wf>
+<instance id="d001.s022.t007">damaged</instance>
+<instance id="d001.s022.t008">retinoblastoma</instance>
+<instance id="d001.s022.t009">supressor gene</instance>
+<wf>and</wf>
+<wf>,</wf>
+<instance id="d001.s022.t010">therefore</instance>
+<wf>,</wf>
+<instance id="d001.s022.t011">faced</instance>
+<wf>no</wf>
+<instance id="d001.s022.t012">more</instance>
+<instance id="d001.s022.t013">risk</instance>
+<wf>than</wf>
+<instance id="d001.s022.t014">other</instance>
+<instance id="d001.s022.t015">children</instance>
+<wf>of</wf>
+<instance id="d001.s022.t016">developing</instance>
+<wf>the</wf>
+<instance id="d001.s022.t017">rare</instance>
+<instance id="d001.s022.t018">cancer</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s023">
+<wf>``</wf>
+<wf>It</wf>
+<instance id="d001.s023.t000">made</instance>
+<wf>our</wf>
+<instance id="d001.s023.t001">New Year</instance>
+<wf>,</wf>
+<wf>``</wf>
+<instance id="d001.s023.t002">says</instance>
+<wf>Mr.</wf>
+<wf>Quinlan</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s024">
+<wf>This</wf>
+<instance id="d001.s024.t000">test</instance>
+<wf>was</wf>
+<wf>the</wf>
+<instance id="d001.s024.t001">first</instance>
+<wf>to</wf>
+<instance id="d001.s024.t002">predict</instance>
+<instance id="d001.s024.t003">reliably</instance>
+<wf>whether</wf>
+<wf>an</wf>
+<instance id="d001.s024.t004">individual</instance>
+<wf>could</wf>
+<instance id="d001.s024.t005">expect</instance>
+<wf>to</wf>
+<instance id="d001.s024.t006">develop</instance>
+<instance id="d001.s024.t007">cancer</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s025">
+<instance id="d001.s025.t000">Equally</instance>
+<instance id="d001.s025.t001">important</instance>
+<wf>,</wf>
+<wf>the</wf>
+<instance id="d001.s025.t002">initial</instance>
+<instance id="d001.s025.t003">discovery</instance>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d001.s025.t004">gene</instance>
+<wf>that</wf>
+<instance id="d001.s025.t005">controls</instance>
+<instance id="d001.s025.t006">retinal</instance>
+<instance id="d001.s025.t007">cell</instance>
+<instance id="d001.s025.t008">growth</instance>
+<wf>,</wf>
+<instance id="d001.s025.t009">made</instance>
+<wf>by</wf>
+<wf>a</wf>
+<wf>Boston</wf>
+<instance id="d001.s025.t010">doctor</instance>
+<instance id="d001.s025.t011">named</instance>
+<wf>Thaddeus</wf>
+<wf>Dryja</wf>
+<wf>,</wf>
+<wf>has</wf>
+<instance id="d001.s025.t012">opened</instance>
+<wf>a</wf>
+<instance id="d001.s025.t013">field</instance>
+<wf>of</wf>
+<instance id="d001.s025.t014">cancer</instance>
+<instance id="d001.s025.t015">study</instance>
+<wf>,</wf>
+<wf>which</wf>
+<wf>in</wf>
+<instance id="d001.s025.t016">recent</instance>
+<instance id="d001.s025.t017">months</instance>
+<wf>has</wf>
+<instance id="d001.s025.t018">exploded</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s026">
+<wf>``</wf>
+<wf>It</wf>
+<instance id="d001.s026.t000">turns out</instance>
+<wf>that</wf>
+<instance id="d001.s026.t001">studying</instance>
+<wf>a</wf>
+<instance id="d001.s026.t002">tragic</instance>
+<wf>but</wf>
+<instance id="d001.s026.t003">uncommon</instance>
+<instance id="d001.s026.t004">tumor</instance>
+<instance id="d001.s026.t005">made</instance>
+<instance id="d001.s026.t006">possible</instance>
+<wf>some</wf>
+<instance id="d001.s026.t007">fundamental</instance>
+<instance id="d001.s026.t008">insights</instance>
+<wf>about</wf>
+<wf>the</wf>
+<wf>most</wf>
+<instance id="d001.s026.t009">basic</instance>
+<wf>workings</wf>
+<wf>of</wf>
+<instance id="d001.s026.t010">cancer</instance>
+<wf>,</wf>
+<wf>``</wf>
+<instance id="d001.s026.t011">says</instance>
+<wf>Samuel</wf>
+<wf>Broder</wf>
+<wf>,</wf>
+<instance id="d001.s026.t012">director</instance>
+<wf>of</wf>
+<wf>the</wf>
+<wf>National</wf>
+<wf>Cancer</wf>
+<wf>Institute</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s027">
+<wf>``</wf>
+<wf>All</wf>
+<wf>this</wf>
+<wf>may</wf>
+<wf>not</wf>
+<wf>be</wf>
+<instance id="d001.s027.t000">obvious</instance>
+<wf>to</wf>
+<wf>the</wf>
+<instance id="d001.s027.t001">public</instance>
+<wf>,</wf>
+<wf>which</wf>
+<wf>is</wf>
+<instance id="d001.s027.t002">concerned</instance>
+<wf>about</wf>
+<instance id="d001.s027.t003">advances</instance>
+<wf>in</wf>
+<instance id="d001.s027.t004">treatment</instance>
+<wf>,</wf>
+<wf>but</wf>
+<wf>I</wf>
+<wf>am</wf>
+<wf>convinced</wf>
+<wf>this</wf>
+<instance id="d001.s027.t005">basic</instance>
+<instance id="d001.s027.t006">research</instance>
+<wf>will</wf>
+<instance id="d001.s027.t007">begin</instance>
+<instance id="d001.s027.t008">showing</instance>
+<instance id="d001.s027.t009">results</instance>
+<instance id="d001.s027.t010">there</instance>
+<instance id="d001.s027.t011">soon</instance>
+<wf>.</wf>
+<wf>``</wf>
+</sentence>
+<sentence id="d001.s028">
+<instance id="d001.s028.t000">To date</instance>
+<wf>,</wf>
+<instance id="d001.s028.t001">scientists</instance>
+<wf>have</wf>
+<wf>fingered</wf>
+<wf>two</wf>
+<wf>of</wf>
+<wf>these</wf>
+<wf>cancer-suppressors</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s029">
+<wf>Dr.</wf>
+<wf>Dryja</wf>
+<instance id="d001.s029.t000">made</instance>
+<wf>his</wf>
+<instance id="d001.s029.t001">retinoblastoma</instance>
+<instance id="d001.s029.t002">discovery</instance>
+<wf>in</wf>
+<wf>1986</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s030">
+<instance id="d001.s030.t000">Then</instance>
+<instance id="d001.s030.t001">last</instance>
+<instance id="d001.s030.t002">spring</instance>
+<wf>,</wf>
+<instance id="d001.s030.t003">researchers</instance>
+<instance id="d001.s030.t004">reported</instance>
+<instance id="d001.s030.t005">finding</instance>
+<wf>a</wf>
+<instance id="d001.s030.t006">gene</instance>
+<instance id="d001.s030.t007">called</instance>
+<wf>p53</wf>
+<wf>which</wf>
+<wf>,</wf>
+<wf>if</wf>
+<instance id="d001.s030.t008">impaired</instance>
+<wf>,</wf>
+<instance id="d001.s030.t009">turns</instance>
+<instance id="d001.s030.t010">healthy</instance>
+<instance id="d001.s030.t011">colon</instance>
+<instance id="d001.s030.t012">cells</instance>
+<instance id="d001.s030.t013">cancerous</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s031">
+<instance id="d001.s031.t000">Soon</instance>
+<wf>after</wf>
+<wf>that</wf>
+<instance id="d001.s031.t001">report</instance>
+<wf>,</wf>
+<wf>two</wf>
+<instance id="d001.s031.t002">other</instance>
+<instance id="d001.s031.t003">research</instance>
+<instance id="d001.s031.t004">teams</instance>
+<wf>uncovered</wf>
+<instance id="d001.s031.t005">evidence</instance>
+<wf>that</wf>
+<wf>the</wf>
+<instance id="d001.s031.t006">same</instance>
+<instance id="d001.s031.t007">damaged</instance>
+<wf>p53</wf>
+<instance id="d001.s031.t008">gene</instance>
+<wf>is</wf>
+<instance id="d001.s031.t009">present</instance>
+<wf>in</wf>
+<instance id="d001.s031.t010">tissue</instance>
+<wf>from</wf>
+<instance id="d001.s031.t011">lung</instance>
+<wf>and</wf>
+<instance id="d001.s031.t012">breast</instance>
+<instance id="d001.s031.t013">cancers</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s032">
+<instance id="d001.s032.t000">Colon</instance>
+<wf>,</wf>
+<instance id="d001.s032.t001">lung</instance>
+<wf>and</wf>
+<instance id="d001.s032.t002">breast</instance>
+<instance id="d001.s032.t003">cancers</instance>
+<wf>are</wf>
+<wf>the</wf>
+<instance id="d001.s032.t004">most</instance>
+<instance id="d001.s032.t005">common</instance>
+<wf>and</wf>
+<instance id="d001.s032.t006">lethal</instance>
+<instance id="d001.s032.t007">forms</instance>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d001.s032.t008">disease</instance>
+<wf>,</wf>
+<instance id="d001.s032.t009">collectively</instance>
+<instance id="d001.s032.t010">killing</instance>
+<instance id="d001.s032.t011">almost</instance>
+<wf>200,000</wf>
+<instance id="d001.s032.t012">Americans</instance>
+<wf>a</wf>
+<instance id="d001.s032.t013">year</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s033">
+<instance id="d001.s033.t000">Right</instance>
+<instance id="d001.s033.t001">now</instance>
+<instance id="d001.s033.t002">about</instance>
+<wf>a</wf>
+<instance id="d001.s033.t003">dozen</instance>
+<instance id="d001.s033.t004">laboratories</instance>
+<wf>,</wf>
+<wf>in</wf>
+<wf>the</wf>
+<instance id="d001.s033.t005">U.S.</instance>
+<wf>,</wf>
+<instance id="d001.s033.t006">Canada</instance>
+<wf>and</wf>
+<instance id="d001.s033.t007">Britain</instance>
+<wf>,</wf>
+<wf>are</wf>
+<instance id="d001.s033.t008">racing</instance>
+<wf>to</wf>
+<wf>unmask</wf>
+<instance id="d001.s033.t009">other</instance>
+<wf>suspected</wf>
+<wf>tumor-suppressing</wf>
+<instance id="d001.s033.t010">genes</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s034">
+<wf>They</wf>
+<wf>have</wf>
+<instance id="d001.s034.t000">about</instance>
+<wf>seven</wf>
+<wf>candidates</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s035">
+<instance id="d001.s035.t000">Researchers</instance>
+<instance id="d001.s035.t001">say</instance>
+<wf>the</wf>
+<wf>inactivation</wf>
+<wf>of</wf>
+<wf>tumor-suppressor</wf>
+<instance id="d001.s035.t002">genes</instance>
+<wf>,</wf>
+<instance id="d001.s035.t003">alone</instance>
+<wf>or</wf>
+<wf>in</wf>
+<instance id="d001.s035.t004">combination</instance>
+<wf>,</wf>
+<instance id="d001.s035.t005">appears</instance>
+<instance id="d001.s035.t006">crucial</instance>
+<wf>to</wf>
+<wf>the</wf>
+<instance id="d001.s035.t007">development</instance>
+<wf>of</wf>
+<instance id="d001.s035.t008">such</instance>
+<instance id="d001.s035.t009">scourges</instance>
+<wf>as</wf>
+<instance id="d001.s035.t010">cancer</instance>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d001.s035.t011">brain</instance>
+<wf>,</wf>
+<wf>the</wf>
+<instance id="d001.s035.t012">skin</instance>
+<wf>,</wf>
+<instance id="d001.s035.t013">kidney</instance>
+<wf>,</wf>
+<instance id="d001.s035.t014">prostate</instance>
+<wf>,</wf>
+<wf>and</wf>
+<instance id="d001.s035.t015">cervix</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s036">
+<wf>There</wf>
+<wf>is</wf>
+<instance id="d001.s036.t000">evidence</instance>
+<wf>that</wf>
+<wf>if</wf>
+<instance id="d001.s036.t001">people</instance>
+<instance id="d001.s036.t002">inherit</instance>
+<instance id="d001.s036.t003">defective</instance>
+<instance id="d001.s036.t004">versions</instance>
+<wf>of</wf>
+<wf>these</wf>
+<instance id="d001.s036.t005">genes</instance>
+<wf>,</wf>
+<wf>they</wf>
+<wf>are</wf>
+<instance id="d001.s036.t006">especially</instance>
+<wf>prone</wf>
+<wf>to</wf>
+<instance id="d001.s036.t007">cancer</instance>
+<wf>,</wf>
+<instance id="d001.s036.t008">perhaps</instance>
+<instance id="d001.s036.t009">explaining</instance>
+<wf>,</wf>
+<instance id="d001.s036.t010">finally</instance>
+<wf>,</wf>
+<wf>why</wf>
+<wf>some</wf>
+<instance id="d001.s036.t011">cancers</instance>
+<instance id="d001.s036.t012">seem</instance>
+<wf>to</wf>
+<instance id="d001.s036.t013">haunt</instance>
+<instance id="d001.s036.t014">certain</instance>
+<instance id="d001.s036.t015">families</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s037">
+<wf>The</wf>
+<instance id="d001.s037.t000">story</instance>
+<wf>of</wf>
+<wf>tumor-suppressor</wf>
+<instance id="d001.s037.t001">genes</instance>
+<instance id="d001.s037.t002">goes back</instance>
+<wf>to</wf>
+<wf>the</wf>
+<instance id="d001.s037.t003">1970s</instance>
+<wf>,</wf>
+<wf>when</wf>
+<wf>a</wf>
+<instance id="d001.s037.t004">pediatrician</instance>
+<instance id="d001.s037.t005">named</instance>
+<wf>Alfred</wf>
+<wf>G.</wf>
+<wf>Knudson</wf>
+<wf>Jr.</wf>
+<instance id="d001.s037.t006">proposed</instance>
+<wf>that</wf>
+<instance id="d001.s037.t007">retinoblastoma</instance>
+<instance id="d001.s037.t008">stemmed</instance>
+<wf>from</wf>
+<wf>two</wf>
+<instance id="d001.s037.t009">separate</instance>
+<instance id="d001.s037.t010">genetic</instance>
+<instance id="d001.s037.t011">defects</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s038">
+<wf>He</wf>
+<instance id="d001.s038.t000">theorized</instance>
+<wf>that</wf>
+<wf>in</wf>
+<wf>the</wf>
+<instance id="d001.s038.t001">eye</instance>
+<instance id="d001.s038.t002">cancer</instance>
+<wf>,</wf>
+<wf>an</wf>
+<instance id="d001.s038.t003">infant</instance>
+<instance id="d001.s038.t004">inherited</instance>
+<wf>a</wf>
+<instance id="d001.s038.t005">damaged</instance>
+<instance id="d001.s038.t006">copy</instance>
+<wf>of</wf>
+<wf>a</wf>
+<instance id="d001.s038.t007">gene</instance>
+<wf>from</wf>
+<wf>one</wf>
+<instance id="d001.s038.t008">parent</instance>
+<wf>and</wf>
+<wf>a</wf>
+<instance id="d001.s038.t009">normal</instance>
+<instance id="d001.s038.t010">copy</instance>
+<wf>from</wf>
+<wf>the</wf>
+<wf>other</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s039">
+<wf>The</wf>
+<instance id="d001.s039.t000">tumor</instance>
+<wf>,</wf>
+<wf>he</wf>
+<instance id="d001.s039.t001">suggested</instance>
+<wf>,</wf>
+<instance id="d001.s039.t002">developed</instance>
+<wf>when</wf>
+<wf>the</wf>
+<instance id="d001.s039.t003">second</instance>
+<wf>,</wf>
+<instance id="d001.s039.t004">normal</instance>
+<instance id="d001.s039.t005">copy</instance>
+<instance id="d001.s039.t006">also</instance>
+<wf>was</wf>
+<instance id="d001.s039.t007">damaged</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s040">
+<wf>But</wf>
+<wf>there</wf>
+<wf>was</wf>
+<wf>no</wf>
+<instance id="d001.s040.t000">way</instance>
+<wf>to</wf>
+<instance id="d001.s040.t001">prove</instance>
+<wf>Dr.</wf>
+<wf>Knudson</wf>
+<wf>&apos;s</wf>
+<wf>``</wf>
+<wf>two-hit</wf>
+<wf>``</wf>
+<instance id="d001.s040.t002">theory</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s041">
+<instance id="d001.s041.t000">Back</instance>
+<instance id="d001.s041.t001">then</instance>
+<wf>,</wf>
+<instance id="d001.s041.t002">scientists</instance>
+<wf>had</wf>
+<wf>no</wf>
+<instance id="d001.s041.t003">way</instance>
+<wf>of</wf>
+<instance id="d001.s041.t004">ferreting out</instance>
+<instance id="d001.s041.t005">specific</instance>
+<instance id="d001.s041.t006">genes</instance>
+<wf>,</wf>
+<wf>but</wf>
+<wf>under</wf>
+<wf>a</wf>
+<instance id="d001.s041.t007">microscope</instance>
+<wf>they</wf>
+<wf>could</wf>
+<instance id="d001.s041.t008">see</instance>
+<wf>the</wf>
+<wf>23</wf>
+<instance id="d001.s041.t009">pairs</instance>
+<wf>of</wf>
+<instance id="d001.s041.t010">chromosomes</instance>
+<wf>in</wf>
+<wf>the</wf>
+<instance id="d001.s041.t011">cells</instance>
+<wf>that</wf>
+<instance id="d001.s041.t012">contain</instance>
+<wf>the</wf>
+<instance id="d001.s041.t013">genes</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s042">
+<instance id="d001.s042.t000">Occasionally</instance>
+<wf>,</wf>
+<instance id="d001.s042.t001">gross</instance>
+<instance id="d001.s042.t002">chromosome</instance>
+<instance id="d001.s042.t003">damage</instance>
+<wf>was</wf>
+<instance id="d001.s042.t004">visible</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s043">
+<wf>Dr.</wf>
+<wf>Knudson</wf>
+<instance id="d001.s043.t000">found</instance>
+<wf>that</wf>
+<wf>some</wf>
+<instance id="d001.s043.t001">children</instance>
+<wf>with</wf>
+<wf>the</wf>
+<instance id="d001.s043.t002">eye</instance>
+<instance id="d001.s043.t003">cancer</instance>
+<wf>had</wf>
+<instance id="d001.s043.t004">inherited</instance>
+<wf>a</wf>
+<instance id="d001.s043.t005">damaged</instance>
+<instance id="d001.s043.t006">copy</instance>
+<wf>of</wf>
+<instance id="d001.s043.t007">chromosome</instance>
+<instance id="d001.s043.t008">No.</instance>
+<wf>13</wf>
+<wf>from</wf>
+<wf>a</wf>
+<instance id="d001.s043.t009">parent</instance>
+<wf>who</wf>
+<wf>had</wf>
+<wf>had</wf>
+<wf>the</wf>
+<instance id="d001.s043.t010">disease</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s044">
+<wf>Under</wf>
+<wf>a</wf>
+<instance id="d001.s044.t000">microscope</instance>
+<wf>he</wf>
+<wf>could</wf>
+<instance id="d001.s044.t001">actually</instance>
+<instance id="d001.s044.t002">see</instance>
+<wf>that</wf>
+<wf>a</wf>
+<instance id="d001.s044.t003">bit</instance>
+<wf>of</wf>
+<instance id="d001.s044.t004">chromosome</instance>
+<wf>13</wf>
+<wf>was</wf>
+<instance id="d001.s044.t005">missing</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s045">
+<wf>He</wf>
+<instance id="d001.s045.t000">assumed</instance>
+<wf>the</wf>
+<instance id="d001.s045.t001">missing</instance>
+<instance id="d001.s045.t002">piece</instance>
+<instance id="d001.s045.t003">contained</instance>
+<wf>a</wf>
+<instance id="d001.s045.t004">gene</instance>
+<wf>or</wf>
+<instance id="d001.s045.t005">genes</instance>
+<wf>whose</wf>
+<instance id="d001.s045.t006">loss</instance>
+<wf>had</wf>
+<wf>a</wf>
+<instance id="d001.s045.t007">critical</instance>
+<instance id="d001.s045.t008">role</instance>
+<wf>in</wf>
+<instance id="d001.s045.t009">setting off</instance>
+<wf>the</wf>
+<instance id="d001.s045.t010">cancer</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s046">
+<wf>But</wf>
+<wf>he</wf>
+<wf>did</wf>
+<wf>not</wf>
+<instance id="d001.s046.t000">know</instance>
+<wf>which</wf>
+<instance id="d001.s046.t001">gene</instance>
+<wf>or</wf>
+<instance id="d001.s046.t002">genes</instance>
+<wf>had</wf>
+<wf>disappeared</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s047">
+<instance id="d001.s047.t000">Then</instance>
+<wf>,</wf>
+<wf>a</wf>
+<instance id="d001.s047.t001">scientific</instance>
+<instance id="d001.s047.t002">team</instance>
+<instance id="d001.s047.t003">led</instance>
+<wf>by</wf>
+<instance id="d001.s047.t004">molecular</instance>
+<instance id="d001.s047.t005">geneticist</instance>
+<wf>Webster</wf>
+<wf>Cavenee</wf>
+<wf>,</wf>
+<instance id="d001.s047.t006">then</instance>
+<wf>at</wf>
+<wf>the</wf>
+<wf>University</wf>
+<wf>of</wf>
+<wf>Utah</wf>
+<wf>,</wf>
+<instance id="d001.s047.t007">found</instance>
+<wf>the</wf>
+<instance id="d001.s047.t008">answer</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s048">
+<wf>The</wf>
+<instance id="d001.s048.t000">team</instance>
+<instance id="d001.s048.t001">used</instance>
+<wf>a</wf>
+<instance id="d001.s048.t002">battery</instance>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d001.s048.t003">newly</instance>
+<instance id="d001.s048.t004">developed</instance>
+<wf>``</wf>
+<instance id="d001.s048.t005">gene</instance>
+<wf>probes</wf>
+<wf>,</wf>
+<wf>``</wf>
+<instance id="d001.s048.t006">snippets</instance>
+<wf>of</wf>
+<instance id="d001.s048.t007">genetic</instance>
+<instance id="d001.s048.t008">material</instance>
+<wf>that</wf>
+<wf>can</wf>
+<instance id="d001.s048.t009">track</instance>
+<wf>a</wf>
+<instance id="d001.s048.t010">gene</instance>
+<wf>&apos;s</wf>
+<instance id="d001.s048.t011">presence</instance>
+<wf>in</wf>
+<wf>a</wf>
+<instance id="d001.s048.t012">cell</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s049">
+<wf>By</wf>
+<instance id="d001.s049.t000">analyzing</instance>
+<instance id="d001.s049.t001">cells</instance>
+<instance id="d001.s049.t002">extracted</instance>
+<wf>from</wf>
+<instance id="d001.s049.t003">eye</instance>
+<instance id="d001.s049.t004">tumors</instance>
+<wf>,</wf>
+<wf>they</wf>
+<instance id="d001.s049.t005">found</instance>
+<instance id="d001.s049.t006">defects</instance>
+<wf>in</wf>
+<wf>the</wf>
+<instance id="d001.s049.t007">second</instance>
+<instance id="d001.s049.t008">copy</instance>
+<wf>of</wf>
+<instance id="d001.s049.t009">chromosome</instance>
+<wf>13</wf>
+<wf>in</wf>
+<wf>the</wf>
+<instance id="d001.s049.t010">exact</instance>
+<instance id="d001.s049.t011">area</instance>
+<wf>as</wf>
+<wf>in</wf>
+<wf>the</wf>
+<instance id="d001.s049.t012">first</instance>
+<instance id="d001.s049.t013">copy</instance>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d001.s049.t014">chromosome</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s050">
+<wf>The</wf>
+<instance id="d001.s050.t000">finding</instance>
+<wf>riveted</wf>
+<instance id="d001.s050.t001">medicine</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s051">
+<wf>It</wf>
+<wf>was</wf>
+<wf>the</wf>
+<instance id="d001.s051.t000">first</instance>
+<instance id="d001.s051.t001">time</instance>
+<wf>anyone</wf>
+<wf>had</wf>
+<instance id="d001.s051.t002">showed</instance>
+<wf>that</wf>
+<wf>the</wf>
+<instance id="d001.s051.t003">loss</instance>
+<wf>of</wf>
+<wf>both</wf>
+<instance id="d001.s051.t004">copies</instance>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d001.s051.t005">same</instance>
+<instance id="d001.s051.t006">gene</instance>
+<wf>could</wf>
+<instance id="d001.s051.t007">lead</instance>
+<wf>to</wf>
+<wf>the</wf>
+<instance id="d001.s051.t008">eruption</instance>
+<wf>of</wf>
+<wf>a</wf>
+<instance id="d001.s051.t009">cancer</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s052">
+<wf>``</wf>
+<wf>It</wf>
+<wf>was</wf>
+<instance id="d001.s052.t000">extraordinarily</instance>
+<instance id="d001.s052.t001">satisfying</instance>
+<wf>,</wf>
+<wf>``</wf>
+<instance id="d001.s052.t002">says</instance>
+<wf>Dr.</wf>
+<wf>Knudson</wf>
+<wf>,</wf>
+<instance id="d001.s052.t003">now</instance>
+<wf>at</wf>
+<wf>Fox</wf>
+<wf>Chase</wf>
+<wf>Cancer</wf>
+<wf>Research</wf>
+<wf>Center</wf>
+<wf>in</wf>
+<wf>Philadelphia</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s053">
+<wf>``</wf>
+<wf>I</wf>
+<wf>was</wf>
+<wf>convinced</wf>
+<wf>that</wf>
+<wf>what</wf>
+<wf>was</wf>
+<instance id="d001.s053.t000">true</instance>
+<wf>of</wf>
+<instance id="d001.s053.t001">retinoblastoma</instance>
+<wf>would</wf>
+<wf>be</wf>
+<instance id="d001.s053.t002">true</instance>
+<wf>for</wf>
+<wf>all</wf>
+<instance id="d001.s053.t003">cancers</instance>
+<wf>.</wf>
+<wf>``</wf>
+</sentence>
+<sentence id="d001.s054">
+<wf>It</wf>
+<wf>was</wf>
+<wf>an</wf>
+<instance id="d001.s054.t000">audacious</instance>
+<instance id="d001.s054.t001">claim</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s055">
+<wf>But</wf>
+<wf>in</wf>
+<wf>Baltimore</wf>
+<wf>,</wf>
+<wf>Dr.</wf>
+<wf>Vogelstein</wf>
+<wf>,</wf>
+<wf>a</wf>
+<instance id="d001.s055.t000">young</instance>
+<instance id="d001.s055.t001">molecular</instance>
+<instance id="d001.s055.t002">biologist</instance>
+<wf>at</wf>
+<wf>Johns</wf>
+<wf>Hopkins</wf>
+<wf>Medical</wf>
+<wf>School</wf>
+<wf>,</wf>
+<instance id="d001.s055.t003">believed</instance>
+<wf>Dr.</wf>
+<wf>Knudson</wf>
+<wf>was</wf>
+<instance id="d001.s055.t004">right</instance>
+<wf>,</wf>
+<wf>and</wf>
+<instance id="d001.s055.t005">set out</instance>
+<wf>to</wf>
+<instance id="d001.s055.t006">repeat</instance>
+<wf>the</wf>
+<wf>Cavenee</wf>
+<instance id="d001.s055.t007">experiment</instance>
+<wf>in</wf>
+<instance id="d001.s055.t008">cells</instance>
+<wf>from</wf>
+<instance id="d001.s055.t009">other</instance>
+<instance id="d001.s055.t010">cancers</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s056">
+<wf>His</wf>
+<wf>was</wf>
+<wf>one</wf>
+<wf>of</wf>
+<wf>two</wf>
+<instance id="d001.s056.t000">research</instance>
+<instance id="d001.s056.t001">teams</instance>
+<wf>in</wf>
+<wf>1984</wf>
+<wf>to</wf>
+<instance id="d001.s056.t002">report</instance>
+<instance id="d001.s056.t003">dual</instance>
+<instance id="d001.s056.t004">chromosome</instance>
+<instance id="d001.s056.t005">losses</instance>
+<wf>for</wf>
+<wf>a</wf>
+<instance id="d001.s056.t006">rare</instance>
+<instance id="d001.s056.t007">childhood</instance>
+<instance id="d001.s056.t008">cancer</instance>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d001.s056.t009">kidney</instance>
+<instance id="d001.s056.t010">called</instance>
+<wf>Wilm</wf>
+<wf>&apos;s</wf>
+<instance id="d001.s056.t011">tumor</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s057">
+<wf>Dr.</wf>
+<wf>Vogelstein</wf>
+<instance id="d001.s057.t000">next</instance>
+<instance id="d001.s057.t001">turned</instance>
+<wf>his</wf>
+<instance id="d001.s057.t002">attention</instance>
+<instance id="d001.s057.t003">colon</instance>
+<instance id="d001.s057.t004">cancer</instance>
+<wf>,</wf>
+<wf>the</wf>
+<instance id="d001.s057.t005">second</instance>
+<instance id="d001.s057.t006">biggest</instance>
+<instance id="d001.s057.t007">cancer</instance>
+<instance id="d001.s057.t008">killer</instance>
+<wf>in</wf>
+<wf>the</wf>
+<instance id="d001.s057.t009">U.S.</instance>
+<wf>after</wf>
+<instance id="d001.s057.t010">lung</instance>
+<instance id="d001.s057.t011">cancer</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s058">
+<wf>He</wf>
+<instance id="d001.s058.t000">believed</instance>
+<instance id="d001.s058.t001">colon</instance>
+<instance id="d001.s058.t002">cancer</instance>
+<wf>might</wf>
+<instance id="d001.s058.t003">also</instance>
+<instance id="d001.s058.t004">arise</instance>
+<wf>from</wf>
+<instance id="d001.s058.t005">multiple</instance>
+<wf>``</wf>
+<wf>hits</wf>
+<wf>``</wf>
+<wf>on</wf>
+<instance id="d001.s058.t006">cancer</instance>
+<instance id="d001.s058.t007">suppressor genes</instance>
+<wf>,</wf>
+<wf>because</wf>
+<wf>it</wf>
+<instance id="d001.s058.t008">often</instance>
+<instance id="d001.s058.t009">seems</instance>
+<wf>to</wf>
+<instance id="d001.s058.t010">develop</instance>
+<wf>in</wf>
+<instance id="d001.s058.t011">stages</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s059">
+<wf>It</wf>
+<instance id="d001.s059.t000">often</instance>
+<wf>is</wf>
+<instance id="d001.s059.t001">preceded</instance>
+<wf>by</wf>
+<wf>the</wf>
+<instance id="d001.s059.t002">development</instance>
+<wf>of</wf>
+<instance id="d001.s059.t003">polyps</instance>
+<wf>in</wf>
+<wf>the</wf>
+<instance id="d001.s059.t004">bowel</instance>
+<wf>,</wf>
+<wf>which</wf>
+<wf>in</wf>
+<wf>some</wf>
+<instance id="d001.s059.t005">cases</instance>
+<instance id="d001.s059.t006">become</instance>
+<instance id="d001.s059.t007">increasingly</instance>
+<instance id="d001.s059.t008">malignant</instance>
+<wf>in</wf>
+<instance id="d001.s059.t009">identifiable</instance>
+<instance id="d001.s059.t010">stages</instance>
+<wf>--</wf>
+<instance id="d001.s059.t011">progressing</instance>
+<wf>from</wf>
+<instance id="d001.s059.t012">less</instance>
+<instance id="d001.s059.t013">severe</instance>
+<wf>to</wf>
+<instance id="d001.s059.t014">deadly</instance>
+<wf>--</wf>
+<wf>as</wf>
+<wf>though</wf>
+<wf>a</wf>
+<wf>cascade</wf>
+<wf>of</wf>
+<instance id="d001.s059.t015">genetic</instance>
+<instance id="d001.s059.t016">damage</instance>
+<wf>might</wf>
+<wf>be</wf>
+<instance id="d001.s059.t017">occurring</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s060">
+<wf>Dr.</wf>
+<wf>Vogelstein</wf>
+<wf>and</wf>
+<wf>a</wf>
+<instance id="d001.s060.t000">doctoral</instance>
+<instance id="d001.s060.t001">student</instance>
+<wf>,</wf>
+<wf>Eric</wf>
+<wf>Fearon</wf>
+<wf>,</wf>
+<instance id="d001.s060.t002">began</instance>
+<instance id="d001.s060.t003">months</instance>
+<wf>of</wf>
+<instance id="d001.s060.t004">tedious</instance>
+<wf>and</wf>
+<instance id="d001.s060.t005">often</instance>
+<instance id="d001.s060.t006">frustrating</instance>
+<instance id="d001.s060.t007">probing</instance>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d001.s060.t008">chromosomes</instance>
+<instance id="d001.s060.t009">searching</instance>
+<wf>for</wf>
+<instance id="d001.s060.t010">signs</instance>
+<wf>of</wf>
+<instance id="d001.s060.t011">genetic</instance>
+<instance id="d001.s060.t012">damage</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s061">
+<wf>They</wf>
+<instance id="d001.s061.t000">began</instance>
+<wf>uncovering</wf>
+<wf>a</wf>
+<instance id="d001.s061.t001">confusing</instance>
+<instance id="d001.s061.t002">variety</instance>
+<wf>of</wf>
+<instance id="d001.s061.t003">genetic</instance>
+<wf>deletions</wf>
+<wf>,</wf>
+<wf>some</wf>
+<instance id="d001.s061.t004">existing</instance>
+<instance id="d001.s061.t005">only</instance>
+<wf>in</wf>
+<wf>benign</wf>
+<instance id="d001.s061.t006">polyps</instance>
+<wf>,</wf>
+<wf>others</wf>
+<wf>in</wf>
+<instance id="d001.s061.t007">malignant</instance>
+<instance id="d001.s061.t008">cells</instance>
+<wf>and</wf>
+<instance id="d001.s061.t009">many</instance>
+<wf>in</wf>
+<wf>both</wf>
+<instance id="d001.s061.t010">polyps</instance>
+<wf>and</wf>
+<instance id="d001.s061.t011">malignant</instance>
+<instance id="d001.s061.t012">cells</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s062">
+<instance id="d001.s062.t000">Gradually</instance>
+<wf>,</wf>
+<wf>a</wf>
+<instance id="d001.s062.t001">coherent</instance>
+<instance id="d001.s062.t002">picture</instance>
+<wf>of</wf>
+<instance id="d001.s062.t003">cancer</instance>
+<instance id="d001.s062.t004">development</instance>
+<instance id="d001.s062.t005">emerged</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s063">
+<wf>If</wf>
+<wf>both</wf>
+<instance id="d001.s063.t000">copies</instance>
+<wf>of</wf>
+<wf>a</wf>
+<instance id="d001.s063.t001">certain</instance>
+<instance id="d001.s063.t002">gene</instance>
+<wf>were</wf>
+<instance id="d001.s063.t003">knocked out</instance>
+<wf>,</wf>
+<wf>benign</wf>
+<instance id="d001.s063.t004">polyps</instance>
+<wf>would</wf>
+<instance id="d001.s063.t005">develop</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s064">
+<wf>If</wf>
+<wf>both</wf>
+<instance id="d001.s064.t000">copies</instance>
+<wf>of</wf>
+<wf>a</wf>
+<instance id="d001.s064.t001">second</instance>
+<instance id="d001.s064.t002">gene</instance>
+<wf>were</wf>
+<instance id="d001.s064.t003">then</instance>
+<instance id="d001.s064.t004">deleted</instance>
+<wf>,</wf>
+<wf>the</wf>
+<instance id="d001.s064.t005">polyps</instance>
+<wf>would</wf>
+<instance id="d001.s064.t006">progress</instance>
+<wf>to</wf>
+<instance id="d001.s064.t007">malignancy</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s065">
+<wf>It</wf>
+<wf>was</wf>
+<instance id="d001.s065.t000">clear</instance>
+<wf>that</wf>
+<instance id="d001.s065.t001">more</instance>
+<wf>than</wf>
+<wf>one</wf>
+<instance id="d001.s065.t002">gene</instance>
+<wf>had</wf>
+<wf>to</wf>
+<wf>be</wf>
+<instance id="d001.s065.t003">damaged</instance>
+<wf>for</wf>
+<instance id="d001.s065.t004">colon</instance>
+<instance id="d001.s065.t005">cancer</instance>
+<wf>to</wf>
+<instance id="d001.s065.t006">develop</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s066">
+<wf>Their</wf>
+<instance id="d001.s066.t000">report</instance>
+<instance id="d001.s066.t001">galvanized</instance>
+<instance id="d001.s066.t002">other</instance>
+<instance id="d001.s066.t003">molecular</instance>
+<instance id="d001.s066.t004">biologists</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s067">
+<wf>``</wf>
+<wf>It</wf>
+<wf>was</wf>
+<wf>the</wf>
+<instance id="d001.s067.t000">confirming</instance>
+<instance id="d001.s067.t001">evidence</instance>
+<wf>we</wf>
+<wf>all</wf>
+<instance id="d001.s067.t002">needed</instance>
+<wf>that</wf>
+<instance id="d001.s067.t003">gene</instance>
+<instance id="d001.s067.t004">losses</instance>
+<wf>were</wf>
+<instance id="d001.s067.t005">critical</instance>
+<wf>to</wf>
+<wf>the</wf>
+<instance id="d001.s067.t006">development</instance>
+<wf>of</wf>
+<wf>a</wf>
+<instance id="d001.s067.t007">common</instance>
+<instance id="d001.s067.t008">tumor</instance>
+<wf>,</wf>
+<wf>``</wf>
+<instance id="d001.s067.t009">says</instance>
+<wf>Ray</wf>
+<wf>White</wf>
+<wf>at</wf>
+<wf>Howard</wf>
+<wf>Hughes</wf>
+<wf>Medical</wf>
+<wf>Institute</wf>
+<wf>in</wf>
+<wf>Salt</wf>
+<wf>Lake</wf>
+<wf>City</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s068">
+<wf>But</wf>
+<wf>Dr.</wf>
+<wf>Vogelstein</wf>
+<wf>had</wf>
+<instance id="d001.s068.t000">yet</instance>
+<wf>to</wf>
+<instance id="d001.s068.t001">nail</instance>
+<wf>the</wf>
+<instance id="d001.s068.t002">identity</instance>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d001.s068.t003">gene</instance>
+<wf>that</wf>
+<wf>,</wf>
+<wf>if</wf>
+<instance id="d001.s068.t004">damaged</instance>
+<wf>,</wf>
+<instance id="d001.s068.t005">flipped</instance>
+<wf>a</wf>
+<instance id="d001.s068.t006">colon</instance>
+<instance id="d001.s068.t007">cell</instance>
+<wf>into</wf>
+<instance id="d001.s068.t008">full-blown</instance>
+<instance id="d001.s068.t009">malignancy</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s069">
+<wf>They</wf>
+<instance id="d001.s069.t000">focused on</instance>
+<instance id="d001.s069.t001">chromosome</instance>
+<wf>17</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s070">
+<wf>For</wf>
+<instance id="d001.s070.t000">months</instance>
+<wf>the</wf>
+<wf>Johns</wf>
+<wf>Hopkins</wf>
+<instance id="d001.s070.t001">researchers</instance>
+<wf>,</wf>
+<instance id="d001.s070.t002">using</instance>
+<instance id="d001.s070.t003">gene</instance>
+<wf>probes</wf>
+<wf>,</wf>
+<instance id="d001.s070.t004">experimentally</instance>
+<wf>crawled</wf>
+<instance id="d001.s070.t005">down</instance>
+<wf>the</wf>
+<instance id="d001.s070.t006">length</instance>
+<wf>of</wf>
+<instance id="d001.s070.t007">chromosome</instance>
+<wf>17</wf>
+<wf>,</wf>
+<instance id="d001.s070.t008">looking</instance>
+<wf>for</wf>
+<wf>the</wf>
+<wf>smallest</wf>
+<instance id="d001.s070.t009">common</instance>
+<instance id="d001.s070.t010">bit</instance>
+<wf>of</wf>
+<instance id="d001.s070.t011">genetic</instance>
+<instance id="d001.s070.t012">material</instance>
+<instance id="d001.s070.t013">lost</instance>
+<wf>in</wf>
+<wf>all</wf>
+<instance id="d001.s070.t014">tumor</instance>
+<instance id="d001.s070.t015">cells</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s071">
+<wf>Such</wf>
+<wf>a</wf>
+<instance id="d001.s071.t000">piece</instance>
+<wf>of</wf>
+<instance id="d001.s071.t001">DNA</instance>
+<wf>would</wf>
+<instance id="d001.s071.t002">probably</instance>
+<instance id="d001.s071.t003">constitute</instance>
+<wf>a</wf>
+<instance id="d001.s071.t004">gene</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s072">
+<wf>When</wf>
+<wf>they</wf>
+<instance id="d001.s072.t000">found</instance>
+<wf>it</wf>
+<instance id="d001.s072.t001">last</instance>
+<instance id="d001.s072.t002">winter</instance>
+<wf>,</wf>
+<wf>Dr.</wf>
+<wf>Vogelstein</wf>
+<wf>was</wf>
+<instance id="d001.s072.t003">dubious</instance>
+<wf>that</wf>
+<wf>the</wf>
+<instance id="d001.s072.t004">search</instance>
+<wf>was</wf>
+<instance id="d001.s072.t005">over</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s073">
+<wf>His</wf>
+<instance id="d001.s073.t000">doubts</instance>
+<instance id="d001.s073.t001">stemmed</instance>
+<wf>from</wf>
+<wf>the</wf>
+<instance id="d001.s073.t002">fact</instance>
+<wf>that</wf>
+<instance id="d001.s073.t003">several</instance>
+<instance id="d001.s073.t004">years</instance>
+<instance id="d001.s073.t005">earlier</instance>
+<wf>a</wf>
+<wf>Princeton</wf>
+<wf>University</wf>
+<instance id="d001.s073.t006">researcher</instance>
+<wf>,</wf>
+<wf>Arnold</wf>
+<wf>Levine</wf>
+<wf>,</wf>
+<wf>had</wf>
+<instance id="d001.s073.t007">found</instance>
+<wf>in</wf>
+<instance id="d001.s073.t008">experiments</instance>
+<wf>with</wf>
+<instance id="d001.s073.t009">mice</instance>
+<wf>that</wf>
+<wf>a</wf>
+<instance id="d001.s073.t010">gene</instance>
+<instance id="d001.s073.t011">called</instance>
+<wf>p53</wf>
+<wf>could</wf>
+<instance id="d001.s073.t012">transform</instance>
+<instance id="d001.s073.t013">normal</instance>
+<instance id="d001.s073.t014">cells</instance>
+<wf>into</wf>
+<instance id="d001.s073.t015">cancerous</instance>
+<instance id="d001.s073.t016">ones</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s074">
+<wf>The</wf>
+<wf>deletion</wf>
+<wf>Dr.</wf>
+<wf>Vogelstein</wf>
+<instance id="d001.s074.t000">found</instance>
+<wf>was</wf>
+<wf>in</wf>
+<instance id="d001.s074.t001">exactly</instance>
+<wf>the</wf>
+<instance id="d001.s074.t002">same</instance>
+<instance id="d001.s074.t003">spot</instance>
+<wf>as</wf>
+<wf>p53</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s075">
+<wf>But</wf>
+<wf>Mr.</wf>
+<wf>Levine</wf>
+<wf>had</wf>
+<instance id="d001.s075.t000">said</instance>
+<wf>the</wf>
+<wf>p53</wf>
+<instance id="d001.s075.t001">gene</instance>
+<instance id="d001.s075.t002">caused</instance>
+<instance id="d001.s075.t003">cancer</instance>
+<wf>by</wf>
+<instance id="d001.s075.t004">promoting</instance>
+<instance id="d001.s075.t005">growth</instance>
+<wf>,</wf>
+<wf>whereas</wf>
+<wf>the</wf>
+<wf>Johns</wf>
+<wf>Hopkins</wf>
+<instance id="d001.s075.t006">scientists</instance>
+<wf>were</wf>
+<instance id="d001.s075.t007">looking</instance>
+<wf>for</wf>
+<wf>a</wf>
+<instance id="d001.s075.t008">gene</instance>
+<wf>that</wf>
+<instance id="d001.s075.t009">suppressed</instance>
+<instance id="d001.s075.t010">growth</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s076">
+<wf>Despite</wf>
+<wf>that</wf>
+<wf>,</wf>
+<wf>when</wf>
+<wf>the</wf>
+<wf>Johns</wf>
+<wf>Hopkins</wf>
+<instance id="d001.s076.t000">scientists</instance>
+<instance id="d001.s076.t001">compared</instance>
+<wf>the</wf>
+<instance id="d001.s076.t002">gene</instance>
+<wf>they</wf>
+<wf>had</wf>
+<instance id="d001.s076.t003">found</instance>
+<wf>in</wf>
+<wf>the</wf>
+<instance id="d001.s076.t004">human</instance>
+<instance id="d001.s076.t005">cancer</instance>
+<instance id="d001.s076.t006">cells</instance>
+<wf>with</wf>
+<wf>the</wf>
+<wf>Mr.</wf>
+<wf>Levine</wf>
+<wf>&apos;s</wf>
+<wf>p53</wf>
+<instance id="d001.s076.t007">gene</instance>
+<wf>they</wf>
+<instance id="d001.s076.t008">found</instance>
+<wf>the</wf>
+<wf>two</wf>
+<wf>were</wf>
+<instance id="d001.s076.t009">identical</instance>
+<wf>;</wf>
+<wf>it</wf>
+<instance id="d001.s076.t010">turned out</instance>
+<wf>that</wf>
+<wf>in</wf>
+<wf>Mr.</wf>
+<wf>Levine</wf>
+<wf>&apos;s</wf>
+<instance id="d001.s076.t011">cancer</instance>
+<instance id="d001.s076.t012">studies</instance>
+<wf>,</wf>
+<wf>he</wf>
+<wf>had</wf>
+<instance id="d001.s076.t013">unknowingly</instance>
+<wf>been</wf>
+<instance id="d001.s076.t014">observing</instance>
+<wf>a</wf>
+<instance id="d001.s076.t015">damaged</instance>
+<instance id="d001.s076.t016">form</instance>
+<wf>of</wf>
+<wf>p53</wf>
+<wf>--</wf>
+<wf>a</wf>
+<wf>cancer-suppressing</wf>
+<instance id="d001.s076.t017">gene</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s077">
+<wf>The</wf>
+<instance id="d001.s077.t000">discovery</instance>
+<wf>``</wf>
+<instance id="d001.s077.t001">suddenly</instance>
+<instance id="d001.s077.t002">puts</instance>
+<wf>an</wf>
+<instance id="d001.s077.t003">obscure</instance>
+<instance id="d001.s077.t004">gene</instance>
+<instance id="d001.s077.t005">right</instance>
+<wf>in</wf>
+<wf>the</wf>
+<wf>cockpit</wf>
+<wf>of</wf>
+<instance id="d001.s077.t006">cancer</instance>
+<instance id="d001.s077.t007">formation</instance>
+<wf>,</wf>
+<wf>``</wf>
+<instance id="d001.s077.t008">says</instance>
+<wf>Robert</wf>
+<wf>Weinberg</wf>
+<wf>,</wf>
+<wf>a</wf>
+<instance id="d001.s077.t009">leader</instance>
+<wf>in</wf>
+<wf>cancer-gene</wf>
+<instance id="d001.s077.t010">research</instance>
+<wf>at</wf>
+<wf>Whitehead</wf>
+<wf>Institute</wf>
+<wf>in</wf>
+<wf>Cambridge</wf>
+<wf>,</wf>
+<wf>Mass</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s078">
+<instance id="d001.s078.t000">Evidence</instance>
+<instance id="d001.s078.t001">now</instance>
+<wf>is</wf>
+<instance id="d001.s078.t002">emerging</instance>
+<wf>that</wf>
+<wf>the</wf>
+<wf>p53</wf>
+<instance id="d001.s078.t003">suppressor gene</instance>
+<wf>is</wf>
+<instance id="d001.s078.t004">involved</instance>
+<wf>in</wf>
+<instance id="d001.s078.t005">other</instance>
+<instance id="d001.s078.t006">cancers</instance>
+<wf>,</wf>
+<instance id="d001.s078.t007">too</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s079">
+<instance id="d001.s079.t000">Researchers</instance>
+<wf>in</wf>
+<wf>Edinburgh</wf>
+<wf>,</wf>
+<wf>Scotland</wf>
+<wf>,</wf>
+<wf>have</wf>
+<instance id="d001.s079.t001">found</instance>
+<wf>that</wf>
+<wf>in</wf>
+<wf>23</wf>
+<wf>of</wf>
+<wf>38</wf>
+<instance id="d001.s079.t002">breast</instance>
+<instance id="d001.s079.t003">tumors</instance>
+<wf>,</wf>
+<wf>one</wf>
+<instance id="d001.s079.t004">copy</instance>
+<wf>of</wf>
+<instance id="d001.s079.t005">chromosome</instance>
+<wf>17</wf>
+<wf>was</wf>
+<instance id="d001.s079.t006">mutated</instance>
+<wf>at</wf>
+<wf>the</wf>
+<instance id="d001.s079.t007">spot</instance>
+<wf>where</wf>
+<instance id="d001.s079.t008">gene</instance>
+<wf>p53</wf>
+<wf>lies</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s080">
+<wf>The</wf>
+<instance id="d001.s080.t000">scientists</instance>
+<instance id="d001.s080.t001">say</instance>
+<wf>that</wf>
+<wf>since</wf>
+<instance id="d001.s080.t002">breast</instance>
+<instance id="d001.s080.t003">cancer</instance>
+<instance id="d001.s080.t004">often</instance>
+<instance id="d001.s080.t005">strikes</instance>
+<instance id="d001.s080.t006">multiple</instance>
+<instance id="d001.s080.t007">members</instance>
+<wf>of</wf>
+<instance id="d001.s080.t008">certain</instance>
+<instance id="d001.s080.t009">families</instance>
+<wf>,</wf>
+<wf>the</wf>
+<instance id="d001.s080.t010">gene</instance>
+<wf>,</wf>
+<wf>when</wf>
+<instance id="d001.s080.t011">inherited</instance>
+<wf>in</wf>
+<wf>a</wf>
+<instance id="d001.s080.t012">damaged</instance>
+<instance id="d001.s080.t013">form</instance>
+<wf>,</wf>
+<wf>may</wf>
+<wf>predispose</wf>
+<instance id="d001.s080.t014">women</instance>
+<wf>to</wf>
+<wf>the</wf>
+<instance id="d001.s080.t015">cancer</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s081">
+<wf>The</wf>
+<wf>p53</wf>
+<instance id="d001.s081.t000">gene</instance>
+<wf>has</wf>
+<instance id="d001.s081.t001">just</instance>
+<wf>been</wf>
+<instance id="d001.s081.t002">implicated</instance>
+<wf>in</wf>
+<instance id="d001.s081.t003">lung</instance>
+<instance id="d001.s081.t004">cancer</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s082">
+<wf>In</wf>
+<wf>a</wf>
+<instance id="d001.s082.t000">report</instance>
+<wf>out</wf>
+<instance id="d001.s082.t001">last</instance>
+<instance id="d001.s082.t002">week</instance>
+<wf>,</wf>
+<wf>John</wf>
+<wf>Minna</wf>
+<wf>and</wf>
+<instance id="d001.s082.t003">colleagues</instance>
+<wf>at</wf>
+<wf>the</wf>
+<wf>National</wf>
+<wf>Cancer</wf>
+<wf>Institute</wf>
+<instance id="d001.s082.t004">say</instance>
+<wf>that</wf>
+<instance id="d001.s082.t005">about</instance>
+<wf>half</wf>
+<wf>the</wf>
+<instance id="d001.s082.t006">cells</instance>
+<instance id="d001.s082.t007">taken</instance>
+<wf>from</wf>
+<instance id="d001.s082.t008">lung</instance>
+<instance id="d001.s082.t009">cancer</instance>
+<instance id="d001.s082.t010">tissue</instance>
+<wf>they</wf>
+<instance id="d001.s082.t011">tested</instance>
+<wf>are</wf>
+<instance id="d001.s082.t012">missing</instance>
+<wf>this</wf>
+<instance id="d001.s082.t013">gene</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s083">
+<wf>There</wf>
+<wf>also</wf>
+<wf>are</wf>
+<instance id="d001.s083.t000">reports</instance>
+<wf>from</wf>
+<wf>several</wf>
+<instance id="d001.s083.t001">labs</instance>
+<wf>,</wf>
+<instance id="d001.s083.t002">as</instance>
+<instance id="d001.s083.t003">yet</instance>
+<instance id="d001.s083.t004">unpublished</instance>
+<wf>,</wf>
+<wf>of</wf>
+<instance id="d001.s083.t005">missing</instance>
+<wf>p53</wf>
+<instance id="d001.s083.t006">genes</instance>
+<wf>in</wf>
+<instance id="d001.s083.t007">tissue</instance>
+<instance id="d001.s083.t008">taken</instance>
+<wf>from</wf>
+<instance id="d001.s083.t009">kidney</instance>
+<wf>,</wf>
+<instance id="d001.s083.t010">brain</instance>
+<wf>and</wf>
+<instance id="d001.s083.t011">skin</instance>
+<instance id="d001.s083.t012">cancers</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s084">
+<instance id="d001.s084.t000">At the same time</instance>
+<wf>,</wf>
+<wf>the</wf>
+<wf>Johns</wf>
+<wf>Hopkins</wf>
+<instance id="d001.s084.t001">team</instance>
+<wf>and</wf>
+<wf>others</wf>
+<wf>are</wf>
+<instance id="d001.s084.t002">rushing</instance>
+<wf>to</wf>
+<wf>pinpoint</wf>
+<instance id="d001.s084.t003">other</instance>
+<wf>tumor-suppressor</wf>
+<instance id="d001.s084.t004">genes</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s085">
+<wf>Dr.</wf>
+<wf>Vogelstein</wf>
+<instance id="d001.s085.t000">hopes</instance>
+<instance id="d001.s085.t001">soon</instance>
+<wf>to</wf>
+<wf>isolate</wf>
+<wf>one</wf>
+<wf>on</wf>
+<instance id="d001.s085.t002">chromosome</instance>
+<wf>18</wf>
+<wf>,</wf>
+<instance id="d001.s085.t003">also</instance>
+<instance id="d001.s085.t004">involved</instance>
+<wf>in</wf>
+<instance id="d001.s085.t005">colon</instance>
+<instance id="d001.s085.t006">cancer</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s086">
+<wf>Ray</wf>
+<wf>White</wf>
+<wf>in</wf>
+<wf>Utah</wf>
+<wf>and</wf>
+<wf>Walter</wf>
+<wf>Bodmer</wf>
+<wf>,</wf>
+<wf>a</wf>
+<instance id="d001.s086.t000">researcher</instance>
+<wf>in</wf>
+<wf>Great</wf>
+<wf>Britain</wf>
+<wf>,</wf>
+<wf>are</wf>
+<instance id="d001.s086.t001">close</instance>
+<wf>to</wf>
+<instance id="d001.s086.t002">finding</instance>
+<wf>another</wf>
+<instance id="d001.s086.t003">gene</instance>
+<instance id="d001.s086.t004">involved</instance>
+<wf>with</wf>
+<wf>some</wf>
+<instance id="d001.s086.t005">types</instance>
+<wf>of</wf>
+<instance id="d001.s086.t006">colon</instance>
+<instance id="d001.s086.t007">cancer</instance>
+<wf>,</wf>
+<instance id="d001.s086.t008">thought</instance>
+<wf>to</wf>
+<wf>be</wf>
+<wf>on</wf>
+<instance id="d001.s086.t009">chromosome</instance>
+<wf>5</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s087">
+<wf>Dr.</wf>
+<wf>Minna</wf>
+<instance id="d001.s087.t000">believes</instance>
+<instance id="d001.s087.t001">people</instance>
+<wf>who</wf>
+<instance id="d001.s087.t002">inherit</instance>
+<wf>a</wf>
+<instance id="d001.s087.t003">defective</instance>
+<instance id="d001.s087.t004">gene</instance>
+<instance id="d001.s087.t005">somewhere</instance>
+<wf>on</wf>
+<wf>one</wf>
+<wf>of</wf>
+<wf>their</wf>
+<wf>two</wf>
+<instance id="d001.s087.t006">copies</instance>
+<wf>of</wf>
+<instance id="d001.s087.t007">chromosome</instance>
+<wf>3</wf>
+<wf>are</wf>
+<instance id="d001.s087.t008">especially</instance>
+<wf>prone</wf>
+<wf>to</wf>
+<instance id="d001.s087.t009">lung</instance>
+<instance id="d001.s087.t010">cancer</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s088">
+<instance id="d001.s088.t000">Recently</instance>
+<wf>,</wf>
+<wf>he</wf>
+<wf>and</wf>
+<wf>others</wf>
+<instance id="d001.s088.t001">reported</instance>
+<wf>that</wf>
+<wf>the</wf>
+<instance id="d001.s088.t002">retinoblastoma</instance>
+<instance id="d001.s088.t003">suppressor gene</instance>
+<wf>may</wf>
+<instance id="d001.s088.t004">also</instance>
+<wf>be</wf>
+<instance id="d001.s088.t005">involved</instance>
+<wf>in</wf>
+<wf>some</wf>
+<instance id="d001.s088.t006">lung</instance>
+<instance id="d001.s088.t007">cancers</instance>
+<wf>,</wf>
+<wf>as</wf>
+<wf>well</wf>
+<wf>as</wf>
+<wf>several</wf>
+<instance id="d001.s088.t008">other</instance>
+<instance id="d001.s088.t009">more</instance>
+<instance id="d001.s088.t010">common</instance>
+<instance id="d001.s088.t011">cancers</instance>
+<wf>,</wf>
+<wf>too</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s089">
+<wf>Where</wf>
+<wf>these</wf>
+<instance id="d001.s089.t000">discoveries</instance>
+<wf>will</wf>
+<instance id="d001.s089.t001">lead</instance>
+<wf>,</wf>
+<instance id="d001.s089.t002">scientists</instance>
+<wf>can</wf>
+<instance id="d001.s089.t003">only</instance>
+<instance id="d001.s089.t004">speculate</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s090">
+<instance id="d001.s090.t000">Already</instance>
+<wf>two</wf>
+<instance id="d001.s090.t001">major</instance>
+<instance id="d001.s090.t002">pharmaceutical</instance>
+<instance id="d001.s090.t003">companies</instance>
+<wf>,</wf>
+<wf>the</wf>
+<wf>Squibb</wf>
+<instance id="d001.s090.t004">unit</instance>
+<wf>of</wf>
+<wf>Bristol-Myers</wf>
+<wf>Squibb</wf>
+<wf>Co.</wf>
+<wf>and</wf>
+<wf>Hoffmann-La</wf>
+<wf>Roche</wf>
+<wf>Inc.</wf>
+<wf>,</wf>
+<wf>are</wf>
+<instance id="d001.s090.t005">collaborating</instance>
+<wf>with</wf>
+<instance id="d001.s090.t006">gene</instance>
+<instance id="d001.s090.t007">hunters</instance>
+<wf>to</wf>
+<instance id="d001.s090.t008">turn</instance>
+<wf>the</wf>
+<instance id="d001.s090.t009">anticipated</instance>
+<wf>cascade</wf>
+<wf>of</wf>
+<instance id="d001.s090.t010">discoveries</instance>
+<wf>into</wf>
+<instance id="d001.s090.t011">predictive</instance>
+<instance id="d001.s090.t012">tests</instance>
+<wf>and</wf>
+<wf>,</wf>
+<instance id="d001.s090.t013">maybe</instance>
+<wf>,</wf>
+<instance id="d001.s090.t014">new</instance>
+<instance id="d001.s090.t015">therapies</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s091">
+<wf>Some</wf>
+<instance id="d001.s091.t000">researchers</instance>
+<instance id="d001.s091.t001">say</instance>
+<instance id="d001.s091.t002">new</instance>
+<instance id="d001.s091.t003">cancer</instance>
+<instance id="d001.s091.t004">drugs</instance>
+<wf>to</wf>
+<instance id="d001.s091.t005">slow</instance>
+<wf>or</wf>
+<instance id="d001.s091.t006">reverse</instance>
+<instance id="d001.s091.t007">tumor</instance>
+<instance id="d001.s091.t008">growth</instance>
+<wf>may</wf>
+<wf>be</wf>
+<instance id="d001.s091.t009">based</instance>
+<wf>on</wf>
+<wf>the</wf>
+<wf>suppressor</wf>
+<instance id="d001.s091.t010">proteins</instance>
+<instance id="d001.s091.t011">normally</instance>
+<instance id="d001.s091.t012">produced</instance>
+<wf>by</wf>
+<wf>the</wf>
+<instance id="d001.s091.t013">genes</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s092">
+<wf>The</wf>
+<instance id="d001.s092.t000">idea</instance>
+<wf>would</wf>
+<wf>be</wf>
+<wf>to</wf>
+<instance id="d001.s092.t001">administer</instance>
+<wf>to</wf>
+<instance id="d001.s092.t002">patients</instance>
+<wf>the</wf>
+<wf>growth-controlling</wf>
+<instance id="d001.s092.t003">proteins</instance>
+<instance id="d001.s092.t004">made</instance>
+<wf>by</wf>
+<instance id="d001.s092.t005">healthy</instance>
+<instance id="d001.s092.t006">versions</instance>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d001.s092.t007">damaged</instance>
+<instance id="d001.s092.t008">genes</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s093">
+<wf>It</wf>
+<wf>may</wf>
+<wf>even</wf>
+<wf>be</wf>
+<instance id="d001.s093.t000">possible</instance>
+<wf>to</wf>
+<instance id="d001.s093.t001">replace</instance>
+<instance id="d001.s093.t002">defective</instance>
+<instance id="d001.s093.t003">genes</instance>
+<wf>with</wf>
+<instance id="d001.s093.t004">healthy</instance>
+<instance id="d001.s093.t005">versions</instance>
+<wf>,</wf>
+<wf>though</wf>
+<wf>no</wf>
+<wf>one</wf>
+<wf>has</wf>
+<instance id="d001.s093.t006">come close</instance>
+<wf>to</wf>
+<wf>doing</wf>
+<wf>that</wf>
+<wf>so</wf>
+<wf>far</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d001.s094">
+<instance id="d001.s094.t000">In any case</instance>
+<wf>,</wf>
+<instance id="d001.s094.t001">says</instance>
+<wf>Dr.</wf>
+<wf>Minna</wf>
+<wf>of</wf>
+<wf>the</wf>
+<wf>National</wf>
+<wf>Cancer</wf>
+<wf>Institute</wf>
+<wf>,</wf>
+<wf>``</wf>
+<wf>We</wf>
+<wf>&apos;re</wf>
+<instance id="d001.s094.t002">witnessing</instance>
+<wf>the</wf>
+<instance id="d001.s094.t003">discovery</instance>
+<wf>of</wf>
+<wf>one</wf>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d001.s094.t004">most</instance>
+<instance id="d001.s094.t005">important</instance>
+<instance id="d001.s094.t006">steps</instance>
+<wf>in</wf>
+<wf>the</wf>
+<instance id="d001.s094.t007">genesis</instance>
+<wf>of</wf>
+<instance id="d001.s094.t008">cancer</instance>
+<wf>.</wf>
+</sentence>
+</text>
+<text id="d002">
+<sentence id="d002.s000">
+<wf>Why</wf>
+<wf>ca</wf>
+<wf>not</wf>
+<wf>we</wf>
+<instance id="d002.s000.t000">teach</instance>
+<wf>our</wf>
+<instance id="d002.s000.t001">children</instance>
+<wf>to</wf>
+<instance id="d002.s000.t002">read</instance>
+<wf>,</wf>
+<instance id="d002.s000.t003">write</instance>
+<wf>and</wf>
+<instance id="d002.s000.t004">reckon</instance>
+<wf>?</wf>
+</sentence>
+<sentence id="d002.s001">
+<wf>It</wf>
+<wf>&apos;s</wf>
+<wf>not</wf>
+<wf>that</wf>
+<wf>we</wf>
+<wf>do</wf>
+<wf>not</wf>
+<instance id="d002.s001.t000">know</instance>
+<wf>how</wf>
+<wf>to</wf>
+<wf>,</wf>
+<wf>because</wf>
+<wf>we</wf>
+<wf>do</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s002">
+<wf>It</wf>
+<wf>&apos;s</wf>
+<wf>that</wf>
+<wf>we</wf>
+<wf>do</wf>
+<wf>not</wf>
+<instance id="d002.s002.t000">want</instance>
+<wf>to</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s003">
+<wf>And</wf>
+<wf>the</wf>
+<instance id="d002.s003.t000">reason</instance>
+<wf>we</wf>
+<wf>do</wf>
+<wf>not</wf>
+<instance id="d002.s003.t001">want</instance>
+<wf>to</wf>
+<wf>is</wf>
+<wf>that</wf>
+<instance id="d002.s003.t002">effective</instance>
+<instance id="d002.s003.t003">education</instance>
+<wf>would</wf>
+<instance id="d002.s003.t004">require</instance>
+<wf>us</wf>
+<wf>to</wf>
+<instance id="d002.s003.t005">relinquish</instance>
+<wf>some</wf>
+<instance id="d002.s003.t006">cherished</instance>
+<instance id="d002.s003.t007">metaphysical</instance>
+<instance id="d002.s003.t008">beliefs</instance>
+<wf>about</wf>
+<instance id="d002.s003.t009">human</instance>
+<instance id="d002.s003.t010">nature</instance>
+<wf>in</wf>
+<wf>general</wf>
+<wf>and</wf>
+<wf>the</wf>
+<instance id="d002.s003.t011">human</instance>
+<instance id="d002.s003.t012">nature</instance>
+<wf>of</wf>
+<instance id="d002.s003.t013">young</instance>
+<instance id="d002.s003.t014">people</instance>
+<instance id="d002.s003.t015">in particular</instance>
+<wf>,</wf>
+<wf>well</wf>
+<wf>as</wf>
+<wf>to</wf>
+<instance id="d002.s003.t016">violate</instance>
+<wf>some</wf>
+<instance id="d002.s003.t017">cherished</instance>
+<wf>vested</wf>
+<instance id="d002.s003.t018">interests</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s004">
+<wf>These</wf>
+<instance id="d002.s004.t000">beliefs</instance>
+<instance id="d002.s004.t001">so</instance>
+<instance id="d002.s004.t002">dominate</instance>
+<wf>our</wf>
+<instance id="d002.s004.t003">educational</instance>
+<instance id="d002.s004.t004">establishment</instance>
+<wf>,</wf>
+<wf>our</wf>
+<wf>media</wf>
+<wf>,</wf>
+<wf>our</wf>
+<instance id="d002.s004.t005">politicians</instance>
+<wf>,</wf>
+<wf>and</wf>
+<instance id="d002.s004.t006">even</instance>
+<wf>our</wf>
+<instance id="d002.s004.t007">parents</instance>
+<wf>that</wf>
+<wf>it</wf>
+<instance id="d002.s004.t008">seems</instance>
+<instance id="d002.s004.t009">almost</instance>
+<instance id="d002.s004.t010">blasphemous</instance>
+<wf>to</wf>
+<instance id="d002.s004.t011">challenge</instance>
+<wf>them</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s005">
+<instance id="d002.s005.t000">Here</instance>
+<wf>is</wf>
+<wf>an</wf>
+<instance id="d002.s005.t001">example</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s006">
+<wf>If</wf>
+<wf>I</wf>
+<wf>were</wf>
+<wf>to</wf>
+<instance id="d002.s006.t000">ask</instance>
+<wf>a</wf>
+<instance id="d002.s006.t001">sample</instance>
+<wf>of</wf>
+<instance id="d002.s006.t002">American</instance>
+<instance id="d002.s006.t003">parents</instance>
+<wf>,</wf>
+<wf>``</wf>
+<wf>Do</wf>
+<wf>you</wf>
+<instance id="d002.s006.t004">wish</instance>
+<wf>the</wf>
+<instance id="d002.s006.t005">elementary schools</instance>
+<wf>to</wf>
+<instance id="d002.s006.t006">encourage</instance>
+<instance id="d002.s006.t007">creativity</instance>
+<wf>in</wf>
+<wf>your</wf>
+<instance id="d002.s006.t008">children</instance>
+<wf>?</wf>
+<wf>``</wf>
+<wf>the</wf>
+<wf>near-unanimous</wf>
+<instance id="d002.s006.t009">answer</instance>
+<wf>would</wf>
+<wf>be</wf>
+<wf>,</wf>
+<wf>``</wf>
+<wf>Yes</wf>
+<wf>,</wf>
+<instance id="d002.s006.t010">of course</instance>
+<wf>.</wf>
+<wf>``</wf>
+</sentence>
+<sentence id="d002.s007">
+<wf>But</wf>
+<wf>what</wf>
+<wf>do</wf>
+<wf>we</wf>
+<instance id="d002.s007.t000">mean</instance>
+<wf>,</wf>
+<instance id="d002.s007.t001">specifically</instance>
+<wf>,</wf>
+<wf>by</wf>
+<wf>``</wf>
+<instance id="d002.s007.t002">creativity</instance>
+<wf>``</wf>
+<wf>?</wf>
+</sentence>
+<sentence id="d002.s008">
+<wf>No</wf>
+<instance id="d002.s008.t000">one</instance>
+<wf>can</wf>
+<instance id="d002.s008.t001">say</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s009">
+<instance id="d002.s009.t000">In practice</instance>
+<wf>,</wf>
+<wf>it</wf>
+<instance id="d002.s009.t001">ends up</instance>
+<wf>being</wf>
+<instance id="d002.s009.t002">equated</instance>
+<wf>with</wf>
+<wf>a</wf>
+<wf>``</wf>
+<instance id="d002.s009.t003">self-expression</instance>
+<wf>``</wf>
+<wf>that</wf>
+<instance id="d002.s009.t004">encourages</instance>
+<wf>the</wf>
+<instance id="d002.s009.t005">youngsters</instance>
+<wf>&apos;</wf>
+<wf>``</wf>
+<instance id="d002.s009.t006">self-esteem</instance>
+<wf>.</wf>
+<wf>``</wf>
+</sentence>
+<sentence id="d002.s010">
+<wf>The</wf>
+<instance id="d002.s010.t000">result</instance>
+<wf>is</wf>
+<wf>a</wf>
+<instance id="d002.s010.t001">generation</instance>
+<wf>of</wf>
+<instance id="d002.s010.t002">young</instance>
+<instance id="d002.s010.t003">people</instance>
+<wf>whose</wf>
+<instance id="d002.s010.t004">ignorance</instance>
+<wf>and</wf>
+<instance id="d002.s010.t005">intellectual</instance>
+<instance id="d002.s010.t006">incompetence</instance>
+<wf>is</wf>
+<instance id="d002.s010.t007">matched</instance>
+<instance id="d002.s010.t008">only</instance>
+<wf>by</wf>
+<wf>their</wf>
+<instance id="d002.s010.t009">good</instance>
+<instance id="d002.s010.t010">opinion</instance>
+<wf>of</wf>
+<wf>themselves</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s011">
+<wf>The</wf>
+<instance id="d002.s011.t000">whole</instance>
+<instance id="d002.s011.t001">notion</instance>
+<wf>of</wf>
+<wf>``</wf>
+<instance id="d002.s011.t002">creativity</instance>
+<wf>``</wf>
+<wf>in</wf>
+<instance id="d002.s011.t003">education</instance>
+<wf>was</wf>
+<wf>(</wf>
+<wf>and</wf>
+<wf>is</wf>
+<wf>)</wf>
+<wf>part</wf>
+<wf>and</wf>
+<wf>parcel</wf>
+<wf>of</wf>
+<wf>a</wf>
+<instance id="d002.s011.t004">romantic</instance>
+<instance id="d002.s011.t005">rebellion</instance>
+<wf>against</wf>
+<instance id="d002.s011.t006">disciplined</instance>
+<instance id="d002.s011.t007">instruction</instance>
+<wf>,</wf>
+<wf>which</wf>
+<wf>was</wf>
+<wf>(</wf>
+<wf>and</wf>
+<wf>is</wf>
+<wf>)</wf>
+<instance id="d002.s011.t008">regarded as</instance>
+<wf>``</wf>
+<instance id="d002.s011.t009">authoritarian</instance>
+<wf>,</wf>
+<wf>``</wf>
+<wf>a</wf>
+<instance id="d002.s011.t010">repression</instance>
+<wf>and</wf>
+<instance id="d002.s011.t011">frustration</instance>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d002.s011.t012">latent</instance>
+<instance id="d002.s011.t013">talents</instance>
+<wf>and</wf>
+<wf>the</wf>
+<instance id="d002.s011.t014">wonderful</instance>
+<wf>,</wf>
+<wf>if</wf>
+<instance id="d002.s011.t015">as</instance>
+<instance id="d002.s011.t016">yet</instance>
+<instance id="d002.s011.t017">undefined</instance>
+<wf>,</wf>
+<instance id="d002.s011.t018">potentialities</instance>
+<instance id="d002.s011.t019">inherent</instance>
+<wf>in</wf>
+<wf>the</wf>
+<instance id="d002.s011.t020">souls</instance>
+<wf>of</wf>
+<wf>all</wf>
+<wf>our</wf>
+<instance id="d002.s011.t021">children</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s012">
+<wf>It</wf>
+<wf>is</wf>
+<wf>not</wf>
+<instance id="d002.s012.t000">surprising</instance>
+<wf>that</wf>
+<instance id="d002.s012.t001">parents</instance>
+<instance id="d002.s012.t002">find</instance>
+<wf>this</wf>
+<instance id="d002.s012.t003">romantic</instance>
+<wf>extravagance</wf>
+<instance id="d002.s012.t004">so</instance>
+<instance id="d002.s012.t005">attractive</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s013">
+<instance id="d002.s013.t000">Fortunately</instance>
+<wf>,</wf>
+<wf>these</wf>
+<instance id="d002.s013.t001">same</instance>
+<instance id="d002.s013.t002">parents</instance>
+<wf>do</wf>
+<instance id="d002.s013.t003">want</instance>
+<wf>their</wf>
+<instance id="d002.s013.t004">children</instance>
+<wf>to</wf>
+<instance id="d002.s013.t005">get</instance>
+<wf>a</wf>
+<instance id="d002.s013.t006">decent</instance>
+<instance id="d002.s013.t007">education</instance>
+<instance id="d002.s013.t008">as</instance>
+<instance id="d002.s013.t009">traditionally</instance>
+<instance id="d002.s013.t010">understood</instance>
+<wf>,</wf>
+<wf>and</wf>
+<wf>they</wf>
+<wf>have</wf>
+<instance id="d002.s013.t011">enough</instance>
+<instance id="d002.s013.t012">common sense</instance>
+<wf>to</wf>
+<instance id="d002.s013.t013">know</instance>
+<wf>what</wf>
+<wf>that</wf>
+<instance id="d002.s013.t014">demands</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s014">
+<wf>Their</wf>
+<instance id="d002.s014.t000">commitment</instance>
+<wf>to</wf>
+<wf>``</wf>
+<instance id="d002.s014.t001">creativity</instance>
+<wf>``</wf>
+<wf>can</wf>
+<wf>not</wf>
+<instance id="d002.s014.t002">survive</instance>
+<instance id="d002.s014.t003">adolescent</instance>
+<instance id="d002.s014.t004">illiteracy</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s015">
+<instance id="d002.s015.t000">American</instance>
+<instance id="d002.s015.t001">education</instance>
+<wf>&apos;s</wf>
+<instance id="d002.s015.t002">future</instance>
+<wf>will</wf>
+<wf>be</wf>
+<instance id="d002.s015.t003">determined</instance>
+<wf>by</wf>
+<wf>the</wf>
+<instance id="d002.s015.t004">degree</instance>
+<wf>to</wf>
+<wf>which</wf>
+<wf>we</wf>
+<wf>--</wf>
+<wf>all</wf>
+<wf>of</wf>
+<wf>us</wf>
+<wf>--</wf>
+<instance id="d002.s015.t005">allow</instance>
+<wf>this</wf>
+<instance id="d002.s015.t006">common sense</instance>
+<wf>to</wf>
+<instance id="d002.s015.t007">prevail</instance>
+<wf>over</wf>
+<wf>the</wf>
+<instance id="d002.s015.t008">illusions</instance>
+<wf>that</wf>
+<wf>we</wf>
+<instance id="d002.s015.t009">also</instance>
+<instance id="d002.s015.t010">share</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s016">
+<wf>The</wf>
+<instance id="d002.s016.t000">education</instance>
+<instance id="d002.s016.t001">establishment</instance>
+<wf>will</wf>
+<instance id="d002.s016.t002">fight</instance>
+<wf>against</wf>
+<instance id="d002.s016.t003">common sense</instance>
+<instance id="d002.s016.t004">every inch</instance>
+<wf>of</wf>
+<wf>the</wf>
+<wf>way</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s017">
+<wf>The</wf>
+<instance id="d002.s017.t000">reasons</instance>
+<wf>are</wf>
+<instance id="d002.s017.t001">complex</instance>
+<wf>,</wf>
+<wf>but</wf>
+<wf>one</wf>
+<instance id="d002.s017.t002">simple</instance>
+<instance id="d002.s017.t003">reason</instance>
+<wf>ought</wf>
+<wf>not</wf>
+<wf>to</wf>
+<wf>be</wf>
+<wf>underestimated</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s018">
+<wf>``</wf>
+<instance id="d002.s018.t000">Progressive</instance>
+<instance id="d002.s018.t001">education</instance>
+<wf>``</wf>
+<wf>(</wf>
+<wf>as</wf>
+<wf>it</wf>
+<wf>was</wf>
+<instance id="d002.s018.t002">once</instance>
+<instance id="d002.s018.t003">called</instance>
+<wf>)</wf>
+<wf>is</wf>
+<instance id="d002.s018.t004">far</instance>
+<instance id="d002.s018.t005">more</instance>
+<instance id="d002.s018.t006">interesting</instance>
+<wf>and</wf>
+<instance id="d002.s018.t007">agreeable</instance>
+<wf>to</wf>
+<instance id="d002.s018.t008">teachers</instance>
+<wf>than</wf>
+<wf>is</wf>
+<instance id="d002.s018.t009">disciplined</instance>
+<instance id="d002.s018.t010">instruction</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s019">
+<wf>It</wf>
+<wf>is</wf>
+<instance id="d002.s019.t000">nice</instance>
+<wf>for</wf>
+<instance id="d002.s019.t001">teachers</instance>
+<wf>to</wf>
+<instance id="d002.s019.t002">think</instance>
+<wf>they</wf>
+<wf>are</wf>
+<wf>engaged</wf>
+<wf>in</wf>
+<wf>``</wf>
+<instance id="d002.s019.t003">personality</instance>
+<instance id="d002.s019.t004">development</instance>
+<wf>``</wf>
+<wf>and</wf>
+<instance id="d002.s019.t005">even</instance>
+<instance id="d002.s019.t006">nicer</instance>
+<wf>to</wf>
+<instance id="d002.s019.t007">minimize</instance>
+<wf>those</wf>
+<instance id="d002.s019.t008">irksome</instance>
+<instance id="d002.s019.t009">tests</instance>
+<wf>with</wf>
+<instance id="d002.s019.t010">often</instance>
+<instance id="d002.s019.t011">disappointing</instance>
+<instance id="d002.s019.t012">results</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s020">
+<wf>It</wf>
+<instance id="d002.s020.t000">also</instance>
+<instance id="d002.s020.t001">provides</instance>
+<instance id="d002.s020.t002">teachers</instance>
+<wf>with</wf>
+<wf>a</wf>
+<wf>superior</wf>
+<wf>self-definition</wf>
+<wf>as</wf>
+<wf>a</wf>
+<wf>``</wf>
+<instance id="d002.s020.t003">profession</instance>
+<wf>,</wf>
+<wf>``</wf>
+<wf>since</wf>
+<wf>they</wf>
+<wf>will</wf>
+<wf>have</wf>
+<instance id="d002.s020.t004">passed</instance>
+<instance id="d002.s020.t005">courses</instance>
+<wf>in</wf>
+<instance id="d002.s020.t006">educational</instance>
+<instance id="d002.s020.t007">psychology</instance>
+<wf>and</wf>
+<instance id="d002.s020.t008">educational</instance>
+<instance id="d002.s020.t009">philosophy</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s021">
+<wf>I</wf>
+<wf>myself</wf>
+<instance id="d002.s021.t000">took</instance>
+<instance id="d002.s021.t001">such</instance>
+<instance id="d002.s021.t002">courses</instance>
+<wf>in</wf>
+<instance id="d002.s021.t003">college</instance>
+<wf>,</wf>
+<instance id="d002.s021.t004">thinking</instance>
+<wf>I</wf>
+<wf>might</wf>
+<instance id="d002.s021.t005">end up</instance>
+<wf>a</wf>
+<instance id="d002.s021.t006">schoolteacher</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s022">
+<wf>They</wf>
+<wf>could</wf>
+<instance id="d002.s022.t000">all</instance>
+<instance id="d002.s022.t001">fairly</instance>
+<wf>be</wf>
+<instance id="d002.s022.t002">described</instance>
+<wf>as</wf>
+<wf>``</wf>
+<instance id="d002.s022.t003">pap</instance>
+<wf>``</wf>
+<instance id="d002.s022.t004">courses</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s023">
+<wf>But</wf>
+<wf>it</wf>
+<wf>is</wf>
+<instance id="d002.s023.t000">unfair</instance>
+<wf>to</wf>
+<instance id="d002.s023.t001">dump</instance>
+<wf>on</wf>
+<instance id="d002.s023.t002">teachers</instance>
+<wf>,</wf>
+<wf>as</wf>
+<instance id="d002.s023.t003">distinct</instance>
+<wf>from</wf>
+<wf>the</wf>
+<instance id="d002.s023.t004">educational</instance>
+<instance id="d002.s023.t005">establishment</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s024">
+<wf>I</wf>
+<instance id="d002.s024.t000">know</instance>
+<instance id="d002.s024.t001">many</instance>
+<instance id="d002.s024.t002">schoolteachers</instance>
+<wf>and</wf>
+<wf>,</wf>
+<instance id="d002.s024.t003">on the whole</instance>
+<wf>,</wf>
+<wf>they</wf>
+<wf>are</wf>
+<instance id="d002.s024.t004">seriously</instance>
+<instance id="d002.s024.t005">committed</instance>
+<wf>to</wf>
+<instance id="d002.s024.t006">conscientious</instance>
+<instance id="d002.s024.t007">teaching</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s025">
+<wf>They</wf>
+<wf>may</wf>
+<wf>not</wf>
+<wf>be</wf>
+<wf>among</wf>
+<wf>the</wf>
+<wf>``</wf>
+<instance id="d002.s025.t000">best</instance>
+<wf>and</wf>
+<instance id="d002.s025.t001">brightest</instance>
+<wf>``</wf>
+<wf>of</wf>
+<wf>their</wf>
+<instance id="d002.s025.t002">generation</instance>
+<wf>--</wf>
+<wf>there</wf>
+<wf>are</wf>
+<instance id="d002.s025.t003">very</instance>
+<instance id="d002.s025.t004">few</instance>
+<instance id="d002.s025.t005">such</instance>
+<instance id="d002.s025.t006">people</instance>
+<wf>,</wf>
+<wf>by</wf>
+<wf>definition</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s026">
+<wf>But</wf>
+<wf>they</wf>
+<wf>need</wf>
+<wf>not</wf>
+<wf>be</wf>
+<wf>to</wf>
+<wf>do</wf>
+<wf>their</wf>
+<instance id="d002.s026.t000">jobs</instance>
+<instance id="d002.s026.t001">well</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s027">
+<wf>Yes</wf>
+<wf>,</wf>
+<wf>we</wf>
+<wf>all</wf>
+<wf>can</wf>
+<instance id="d002.s027.t000">remember</instance>
+<wf>one</wf>
+<wf>or</wf>
+<wf>two</wf>
+<instance id="d002.s027.t001">truly</instance>
+<instance id="d002.s027.t002">inspiring</instance>
+<instance id="d002.s027.t003">teachers</instance>
+<wf>from</wf>
+<wf>our</wf>
+<wf>school</wf>
+<wf>days</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s028">
+<wf>But</wf>
+<wf>our</wf>
+<instance id="d002.s028.t000">education</instance>
+<instance id="d002.s028.t001">proceeded</instance>
+<wf>at</wf>
+<wf>the</wf>
+<wf>hands</wf>
+<wf>of</wf>
+<wf>those</wf>
+<wf>others</wf>
+<wf>,</wf>
+<wf>who</wf>
+<wf>were</wf>
+<instance id="d002.s028.t002">merely</instance>
+<instance id="d002.s028.t003">competent</instance>
+<wf>and</wf>
+<instance id="d002.s028.t004">conscientious</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s029">
+<wf>In</wf>
+<wf>this</wf>
+<instance id="d002.s029.t000">sense</instance>
+<wf>,</wf>
+<wf>a</wf>
+<instance id="d002.s029.t001">teacher</instance>
+<wf>can</wf>
+<wf>be</wf>
+<instance id="d002.s029.t002">compared</instance>
+<wf>to</wf>
+<instance id="d002.s029.t003">one</instance>
+<wf>&apos;s</wf>
+<instance id="d002.s029.t004">family doctor</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s030">
+<wf>If</wf>
+<wf>he</wf>
+<wf>were</wf>
+<instance id="d002.s030.t000">brilliant</instance>
+<wf>,</wf>
+<wf>he</wf>
+<instance id="d002.s030.t001">probably</instance>
+<wf>would</wf>
+<wf>not</wf>
+<wf>be</wf>
+<wf>a</wf>
+<instance id="d002.s030.t002">family doctor</instance>
+<instance id="d002.s030.t003">in the first place</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s031">
+<wf>If</wf>
+<wf>he</wf>
+<wf>is</wf>
+<instance id="d002.s031.t000">competent</instance>
+<wf>and</wf>
+<instance id="d002.s031.t001">conscientious</instance>
+<wf>,</wf>
+<wf>he</wf>
+<instance id="d002.s031.t002">serves</instance>
+<wf>us</wf>
+<instance id="d002.s031.t003">well</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s032">
+<wf>Our</wf>
+<instance id="d002.s032.t000">teachers</instance>
+<wf>are</wf>
+<wf>not</wf>
+<wf>an</wf>
+<instance id="d002.s032.t001">important</instance>
+<instance id="d002.s032.t002">factor</instance>
+<wf>in</wf>
+<wf>our</wf>
+<instance id="d002.s032.t003">educational</instance>
+<instance id="d002.s032.t004">crisis</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s033">
+<wf>Whether</wf>
+<wf>they</wf>
+<wf>are</wf>
+<wf>or</wf>
+<wf>are</wf>
+<wf>not</wf>
+<wf>underpaid</wf>
+<wf>is</wf>
+<wf>a</wf>
+<instance id="d002.s033.t000">problem</instance>
+<wf>of</wf>
+<instance id="d002.s033.t001">equity</instance>
+<wf>;</wf>
+<wf>it</wf>
+<wf>is</wf>
+<wf>not</wf>
+<wf>an</wf>
+<instance id="d002.s033.t002">educational</instance>
+<instance id="d002.s033.t003">problem</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s034">
+<wf>It</wf>
+<wf>is</wf>
+<instance id="d002.s034.t000">silly</instance>
+<instance id="d002.s034.t001">libel</instance>
+<wf>on</wf>
+<wf>our</wf>
+<instance id="d002.s034.t002">teachers</instance>
+<wf>to</wf>
+<instance id="d002.s034.t003">think</instance>
+<wf>they</wf>
+<wf>would</wf>
+<instance id="d002.s034.t004">educate</instance>
+<wf>our</wf>
+<instance id="d002.s034.t005">children</instance>
+<instance id="d002.s034.t006">better</instance>
+<wf>if</wf>
+<instance id="d002.s034.t007">only</instance>
+<wf>they</wf>
+<instance id="d002.s034.t008">got</instance>
+<wf>a</wf>
+<instance id="d002.s034.t009">few</instance>
+<wf>thousand</wf>
+<wf>dollars</wf>
+<wf>a</wf>
+<instance id="d002.s034.t010">year</instance>
+<instance id="d002.s034.t011">more</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s035">
+<wf>It</wf>
+<wf>is</wf>
+<wf>the</wf>
+<instance id="d002.s035.t000">kind</instance>
+<wf>of</wf>
+<instance id="d002.s035.t001">libel</instance>
+<wf>the</wf>
+<instance id="d002.s035.t002">teachers</instance>
+<wf>&apos;</wf>
+<instance id="d002.s035.t003">unions</instance>
+<wf>do</wf>
+<wf>not</wf>
+<instance id="d002.s035.t004">mind</instance>
+<instance id="d002.s035.t005">spreading</instance>
+<wf>,</wf>
+<wf>for</wf>
+<wf>their</wf>
+<instance id="d002.s035.t006">own</instance>
+<instance id="d002.s035.t007">narrow</instance>
+<instance id="d002.s035.t008">purposes</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s036">
+<wf>It</wf>
+<wf>is</wf>
+<instance id="d002.s036.t000">also</instance>
+<wf>the</wf>
+<instance id="d002.s036.t001">kind</instance>
+<wf>of</wf>
+<instance id="d002.s036.t002">libel</instance>
+<instance id="d002.s036.t003">politicians</instance>
+<instance id="d002.s036.t004">find</instance>
+<instance id="d002.s036.t005">useful</instance>
+<wf>,</wf>
+<wf>since</wf>
+<wf>it</wf>
+<instance id="d002.s036.t006">helps</instance>
+<wf>them</wf>
+<instance id="d002.s036.t007">strike</instance>
+<wf>a</wf>
+<instance id="d002.s036.t008">friendly</instance>
+<instance id="d002.s036.t009">posture</instance>
+<wf>on</wf>
+<instance id="d002.s036.t010">behalf</instance>
+<wf>of</wf>
+<wf>an</wf>
+<instance id="d002.s036.t011">important</instance>
+<instance id="d002.s036.t012">constituency</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s037">
+<wf>But</wf>
+<wf>there</wf>
+<wf>is</wf>
+<wf>not</wf>
+<wf>one</wf>
+<instance id="d002.s037.t000">shred</instance>
+<wf>of</wf>
+<instance id="d002.s037.t001">evidence</instance>
+<wf>that</wf>
+<wf>,</wf>
+<instance id="d002.s037.t002">other</instance>
+<instance id="d002.s037.t003">things</instance>
+<wf>being</wf>
+<instance id="d002.s037.t004">equal</instance>
+<wf>,</wf>
+<instance id="d002.s037.t005">salary</instance>
+<instance id="d002.s037.t006">differentials</instance>
+<instance id="d002.s037.t007">result</instance>
+<wf>in</wf>
+<instance id="d002.s037.t008">educational</instance>
+<instance id="d002.s037.t009">differentials</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s038">
+<wf>If</wf>
+<wf>there</wf>
+<wf>were</wf>
+<instance id="d002.s038.t000">such</instance>
+<instance id="d002.s038.t001">evidence</instance>
+<wf>,</wf>
+<wf>you</wf>
+<wf>can</wf>
+<wf>be</wf>
+<instance id="d002.s038.t002">sure</instance>
+<wf>you</wf>
+<wf>would</wf>
+<wf>have</wf>
+<wf>heard</wf>
+<wf>of</wf>
+<wf>it</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s039">
+<wf>If</wf>
+<wf>we</wf>
+<instance id="d002.s039.t000">wish</instance>
+<wf>to</wf>
+<wf>be</wf>
+<instance id="d002.s039.t001">serious</instance>
+<wf>about</wf>
+<instance id="d002.s039.t002">American</instance>
+<instance id="d002.s039.t003">education</instance>
+<wf>,</wf>
+<wf>we</wf>
+<instance id="d002.s039.t004">know</instance>
+<instance id="d002.s039.t005">exactly</instance>
+<wf>what</wf>
+<wf>to</wf>
+<wf>do</wf>
+<wf>--</wf>
+<wf>and</wf>
+<wf>,</wf>
+<instance id="d002.s039.t006">just</instance>
+<wf>as</wf>
+<instance id="d002.s039.t007">important</instance>
+<wf>,</wf>
+<wf>what</wf>
+<wf>not</wf>
+<wf>to</wf>
+<wf>do</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s040">
+<wf>There</wf>
+<wf>are</wf>
+<instance id="d002.s040.t000">many</instance>
+<instance id="d002.s040.t001">successful</instance>
+<instance id="d002.s040.t002">schools</instance>
+<instance id="d002.s040.t003">scattered</instance>
+<wf>throughout</wf>
+<wf>this</wf>
+<instance id="d002.s040.t004">nation</instance>
+<wf>,</wf>
+<wf>some</wf>
+<wf>of</wf>
+<wf>them</wf>
+<wf>in</wf>
+<wf>the</wf>
+<instance id="d002.s040.t005">poorest</instance>
+<wf>of</wf>
+<wf>ghettos</wf>
+<wf>,</wf>
+<wf>and</wf>
+<wf>they</wf>
+<wf>are</wf>
+<wf>all</wf>
+<wf>sending</wf>
+<wf>us</wf>
+<wf>the</wf>
+<instance id="d002.s040.t006">same</instance>
+<wf>message</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s041">
+<instance id="d002.s041.t000">Conversely</instance>
+<wf>,</wf>
+<wf>there</wf>
+<wf>are</wf>
+<wf>the</wf>
+<instance id="d002.s041.t001">majority</instance>
+<wf>of</wf>
+<instance id="d002.s041.t002">unsuccessful</instance>
+<instance id="d002.s041.t003">schools</instance>
+<wf>,</wf>
+<wf>and</wf>
+<wf>we</wf>
+<instance id="d002.s041.t004">know</instance>
+<wf>which</wf>
+<instance id="d002.s041.t005">efforts</instance>
+<wf>at</wf>
+<instance id="d002.s041.t006">educational</instance>
+<instance id="d002.s041.t007">reform</instance>
+<wf>are</wf>
+<instance id="d002.s041.t008">doomed</instance>
+<instance id="d002.s041.t009">beforehand</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s042">
+<wf>We</wf>
+<instance id="d002.s042.t000">really</instance>
+<wf>do</wf>
+<instance id="d002.s042.t001">know</instance>
+<wf>all</wf>
+<wf>we</wf>
+<instance id="d002.s042.t002">need</instance>
+<wf>to</wf>
+<instance id="d002.s042.t003">know</instance>
+<wf>,</wf>
+<wf>if</wf>
+<instance id="d002.s042.t004">only</instance>
+<wf>we</wf>
+<wf>could</wf>
+<instance id="d002.s042.t005">assimilate</instance>
+<wf>this</wf>
+<instance id="d002.s042.t006">knowledge</instance>
+<wf>into</wf>
+<wf>our</wf>
+<wf>thinking</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s043">
+<wf>In</wf>
+<wf>this</wf>
+<instance id="d002.s043.t000">respect</instance>
+<wf>,</wf>
+<wf>it</wf>
+<wf>would</wf>
+<wf>be</wf>
+<instance id="d002.s043.t001">helpful</instance>
+<wf>if</wf>
+<wf>our</wf>
+<instance id="d002.s043.t002">political</instance>
+<instance id="d002.s043.t003">leaders</instance>
+<wf>were</wf>
+<instance id="d002.s043.t004">mute</instance>
+<wf>,</wf>
+<instance id="d002.s043.t005">rather</instance>
+<wf>than</wf>
+<instance id="d002.s043.t006">eloquently</instance>
+<wf>``</wf>
+<instance id="d002.s043.t007">concerned</instance>
+<wf>.</wf>
+<wf>``</wf>
+</sentence>
+<sentence id="d002.s044">
+<wf>They</wf>
+<wf>are</wf>
+<instance id="d002.s044.t000">inevitably</instance>
+<instance id="d002.s044.t001">inclined</instance>
+<wf>to</wf>
+<instance id="d002.s044.t002">echo</instance>
+<wf>the</wf>
+<instance id="d002.s044.t003">conventional</instance>
+<instance id="d002.s044.t004">pap</instance>
+<wf>,</wf>
+<wf>since</wf>
+<wf>this</wf>
+<wf>is</wf>
+<wf>the</wf>
+<instance id="d002.s044.t005">least</instance>
+<instance id="d002.s044.t006">controversial</instance>
+<wf>option</wf>
+<wf>that</wf>
+<wf>is</wf>
+<instance id="d002.s044.t007">open</instance>
+<wf>to</wf>
+<wf>them</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s045">
+<instance id="d002.s045.t000">Thus</instance>
+<wf>at</wf>
+<wf>the</wf>
+<instance id="d002.s045.t001">recent</instance>
+<instance id="d002.s045.t002">governors</instance>
+<wf>&apos;</wf>
+<instance id="d002.s045.t003">conference</instance>
+<wf>on</wf>
+<instance id="d002.s045.t004">education</instance>
+<wf>,</wf>
+<wf>Gov.</wf>
+<wf>Bill</wf>
+<wf>Clinton</wf>
+<wf>of</wf>
+<wf>Arkansas</wf>
+<instance id="d002.s045.t005">announced</instance>
+<wf>that</wf>
+<wf>``</wf>
+<wf>this</wf>
+<instance id="d002.s045.t006">country</instance>
+<instance id="d002.s045.t007">needs</instance>
+<wf>a</wf>
+<instance id="d002.s045.t008">comprehensive</instance>
+<wf>child-development</wf>
+<instance id="d002.s045.t009">policy</instance>
+<wf>for</wf>
+<instance id="d002.s045.t010">children</instance>
+<wf>under</wf>
+<wf>five</wf>
+<wf>.</wf>
+<wf>``</wf>
+</sentence>
+<sentence id="d002.s046">
+<wf>A</wf>
+<instance id="d002.s046.t000">comprehensive</instance>
+<instance id="d002.s046.t001">development</instance>
+<instance id="d002.s046.t002">policy</instance>
+<wf>for</wf>
+<instance id="d002.s046.t003">governors</instance>
+<wf>over</wf>
+<wf>30</wf>
+<wf>would</wf>
+<instance id="d002.s046.t004">seem</instance>
+<wf>to</wf>
+<wf>be</wf>
+<wf>a</wf>
+<instance id="d002.s046.t005">more</instance>
+<instance id="d002.s046.t006">pressing</instance>
+<instance id="d002.s046.t007">need</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s047">
+<wf>What</wf>
+<wf>Gov.</wf>
+<wf>Clinton</wf>
+<wf>is</wf>
+<instance id="d002.s047.t000">advocating</instance>
+<wf>,</wf>
+<instance id="d002.s047.t001">in effect</instance>
+<wf>,</wf>
+<wf>is</wf>
+<instance id="d002.s047.t002">extending</instance>
+<wf>the</wf>
+<instance id="d002.s047.t003">educational</instance>
+<instance id="d002.s047.t004">system</instance>
+<wf>down</wf>
+<wf>to</wf>
+<wf>the</wf>
+<wf>pre-kindergarten</wf>
+<wf>years</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s048">
+<wf>Whether</wf>
+<instance id="d002.s048.t000">desirable</instance>
+<wf>or</wf>
+<wf>not</wf>
+<wf>,</wf>
+<wf>this</wf>
+<wf>is</wf>
+<wf>a</wf>
+<instance id="d002.s048.t001">child-care</instance>
+<instance id="d002.s048.t002">program</instance>
+<wf>,</wf>
+<wf>not</wf>
+<wf>an</wf>
+<instance id="d002.s048.t003">educational</instance>
+<instance id="d002.s048.t004">program</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s049">
+<wf>We</wf>
+<instance id="d002.s049.t000">know</instance>
+<wf>that</wf>
+<instance id="d002.s049.t001">very</instance>
+<instance id="d002.s049.t002">early</instance>
+<instance id="d002.s049.t003">exposure</instance>
+<wf>to</wf>
+<instance id="d002.s049.t004">schooling</instance>
+<instance id="d002.s049.t005">improves</instance>
+<instance id="d002.s049.t006">performance</instance>
+<wf>in</wf>
+<wf>the</wf>
+<instance id="d002.s049.t007">first</instance>
+<instance id="d002.s049.t008">grade</instance>
+<wf>,</wf>
+<wf>but</wf>
+<instance id="d002.s049.t009">afterward</instance>
+<wf>the</wf>
+<instance id="d002.s049.t010">difference</instance>
+<wf>is</wf>
+<instance id="d002.s049.t011">quickly</instance>
+<instance id="d002.s049.t012">washed</instance>
+<instance id="d002.s049.t013">away</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s050">
+<wf>Let</wf>
+<wf>us</wf>
+<instance id="d002.s050.t000">sum up</instance>
+<wf>what</wf>
+<wf>we</wf>
+<wf>do</wf>
+<instance id="d002.s050.t001">know</instance>
+<wf>about</wf>
+<instance id="d002.s050.t002">education</instance>
+<wf>and</wf>
+<wf>about</wf>
+<wf>those</wf>
+<instance id="d002.s050.t003">education</instance>
+<instance id="d002.s050.t004">reforms</instance>
+<wf>that</wf>
+<wf>do</wf>
+<instance id="d002.s050.t005">work</instance>
+<wf>and</wf>
+<wf>do</wf>
+<wf>not</wf>
+<instance id="d002.s050.t006">work</instance>
+<wf>:</wf>
+<wf>--</wf>
+<wf>``</wf>
+<instance id="d002.s050.t007">Parental</instance>
+<instance id="d002.s050.t008">involvement</instance>
+<wf>``</wf>
+<wf>is</wf>
+<wf>a</wf>
+<instance id="d002.s050.t009">bad</instance>
+<instance id="d002.s050.t010">idea</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s051">
+<instance id="d002.s051.t000">Parents</instance>
+<wf>are</wf>
+<instance id="d002.s051.t001">too</instance>
+<instance id="d002.s051.t002">likely</instance>
+<wf>to</wf>
+<instance id="d002.s051.t003">blame</instance>
+<instance id="d002.s051.t004">schools</instance>
+<wf>for</wf>
+<wf>the</wf>
+<instance id="d002.s051.t005">educational</instance>
+<instance id="d002.s051.t006">limitations</instance>
+<wf>of</wf>
+<wf>their</wf>
+<instance id="d002.s051.t007">children</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s052">
+<instance id="d002.s052.t000">Parents</instance>
+<wf>should</wf>
+<wf>be</wf>
+<instance id="d002.s052.t001">involved</instance>
+<wf>with</wf>
+<wf>their</wf>
+<instance id="d002.s052.t002">children</instance>
+<wf>&apos;s</wf>
+<instance id="d002.s052.t003">education</instance>
+<wf>at</wf>
+<instance id="d002.s052.t004">home</instance>
+<wf>,</wf>
+<wf>not</wf>
+<wf>in</wf>
+<instance id="d002.s052.t005">school</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s053">
+<wf>They</wf>
+<wf>should</wf>
+<instance id="d002.s053.t000">see</instance>
+<wf>to</wf>
+<wf>it</wf>
+<wf>that</wf>
+<wf>their</wf>
+<instance id="d002.s053.t001">kids</instance>
+<wf>do</wf>
+<wf>not</wf>
+<instance id="d002.s053.t002">play</instance>
+<instance id="d002.s053.t003">truant</instance>
+<wf>;</wf>
+<wf>they</wf>
+<wf>should</wf>
+<instance id="d002.s053.t004">make</instance>
+<instance id="d002.s053.t005">certain</instance>
+<wf>that</wf>
+<wf>the</wf>
+<instance id="d002.s053.t006">children</instance>
+<instance id="d002.s053.t007">spend</instance>
+<instance id="d002.s053.t008">enough</instance>
+<instance id="d002.s053.t009">time</instance>
+<wf>doing</wf>
+<instance id="d002.s053.t010">homework</instance>
+<wf>;</wf>
+<wf>they</wf>
+<wf>should</wf>
+<instance id="d002.s053.t011">scrutinize</instance>
+<wf>the</wf>
+<instance id="d002.s053.t012">report card</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s054">
+<wf>If</wf>
+<instance id="d002.s054.t000">parents</instance>
+<wf>are</wf>
+<wf>dissatisfied</wf>
+<wf>with</wf>
+<wf>a</wf>
+<instance id="d002.s054.t001">school</instance>
+<wf>,</wf>
+<wf>they</wf>
+<wf>should</wf>
+<wf>have</wf>
+<wf>the</wf>
+<instance id="d002.s054.t002">option</instance>
+<wf>of</wf>
+<instance id="d002.s054.t003">switching</instance>
+<wf>to</wf>
+<wf>another</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s055">
+<wf>--</wf>
+<wf>``</wf>
+<instance id="d002.s055.t000">Community</instance>
+<instance id="d002.s055.t001">involvement</instance>
+<wf>``</wf>
+<wf>is</wf>
+<wf>an</wf>
+<instance id="d002.s055.t002">even</instance>
+<instance id="d002.s055.t003">worse</instance>
+<instance id="d002.s055.t004">idea</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s056">
+<instance id="d002.s056.t000">Here</instance>
+<wf>,</wf>
+<wf>the</wf>
+<instance id="d002.s056.t001">experience</instance>
+<wf>of</wf>
+<wf>New</wf>
+<wf>York</wf>
+<wf>City</wf>
+<wf>is</wf>
+<wf>decisive</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s057">
+<instance id="d002.s057.t000">Locally</instance>
+<instance id="d002.s057.t001">elected</instance>
+<instance id="d002.s057.t002">school boards</instance>
+<wf>,</wf>
+<instance id="d002.s057.t003">especially</instance>
+<wf>in</wf>
+<wf>our</wf>
+<instance id="d002.s057.t004">larger</instance>
+<instance id="d002.s057.t005">cities</instance>
+<wf>,</wf>
+<instance id="d002.s057.t006">become</instance>
+<wf>the</wf>
+<wf>prey</wf>
+<wf>of</wf>
+<instance id="d002.s057.t007">ambitious</instance>
+<wf>,</wf>
+<instance id="d002.s057.t008">generally</instance>
+<instance id="d002.s057.t009">corrupt</instance>
+<wf>,</wf>
+<wf>and</wf>
+<instance id="d002.s057.t010">invariably</instance>
+<instance id="d002.s057.t011">demagogic</instance>
+<instance id="d002.s057.t012">local</instance>
+<instance id="d002.s057.t013">politicians</instance>
+<wf>or</wf>
+<instance id="d002.s057.t014">would-be</instance>
+<instance id="d002.s057.t015">politicians</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s058">
+<wf>New</wf>
+<wf>York</wf>
+<wf>is</wf>
+<wf>in</wf>
+<wf>the</wf>
+<instance id="d002.s058.t000">process</instance>
+<wf>of</wf>
+<instance id="d002.s058.t001">trying</instance>
+<wf>to</wf>
+<wf>disengage</wf>
+<wf>itself</wf>
+<wf>from</wf>
+<wf>a</wf>
+<wf>20-year-old</wf>
+<wf>commitment</wf>
+<wf>to</wf>
+<wf>this</wf>
+<instance id="d002.s058.t002">system</instance>
+<wf>of</wf>
+<instance id="d002.s058.t003">school</instance>
+<instance id="d002.s058.t004">governance</instance>
+<wf>,</wf>
+<instance id="d002.s058.t005">even</instance>
+<wf>as</wf>
+<wf>Chicago</wf>
+<wf>and</wf>
+<instance id="d002.s058.t006">other</instance>
+<instance id="d002.s058.t007">cities</instance>
+<wf>are</wf>
+<wf>moving</wf>
+<wf>to</wf>
+<instance id="d002.s058.t008">institute</instance>
+<wf>it</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s059">
+<wf>--</wf>
+<wf>In</wf>
+<instance id="d002.s059.t000">most</instance>
+<wf>states</wf>
+<wf>,</wf>
+<instance id="d002.s059.t001">increasing</instance>
+<instance id="d002.s059.t002">expenditures</instance>
+<wf>on</wf>
+<instance id="d002.s059.t003">education</instance>
+<wf>,</wf>
+<wf>in</wf>
+<wf>our</wf>
+<instance id="d002.s059.t004">current</instance>
+<instance id="d002.s059.t005">circumstances</instance>
+<wf>,</wf>
+<wf>will</wf>
+<instance id="d002.s059.t006">probably</instance>
+<instance id="d002.s059.t007">make</instance>
+<instance id="d002.s059.t008">things</instance>
+<instance id="d002.s059.t009">worse</instance>
+<wf>,</wf>
+<wf>not</wf>
+<instance id="d002.s059.t010">better</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s060">
+<wf>The</wf>
+<instance id="d002.s060.t000">reason</instance>
+<wf>is</wf>
+<instance id="d002.s060.t001">simple</instance>
+<wf>:</wf>
+<instance id="d002.s060.t002">Education</instance>
+<instance id="d002.s060.t003">takes place</instance>
+<wf>in</wf>
+<wf>the</wf>
+<instance id="d002.s060.t004">classroom</instance>
+<wf>,</wf>
+<wf>where</wf>
+<wf>the</wf>
+<instance id="d002.s060.t005">influence</instance>
+<wf>of</wf>
+<instance id="d002.s060.t006">money</instance>
+<wf>is</wf>
+<instance id="d002.s060.t007">minimal</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s061">
+<instance id="d002.s061.t000">Decades</instance>
+<wf>of</wf>
+<instance id="d002.s061.t001">educational</instance>
+<instance id="d002.s061.t002">research</instance>
+<instance id="d002.s061.t003">tell</instance>
+<wf>us</wf>
+<instance id="d002.s061.t004">unequivocally</instance>
+<wf>that</wf>
+<instance id="d002.s061.t005">even</instance>
+<instance id="d002.s061.t006">smaller</instance>
+<instance id="d002.s061.t007">classes</instance>
+<wf>have</wf>
+<wf>zero</wf>
+<instance id="d002.s061.t008">effect</instance>
+<wf>on</wf>
+<wf>the</wf>
+<instance id="d002.s061.t009">academic</instance>
+<instance id="d002.s061.t010">performance</instance>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d002.s061.t011">pupils</instance>
+<wf>--</wf>
+<wf>though</wf>
+<wf>they</wf>
+<wf>may</wf>
+<instance id="d002.s061.t012">sometimes</instance>
+<wf>be</wf>
+<instance id="d002.s061.t013">desirable</instance>
+<wf>for</wf>
+<instance id="d002.s061.t014">other</instance>
+<instance id="d002.s061.t015">reasons</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s062">
+<wf>The</wf>
+<instance id="d002.s062.t000">new</instance>
+<instance id="d002.s062.t001">money</instance>
+<instance id="d002.s062.t002">flows</instance>
+<wf>into</wf>
+<wf>the</wf>
+<instance id="d002.s062.t003">already</instance>
+<instance id="d002.s062.t004">top-heavy</instance>
+<instance id="d002.s062.t005">administrative</instance>
+<instance id="d002.s062.t006">structure</instance>
+<wf>,</wf>
+<wf>which</wf>
+<wf>busies</wf>
+<wf>itself</wf>
+<instance id="d002.s062.t007">piling</instance>
+<instance id="d002.s062.t008">more</instance>
+<wf>and</wf>
+<instance id="d002.s062.t009">more</instance>
+<instance id="d002.s062.t010">paper work</instance>
+<wf>on</wf>
+<wf>the</wf>
+<instance id="d002.s062.t011">teachers</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s063">
+<wf>There</wf>
+<wf>is</wf>
+<wf>neither</wf>
+<instance id="d002.s063.t000">mystery</instance>
+<wf>nor</wf>
+<instance id="d002.s063.t001">paradox</instance>
+<wf>in</wf>
+<wf>the</wf>
+<instance id="d002.s063.t002">fact</instance>
+<wf>that</wf>
+<wf>as</wf>
+<instance id="d002.s063.t003">educational</instance>
+<instance id="d002.s063.t004">expenditures</instance>
+<wf>(</wf>
+<wf>in</wf>
+<instance id="d002.s063.t005">real</instance>
+<wf>terms</wf>
+<wf>)</wf>
+<wf>have</wf>
+<instance id="d002.s063.t006">increased</instance>
+<instance id="d002.s063.t007">sharply</instance>
+<wf>in</wf>
+<wf>the</wf>
+<instance id="d002.s063.t008">past</instance>
+<wf>quarter-of-a-century</wf>
+<wf>--</wf>
+<wf>we</wf>
+<instance id="d002.s063.t009">now</instance>
+<instance id="d002.s063.t010">spend</instance>
+<instance id="d002.s063.t011">more</instance>
+<wf>per</wf>
+<instance id="d002.s063.t012">pupil</instance>
+<wf>than</wf>
+<wf>any</wf>
+<instance id="d002.s063.t013">other</instance>
+<instance id="d002.s063.t014">country</instance>
+<wf>in</wf>
+<wf>the</wf>
+<wf>world</wf>
+<wf>--</wf>
+<instance id="d002.s063.t015">educational</instance>
+<instance id="d002.s063.t016">performance</instance>
+<wf>has</wf>
+<instance id="d002.s063.t017">declined</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s064">
+<wf>That</wf>
+<wf>is</wf>
+<wf>the</wf>
+<instance id="d002.s064.t000">way</instance>
+<wf>the</wf>
+<wf>system</wf>
+<instance id="d002.s064.t001">works</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s065">
+<wf>--</wf>
+<instance id="d002.s065.t000">Students</instance>
+<wf>should</wf>
+<wf>move</wf>
+<wf>up</wf>
+<wf>the</wf>
+<instance id="d002.s065.t001">educational</instance>
+<wf>ladder</wf>
+<wf>as</wf>
+<wf>their</wf>
+<instance id="d002.s065.t002">academic</instance>
+<instance id="d002.s065.t003">potential</instance>
+<instance id="d002.s065.t004">allows</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s066">
+<wf>No</wf>
+<instance id="d002.s066.t000">student</instance>
+<wf>should</wf>
+<wf>be</wf>
+<instance id="d002.s066.t001">permitted</instance>
+<wf>to</wf>
+<wf>be</wf>
+<instance id="d002.s066.t002">graduated</instance>
+<wf>from</wf>
+<instance id="d002.s066.t003">elementary school</instance>
+<wf>without</wf>
+<wf>having</wf>
+<instance id="d002.s066.t004">mastered</instance>
+<wf>the</wf>
+<wf>3</wf>
+<wf>R</wf>
+<wf>&apos;s</wf>
+<wf>at</wf>
+<wf>the</wf>
+<instance id="d002.s066.t005">level</instance>
+<wf>that</wf>
+<instance id="d002.s066.t006">prevailed</instance>
+<wf>20</wf>
+<instance id="d002.s066.t007">years</instance>
+<wf>ago</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s067">
+<wf>This</wf>
+<instance id="d002.s067.t000">means</instance>
+<wf>``</wf>
+<wf>tracking</wf>
+<wf>,</wf>
+<wf>``</wf>
+<wf>whose</wf>
+<instance id="d002.s067.t001">main</instance>
+<instance id="d002.s067.t002">purpose</instance>
+<wf>is</wf>
+<instance id="d002.s067.t003">less</instance>
+<wf>to</wf>
+<instance id="d002.s067.t004">permit</instance>
+<wf>the</wf>
+<instance id="d002.s067.t005">gifted</instance>
+<instance id="d002.s067.t006">youngsters</instance>
+<wf>to</wf>
+<instance id="d002.s067.t007">flourish</instance>
+<wf>(</wf>
+<wf>though</wf>
+<wf>that</wf>
+<wf>is</wf>
+<instance id="d002.s067.t008">clearly</instance>
+<instance id="d002.s067.t009">desirable</instance>
+<wf>)</wf>
+<wf>than</wf>
+<wf>to</wf>
+<wf>ensure</wf>
+<wf>that</wf>
+<wf>the</wf>
+<instance id="d002.s067.t010">less</instance>
+<instance id="d002.s067.t011">gifted</instance>
+<instance id="d002.s067.t012">get</instance>
+<wf>the</wf>
+<instance id="d002.s067.t013">necessary</instance>
+<wf>grounding</wf>
+<wf>for</wf>
+<wf>further</wf>
+<instance id="d002.s067.t014">study</instance>
+<wf>or</wf>
+<wf>for</wf>
+<instance id="d002.s067.t015">entering</instance>
+<wf>the</wf>
+<instance id="d002.s067.t016">modern</instance>
+<instance id="d002.s067.t017">world</instance>
+<wf>of</wf>
+<instance id="d002.s067.t018">work</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s068">
+<wf>The</wf>
+<instance id="d002.s068.t000">notion</instance>
+<wf>that</wf>
+<wf>tracking</wf>
+<wf>is</wf>
+<instance id="d002.s068.t001">somehow</instance>
+<wf>``</wf>
+<instance id="d002.s068.t002">undemocratic</instance>
+<wf>``</wf>
+<wf>is</wf>
+<instance id="d002.s068.t003">absurd</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s069">
+<wf>The</wf>
+<instance id="d002.s069.t000">purpose</instance>
+<wf>of</wf>
+<instance id="d002.s069.t001">education</instance>
+<wf>is</wf>
+<wf>to</wf>
+<instance id="d002.s069.t002">encourage</instance>
+<instance id="d002.s069.t003">young</instance>
+<instance id="d002.s069.t004">men</instance>
+<wf>and</wf>
+<instance id="d002.s069.t005">women</instance>
+<wf>to</wf>
+<instance id="d002.s069.t006">realize</instance>
+<wf>their</wf>
+<instance id="d002.s069.t007">full</instance>
+<instance id="d002.s069.t008">academic</instance>
+<instance id="d002.s069.t009">potential</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s070">
+<wf>No</wf>
+<wf>one</wf>
+<wf>in</wf>
+<wf>his</wf>
+<wf>right</wf>
+<wf>mind</wf>
+<instance id="d002.s070.t000">actually</instance>
+<instance id="d002.s070.t001">believes</instance>
+<wf>that</wf>
+<wf>we</wf>
+<wf>all</wf>
+<wf>have</wf>
+<wf>an</wf>
+<instance id="d002.s070.t002">equal</instance>
+<instance id="d002.s070.t003">academic</instance>
+<instance id="d002.s070.t004">potential</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s071">
+<wf>--</wf>
+<wf>It</wf>
+<wf>is</wf>
+<instance id="d002.s071.t000">generally</instance>
+<instance id="d002.s071.t001">desirable</instance>
+<wf>to</wf>
+<instance id="d002.s071.t002">use</instance>
+<wf>older</wf>
+<instance id="d002.s071.t003">textbooks</instance>
+<wf>--</wf>
+<instance id="d002.s071.t004">many</instance>
+<wf>of</wf>
+<wf>them</wf>
+<wf>,</wf>
+<wf>alas</wf>
+<wf>,</wf>
+<wf>out</wf>
+<wf>of</wf>
+<wf>print</wf>
+<wf>--</wf>
+<instance id="d002.s071.t005">rather</instance>
+<wf>than</wf>
+<instance id="d002.s071.t006">newer</instance>
+<instance id="d002.s071.t007">ones</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s072">
+<wf>The</wf>
+<instance id="d002.s072.t000">latter</instance>
+<wf>are</wf>
+<instance id="d002.s072.t001">modish</instance>
+<wf>,</wf>
+<instance id="d002.s072.t002">trendy</instance>
+<wf>,</wf>
+<instance id="d002.s072.t003">often</instance>
+<instance id="d002.s072.t004">downright</instance>
+<instance id="d002.s072.t005">silly</instance>
+<wf>,</wf>
+<wf>and</wf>
+<wf>at</wf>
+<instance id="d002.s072.t006">best</instance>
+<instance id="d002.s072.t007">insubstantial</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s073">
+<wf>They</wf>
+<wf>are</wf>
+<wf>based</wf>
+<wf>on</wf>
+<instance id="d002.s073.t000">dubious</instance>
+<instance id="d002.s073.t001">psychological</instance>
+<wf>and</wf>
+<instance id="d002.s073.t002">sociological</instance>
+<instance id="d002.s073.t003">theories</instance>
+<instance id="d002.s073.t004">rather</instance>
+<wf>than</wf>
+<wf>on</wf>
+<instance id="d002.s073.t005">educational</instance>
+<instance id="d002.s073.t006">experience</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s074">
+<wf>One</wf>
+<wf>of</wf>
+<wf>the</wf>
+<instance id="d002.s074.t000">reasons</instance>
+<instance id="d002.s074.t001">American</instance>
+<instance id="d002.s074.t002">students</instance>
+<wf>do</wf>
+<instance id="d002.s074.t003">so</instance>
+<instance id="d002.s074.t004">poorly</instance>
+<wf>in</wf>
+<instance id="d002.s074.t005">math</instance>
+<wf>tests</wf>
+<wf>,</wf>
+<wf>as</wf>
+<instance id="d002.s074.t006">compared</instance>
+<wf>with</wf>
+<instance id="d002.s074.t007">British</instance>
+<wf>,</wf>
+<instance id="d002.s074.t008">French</instance>
+<wf>,</wf>
+<instance id="d002.s074.t009">German</instance>
+<wf>or</wf>
+<instance id="d002.s074.t010">Japanese</instance>
+<instance id="d002.s074.t011">students</instance>
+<wf>,</wf>
+<wf>is</wf>
+<wf>the</wf>
+<instance id="d002.s074.t012">influence</instance>
+<wf>of</wf>
+<wf>the</wf>
+<wf>``</wf>
+<wf>New</wf>
+<wf>Math</wf>
+<wf>``</wf>
+<wf>on</wf>
+<instance id="d002.s074.t013">American</instance>
+<instance id="d002.s074.t014">textbooks</instance>
+<wf>and</wf>
+<instance id="d002.s074.t015">teaching</instance>
+<instance id="d002.s074.t016">methods</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s075">
+<wf>Anyone</wf>
+<wf>who</wf>
+<instance id="d002.s075.t000">wants</instance>
+<wf>to</wf>
+<instance id="d002.s075.t001">appreciate</instance>
+<instance id="d002.s075.t002">just</instance>
+<wf>how</wf>
+<instance id="d002.s075.t003">bizarre</instance>
+<wf>this</wf>
+<instance id="d002.s075.t004">situation</instance>
+<wf>is</wf>
+<wf>--</wf>
+<wf>with</wf>
+<instance id="d002.s075.t005">students</instance>
+<wf>who</wf>
+<wf>ca</wf>
+<wf>not</wf>
+<instance id="d002.s075.t006">add</instance>
+<wf>or</wf>
+<instance id="d002.s075.t007">subtract</instance>
+<wf>``</wf>
+<instance id="d002.s075.t008">learning</instance>
+<wf>``</wf>
+<wf>the</wf>
+<instance id="d002.s075.t009">conceptual</instance>
+<instance id="d002.s075.t010">basis</instance>
+<wf>of</wf>
+<instance id="d002.s075.t011">mathematical</instance>
+<instance id="d002.s075.t012">theory</instance>
+<wf>--</wf>
+<wf>should</wf>
+<instance id="d002.s075.t013">read</instance>
+<wf>the</wf>
+<instance id="d002.s075.t014">article</instance>
+<wf>by</wf>
+<wf>Caleb</wf>
+<wf>Nelson</wf>
+<wf>(</wf>
+<wf>himself</wf>
+<wf>a</wf>
+<instance id="d002.s075.t015">recent</instance>
+<instance id="d002.s075.t016">math</instance>
+<instance id="d002.s075.t017">major</instance>
+<wf>at</wf>
+<wf>Harvard</wf>
+<wf>)</wf>
+<wf>in</wf>
+<wf>the</wf>
+<wf>November</wf>
+<wf>American</wf>
+<wf>Spectator</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s076">
+<wf>--</wf>
+<instance id="d002.s076.t000">Most</instance>
+<instance id="d002.s076.t001">important</instance>
+<wf>of</wf>
+<wf>all</wf>
+<wf>,</wf>
+<instance id="d002.s076.t002">schools</instance>
+<wf>should</wf>
+<wf>have</wf>
+<instance id="d002.s076.t003">principals</instance>
+<wf>with</wf>
+<wf>a</wf>
+<instance id="d002.s076.t004">large</instance>
+<instance id="d002.s076.t005">measure</instance>
+<wf>of</wf>
+<instance id="d002.s076.t006">authority</instance>
+<wf>over</wf>
+<wf>the</wf>
+<instance id="d002.s076.t007">faculty</instance>
+<wf>,</wf>
+<wf>the</wf>
+<instance id="d002.s076.t008">curriculum</instance>
+<wf>,</wf>
+<wf>and</wf>
+<wf>all</wf>
+<instance id="d002.s076.t009">matters</instance>
+<wf>of</wf>
+<instance id="d002.s076.t010">student</instance>
+<wf>discipline</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s077">
+<instance id="d002.s077.t000">Study</instance>
+<wf>after</wf>
+<instance id="d002.s077.t001">study</instance>
+<wf>--</wf>
+<wf>the</wf>
+<instance id="d002.s077.t002">most</instance>
+<instance id="d002.s077.t003">recent</instance>
+<wf>from</wf>
+<wf>the</wf>
+<wf>Brookings</wf>
+<wf>Institution</wf>
+<wf>--</wf>
+<instance id="d002.s077.t004">tells</instance>
+<wf>us</wf>
+<wf>that</wf>
+<wf>the</wf>
+<instance id="d002.s077.t005">best</instance>
+<instance id="d002.s077.t006">schools</instance>
+<wf>are</wf>
+<wf>those</wf>
+<wf>that</wf>
+<wf>are</wf>
+<wf>free</wf>
+<wf>of</wf>
+<instance id="d002.s077.t007">outside</instance>
+<instance id="d002.s077.t008">interference</instance>
+<wf>and</wf>
+<wf>are</wf>
+<instance id="d002.s077.t009">governed</instance>
+<wf>by</wf>
+<wf>a</wf>
+<instance id="d002.s077.t010">powerful</instance>
+<instance id="d002.s077.t011">head</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s078">
+<wf>With</wf>
+<wf>that</wf>
+<instance id="d002.s078.t000">authority</instance>
+<wf>,</wf>
+<instance id="d002.s078.t001">of course</instance>
+<wf>,</wf>
+<instance id="d002.s078.t002">goes</instance>
+<wf>an</wf>
+<instance id="d002.s078.t003">unambiguous</instance>
+<instance id="d002.s078.t004">accountability</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s079">
+<instance id="d002.s079.t000">Schools</instance>
+<wf>that</wf>
+<wf>are</wf>
+<instance id="d002.s079.t001">structured</instance>
+<wf>in</wf>
+<wf>this</wf>
+<instance id="d002.s079.t002">way</instance>
+<instance id="d002.s079.t003">produce</instance>
+<instance id="d002.s079.t004">students</instance>
+<wf>with</wf>
+<instance id="d002.s079.t005">higher</instance>
+<instance id="d002.s079.t006">morale</instance>
+<wf>and</wf>
+<instance id="d002.s079.t007">superior</instance>
+<instance id="d002.s079.t008">academic</instance>
+<instance id="d002.s079.t009">performance</instance>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s080">
+<wf>This</wf>
+<wf>is</wf>
+<wf>a</wf>
+<instance id="d002.s080.t000">fact</instance>
+<wf>--</wf>
+<wf>though</wf>
+<wf>,</wf>
+<wf>in</wf>
+<wf>view</wf>
+<wf>of</wf>
+<wf>all</wf>
+<wf>the</wf>
+<wf>feathers</wf>
+<wf>that</wf>
+<wf>are</wf>
+<instance id="d002.s080.t001">ruffled</instance>
+<wf>by</wf>
+<wf>this</wf>
+<instance id="d002.s080.t002">fact</instance>
+<wf>,</wf>
+<wf>it</wf>
+<wf>is</wf>
+<wf>not</wf>
+<instance id="d002.s080.t003">surprising</instance>
+<wf>that</wf>
+<instance id="d002.s080.t004">one</instance>
+<wf>hears</wf>
+<instance id="d002.s080.t005">so</instance>
+<wf>little</wf>
+<wf>about</wf>
+<wf>it</wf>
+<wf>.</wf>
+</sentence>
+<sentence id="d002.s081">
+<wf>Mr.</wf>
+<wf>Kristol</wf>
+<wf>,</wf>
+<wf>an</wf>
+<wf>American</wf>
+<wf>Enterprise</wf>
+<wf>Institute</wf>
+<wf>fellow</wf>
+<wf>,</wf>
+<wf>co-edits</wf>
+<wf>The</wf>
+<wf>Public</wf>
+<wf>Interest</wf>
+<wf>and</wf>
+<instance id="d002.s081.t000">publishes</instance>
+<wf>The</wf>
+<wf>National</wf>
+<wf>Interest</wf>
+<wf>.</wf>
+</sentence>
+</text>
+</corpus>
