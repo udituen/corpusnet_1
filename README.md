@@ -1,5 +1,5 @@
-# CorpusNet
-This project makes use of the IMS model to disambiguate words in English. by extracting the senses related to each input word.
+## CorpusNet
+This project makes use of a wsd model to disambiguate words in English. by extracting the senses related to each input word.
 
 
 >Tasks involved
@@ -11,7 +11,7 @@ This project makes use of the IMS model to disambiguate words in English. by ext
 >>output files
 >>evaluate
 
-# To execute
+## To execute
 
 >> python3 src/main.py --train data/<trainfile> --test data/<testfile> --output output/dev.senses.txt
 
